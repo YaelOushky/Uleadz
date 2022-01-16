@@ -1,0 +1,1077 @@
+/* screen - homepage-mobile-op-2 */
+
+.homepage-mobile-op-2 {
+  align-items: center;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 30px 0;
+  width: 375px;
+}
+
+.homepage-mobile-op-2 .flex-row {
+  align-items: center;
+  display: flex;
+  min-width: 315px;
+}
+
+.image-11 {
+    height: 28px;
+    object-fit: cover;
+    width: 90px;
+    z-index: 2;
+    top: 35px;
+    position: absolute;
+    margin-inline-start: 38px;
+}
+
+/* .menu {
+  height: 32px;
+  margin-left: 193px;
+  width: 32px;*/
+/*}*/
+.menu {
+    height: 32px;
+    width: 32px;
+    float: right;
+    margin: 30px;
+}
+
+.homepage-mobile-op-2 .overlap-group9 {
+  align-self: flex-start;
+  height: 580px;
+  margin-left: -63px;
+  margin-top: 93px;
+  position: relative;
+  width: 535px;
+}
+
+.homepage-mobile-op-2 .overlap-group {
+  background-image: url(../../lib/img/1207-vw50axrszwqtmg-1-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1056px;
+  left: -261px;
+  position: absolute;
+  top: -227px;
+  width: 1057px;
+}
+
+.homepage-mobile-op-2 .ellipse-21 {
+  background-color: var(--brilliant-rose-3);
+  border-radius: 151.51px/151.31px;
+  height: 303px;
+  left: 351px;
+  opacity: 0.2;
+  position: absolute;
+  top: 378px;
+  width: 303px;
+}
+
+.homepage-mobile-op-2 .coins2-1 {
+  height: 51px;
+  left: 335px;
+  object-fit: cover;
+  position: absolute;
+  top: 561px;
+  width: 51px;
+}
+
+.homepage-mobile-op-2 .coins2-2 {
+  height: 52px;
+  left: 622px;
+  object-fit: cover;
+  position: absolute;
+  top: 443px;
+  width: 51px;
+}
+
+.homepage-mobile-op-2 .coins2-5 {
+  height: 81px;
+  left: 573px;
+  object-fit: cover;
+  position: absolute;
+  top: 565px;
+  width: 81px;
+}
+
+.homepage-mobile-op-2 .iphone-12-pro-in-hand-free-mockup-1 {
+  height: 496px;
+  left: 312px;
+  position: absolute;
+  top: 311px;
+  width: 397px;
+}
+
+.homepage-mobile-op-2 .group-497 {
+  background-color: var(--brilliant-rose-4);
+  border-radius: 18.9px/18.87px;
+  display: flex;
+  height: 38px;
+  left: 357px;
+  position: absolute;
+  top: 426px;
+  width: 38px;
+}
+
+.homepage-mobile-op-2 .polygon-1 {
+  height: 10.5px;
+  margin-left: 14.1px;
+  margin-top: 13.3px;
+  width: 9px;
+}
+
+.homepage-mobile-op-2 .the-easiest-way-to-g {
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 44.2px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.homepage-mobile-op-2 .overlap-group8 {
+  align-items: center;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  min-height: 302px;
+  padding: 44px 0;
+  width: 375px;
+}
+
+.homepage-mobile-op-2 .schedule-jobs-get-p {
+  letter-spacing: 0;
+  min-height: 63px;
+  min-width: 367px;
+  opacity: 0.4;
+  text-align: center;
+}
+
+.homepage-mobile-op-2 .frame-2 {
+    align-items: flex-start;
+    background-color: var(--black);
+    border-radius: 16px;
+    display: flex;
+    height: 54px;
+    margin-top: 26px;
+    min-width: 311px;
+    padding: 15.0px 73.2px;
+    padding-top: 19px;
+}
+
+.homepage-mobile-op-2 .vector {
+    align-self: center;
+    height: 14px;
+    width: 14px;
+    margin-bottom: 7px;
+}
+
+.homepage-mobile-op-2 .download-for-i-os {
+  letter-spacing: 0;
+  margin-left: 14px;
+  min-height: 24px;
+}
+
+.homepage-mobile-op-2 .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../../lib/img/frame-3-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 54px;
+  margin-top: 16px;
+  min-width: 311px;
+  padding: 13.0px 43.0px;
+  padding-top:19px;
+}
+
+.homepage-mobile-op-2 .group-2 {
+  align-self: center;
+  height: 12px;
+  margin-bottom: 0.5px;
+  width: 24px;
+  margin-bottom: 7px;
+}
+
+.homepage-mobile-op-2 .download-for-android {
+  letter-spacing: 0;
+  margin-left: 11px;
+  min-height: 28px;
+  width: 189px;
+}
+
+.homepage-mobile-op-2 .group-1736 {
+  align-items: flex-start;
+  display: flex;
+  height: 1392px;
+  margin-left: 2.0px;
+  margin-top: 2px;
+  min-width: 377px;
+}
+
+.homepage-mobile-op-2 .overlap-group3 {
+  align-items: center;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  min-height: 1392px;
+  padding: 40px 28px;
+  width: 375px;
+}
+
+.homepage-mobile-op-2 .get-your-business-under-control {
+  letter-spacing: 0;
+  line-height: 36.4px;
+  margin-right: 1.0px;
+  min-height: 72px;
+  min-width: 252px;
+  text-align: center;
+}
+
+.homepage-mobile-op-2 .overlap-group-1 {
+  align-self: flex-end;
+  height: 340px;
+  margin-top: 40px;
+  position: relative;
+  width: 317px;
+}
+
+.homepage-mobile-op-2 .rectangle-171 {
+  background-color: var(--ffffff);
+  border-radius: 26.12px;
+  height: 340px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 316px;
+}
+
+.homepage-mobile-op-2 .enhance-your-management-team {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 26.0px;
+  position: absolute;
+  top: 125px;
+}
+
+.homepage-mobile-op-2 .maximize-your-manage {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  opacity: 0.5;
+  position: absolute;
+  top: 197px;
+}
+
+.homepage-mobile-op-2 .graphic_1-1-1 {
+  height: 74px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 74px;
+}
+
+.homepage-mobile-op-2 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 26.12px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 40px;
+  min-height: 340px;
+  padding: 26.0px 15px;
+  width: 316px;
+}
+
+.homepage-mobile-op-2 .graphic_1-1-2 {
+  height: 75px;
+  margin-left: 0.35px;
+  object-fit: cover;
+  width: 76px;
+}
+
+.homepage-mobile-op-2 .set-jobs-up-for-success {
+  letter-spacing: 0;
+  line-height: 26.0px;
+  margin-left: 12.86px;
+  margin-top: 24px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.homepage-mobile-op-2 .easily-manage-hundre {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 19px;
+  min-height: 50px;
+  min-width: 273px;
+  opacity: 0.5;
+}
+
+.homepage-mobile-op-2 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 26.12px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 40px;
+  min-height: 351px;
+  padding: 21.5px 0.1px;
+  width: 316px;
+}
+
+.homepage-mobile-op-2 .graphic_1-1-3 {
+  height: 90px;
+  margin-left: 16.17px;
+  object-fit: cover;
+  width: 88px;
+}
+
+.homepage-mobile-op-2 .invoice-and-get-paid {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 26.0px;
+  margin-right: 52.29px;
+  margin-top: 14px;
+  min-height: 26px;
+  min-width: 208px;
+  white-space: nowrap;
+}
+
+.homepage-mobile-op-2 .uleadz-field-service {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 20px;
+  min-height: 100px;
+  min-width: 288px;
+  opacity: 0.5;
+}
+
+.homepage-mobile-op-2 .frame-4 {
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 49px;
+  margin-left: 6.0px;
+  margin-top: 40px;
+  width: 139px;
+}
+
+.homepage-mobile-op-2 .browse-more {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 25px;
+  margin-top: 14px;
+  width: 89px;
+}
+
+.homepage-mobile-op-2 .group-1740 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 30px;
+  margin-left: 26px;
+  margin-top: 47px;
+  min-width: 251px;
+}
+
+.homepage-mobile-op-2 .internet {
+  height: 28px;
+  margin-top: -0.18px;
+  width: 29px;
+}
+
+.homepage-mobile-op-2 .automate-your-day {
+  align-self: flex-end;
+  height: 29px;
+  letter-spacing: 0;
+  line-height: 29.4px;
+  margin-left: 15px;
+  min-width: 205px;
+  white-space: nowrap;
+}
+
+.homepage-mobile-op-2 .group-1742 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 34px;
+  min-width: 320px;
+}
+
+.homepage-mobile-op-2 .overlap-group5 {
+  height: 385px;
+  margin-top: -0.07px;
+  position: relative;
+  width: 320px;
+}
+
+.homepage-mobile-op-2 .ellipse-22 {
+  background-color: var(--royal-blue);
+  border-radius: 150.77px/150.68px;
+  height: 301px;
+  left: 4px;
+  opacity: 0.2;
+  position: absolute;
+  top: 84px;
+  width: 302px;
+}
+
+.homepage-mobile-op-2 .coins2-3 {
+  height: 48px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 179px;
+  width: 48px;
+}
+
+.homepage-mobile-op-2 .coins2-4 {
+  height: 48px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 48px;
+}
+
+.homepage-mobile-op-2 .mansgement-1 {
+  height: 310px;
+  left: 75px;
+  position: absolute;
+  top: 0;
+  width: 158px;
+}
+
+.homepage-mobile-op-2 .group-1763 {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 399px;
+  margin-right: 11.28px;
+  margin-top: 39px;
+  width: 328px;
+}
+
+.homepage-mobile-op-2 .lorem-ipsum-dolor-si {
+  height: 132px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  opacity: 0.4;
+  width: 310px;
+}
+
+.homepage-mobile-op-2 .group-1760 {
+  display: flex;
+  margin-top: 24px;
+  width: 327.72px;
+}
+
+.homepage-mobile-op-2 .group-282 {
+  align-items: flex-end;
+  background-color: var(--brilliant-rose-2);
+  border-radius: 12.32px;
+  display: flex;
+  height: 24.63px;
+  margin-top: 2.3px;
+  min-width: 24.63px;
+  padding: 4.9px 5.1px;
+}
+
+.homepage-mobile-op-2 .friends {
+  height: 14px;
+  width: 14px;
+}
+
+.homepage-mobile-op-2 .instantly-fill-out-f {
+  height: 44px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 13.1px;
+  width: 288px;
+}
+
+.homepage-mobile-op-2 .group-1761 {
+  display: flex;
+  margin-top: 32px;
+  width: 286.72px;
+}
+
+.homepage-mobile-op-2 .group-282-1 {
+  align-items: flex-start;
+  background-color: var(--brilliant-rose-2);
+  border-radius: 12.32px;
+  display: flex;
+  height: 24.63px;
+  margin-top: 2.3px;
+  min-width: 24.63px;
+  padding: 4.6px 5.1px;
+}
+
+.homepage-mobile-op-2 .alert-technicians-of {
+  height: 44px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 13.1px;
+  width: 247px;
+}
+
+.homepage-mobile-op-2 .group-1762 {
+  display: flex;
+  margin-top: 32px;
+  width: 259.72px;
+}
+
+.homepage-mobile-op-2 .group-282-2 {
+  align-items: flex-start;
+  background-color: var(--brilliant-rose-2);
+  border-radius: 12.32px;
+  display: flex;
+  height: 24.63px;
+  min-width: 24.63px;
+  padding: 4.8px 5.1px;
+}
+
+.homepage-mobile-op-2 .automate-customer-reminders {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 13.1px;
+  margin-top: 2.3px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.homepage-mobile-op-2 .frame-16 {
+  background-color: var(--brilliant-rose);
+  border-radius: 33.97px;
+  display: flex;
+  height: 42.12px;
+  margin-top: 24.4px;
+  width: 111.41px;
+}
+
+.homepage-mobile-op-2 .learn-more {
+  height: 14.95px;
+  letter-spacing: 0;
+  line-height: 14.0px;
+  margin-left: 27.2px;
+  margin-top: 13.6px;
+  text-align: center;
+  white-space: nowrap;
+  width: 57.06px;
+}
+
+.homepage-mobile-op-2 .group-1747 {
+  background-color: var(--alabaster);
+  display: flex;
+  height: 1580px;
+  margin-top: 52px;
+  width: 375px;
+}
+
+.homepage-mobile-op-2 .group-1746 {
+  display: flex;
+  flex-direction: column;
+  height: 1485.13px;
+  margin-left: 14px;
+  margin-top: 50px;
+  width: 349px;
+}
+
+.homepage-mobile-op-2 .top-features-weve {
+  height: 117px;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  margin-left: 2px;
+  text-align: center;
+  width: 344px;
+}
+
+.homepage-mobile-op-2 .group-492 {
+  display: flex;
+  flex-direction: column;
+  height: 283px;
+  margin-left: 9px;
+  margin-top: 59px;
+  width: 329px;
+}
+
+.homepage-mobile-op-2 .coins2-5-1 {
+  height: 157.5px;
+  margin-left: 86.0px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 157.5px;
+}
+
+.homepage-mobile-op-2 .group-489 {
+  display: flex;
+  flex-direction: column;
+  height: 119px;
+  margin-top: 6.5px;
+  width: 333px;
+}
+
+.homepage-mobile-op-2 .scheduling-an-dispatching {
+  height: 36px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 329px;
+}
+
+.homepage-mobile-op-2 .send-the-right-techn {
+  height: 75px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-left: 15px;
+  margin-top: 8px;
+  opacity: 0.4;
+  text-align: center;
+  width: 299px;
+}
+
+.homepage-mobile-op-2 .group-1743 {
+  display: flex;
+  flex-direction: column;
+  height: 287.13px;
+  margin-top: 64.0px;
+  width: 347px;
+}
+
+.homepage-mobile-op-2 .coins2-5-2 {
+  height: 166.5px;
+  margin-left: 90.2px;
+  margin-top: -0.1px;
+  object-fit: cover;
+  width: 167px;
+}
+
+.homepage-mobile-op-2 .group-489-1 {
+  display: flex;
+  flex-direction: column;
+  height: 118.92px;
+  margin-top: 1.9px;
+  width: 351px;
+}
+
+.homepage-mobile-op-2 .estimates-and-invoicing {
+  height: 36px;
+  letter-spacing: 0;
+  margin-left: 27px;
+  text-align: center;
+  width: 293px;
+}
+
+.homepage-mobile-op-2 .email-or-fax-estimat {
+  height: 75px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 7.9px;
+  opacity: 0.4;
+  text-align: center;
+  width: 347px;
+}
+
+.homepage-mobile-op-2 .group-1744 {
+  display: flex;
+  flex-direction: column;
+  height: 273.13px;
+  margin-left: 2px;
+  margin-top: 63.9px;
+  width: 343px;
+}
+
+.homepage-mobile-op-2 .coins2-5-3 {
+  height: 139px;
+  margin-left: 102px;
+  margin-top: -0.1px;
+  object-fit: cover;
+  width: 139px;
+}
+
+.homepage-mobile-op-2 .group-489-2 {
+  display: flex;
+  flex-direction: column;
+  height: 118.92px;
+  margin-top: 15.4px;
+  width: 347px;
+}
+
+.homepage-mobile-op-2 .work-order-management {
+  height: 36px;
+  letter-spacing: 0;
+  margin-left: 16px;
+  text-align: center;
+  width: 311px;
+}
+
+.homepage-mobile-op-2 .manage-your-workforc {
+  height: 75px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 7.9px;
+  opacity: 0.4;
+  text-align: center;
+  width: 343px;
+}
+
+.homepage-mobile-op-2 .group-1745 {
+  display: flex;
+  flex-direction: column;
+  height: 273.13px;
+  margin-top: 64.9px;
+  width: 347px;
+}
+
+.homepage-mobile-op-2 .coins2-5-4 {
+  height: 139px;
+  margin-left: 104px;
+  margin-top: -0.1px;
+  object-fit: cover;
+  width: 139px;
+}
+
+.homepage-mobile-op-2 .group-489-3 {
+  display: flex;
+  flex-direction: column;
+  height: 118.92px;
+  margin-top: 15.4px;
+  width: 351px;
+}
+
+.homepage-mobile-op-2 .dashboard-and-analytics {
+  height: 36px;
+  letter-spacing: 0;
+  margin-left: 18px;
+  text-align: center;
+  width: 311px;
+}
+
+.homepage-mobile-op-2 .group-1740-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 20.0px;
+  margin-top: 74px;
+  min-width: 303px;
+}
+
+.homepage-mobile-op-2 .an-app-build-specifi {
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 29.4px;
+  margin-left: 15px;
+}
+
+.homepage-mobile-op-2 .group-1749 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 12.0px;
+  margin-top: 56px;
+  min-width: 337px;
+}
+
+.homepage-mobile-op-2 .overlap-group6 {
+  height: 307px;
+  margin-top: -0.23px;
+  position: relative;
+  width: 337px;
+}
+
+.homepage-mobile-op-2 .ellipse-23 {
+  background-color: #9a40f4;
+  border-radius: 153.85px/153.51px;
+  height: 307px;
+  left: 9px;
+  opacity: 0.2;
+  position: absolute;
+  top: 0;
+  width: 308px;
+}
+
+.homepage-mobile-op-2 .coins2-6 {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.homepage-mobile-op-2 .group-1-45 {
+  height: 164px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 287px;
+}
+
+.homepage-mobile-op-2 .coins2-5-5 {
+  height: 45px;
+  left: 292px;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 45px;
+}
+
+.homepage-mobile-op-2 .group-1756 {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 242px;
+  margin-right: 5px;
+  margin-top: 58px;
+  width: 334px;
+}
+
+.homepage-mobile-op-2 .l-uleadz-guarantees-t {
+  height: 176px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  opacity: 0.4;
+  width: 332px;
+}
+
+.homepage-mobile-op-2 .frame-16-1 {
+  background-color: var(--brilliant-rose);
+  border-radius: 33.97px;
+  display: flex;
+  height: 42.09px;
+  margin-top: 24px;
+  width: 111.41px;
+}
+
+.homepage-mobile-op-2 .group-1764 {
+  align-items: flex-start;
+  display: flex;
+  height: 724px;
+  margin-left: 4.0px;
+  margin-top: 42px;
+  min-width: 379px;
+}
+
+.homepage-mobile-op-2 .overlap-group7 {
+  align-items: center;
+  background-image: url(../../lib/img/rectangle-170-2@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 724px;
+  padding: 15px 25px;
+  width: 375px;
+}
+
+.homepage-mobile-op-2 .stay-ahead-of-the-ga {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 28.0px;
+  margin-top: 57px;
+  min-height: 109px;
+  min-width: 324px;
+  text-align: center;
+}
+
+.homepage-mobile-op-2 .span1 {
+  line-height: 39.2px;
+}
+
+.homepage-mobile-op-2 .frame-16-2 {
+  background-color: var(--black);
+  border-radius: 33px;
+  display: flex;
+  height: 42px;
+  margin-top: 32px;
+  width: 143px;
+}
+
+.homepage-mobile-op-2 .contact-us {
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-left: 21px;
+  margin-top: 8.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.homepage-mobile-op-2 .group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 9.0px;
+  margin-top: 60px;
+  min-width: 294px;
+}
+
+.homepage-mobile-op-2 .group-486 {
+  display: flex;
+  flex-direction: column;
+  height: 184px;
+  width: 112px;
+}
+
+.homepage-mobile-op-2 .place {
+  height: 24px;
+  letter-spacing: 0;
+  width: 48px;
+}
+
+.homepage-mobile-op-2 .why-uleadz {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 102px;
+}
+
+.homepage-mobile-op-2 .about-us {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 72px;
+}
+
+.homepage-mobile-op-2 .place-1 {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 66px;
+}
+
+.homepage-mobile-op-2 .pricing {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 54px;
+}
+
+.homepage-mobile-op-2 .group-485 {
+  display: flex;
+  flex-direction: column;
+  height: 144px;
+  margin-left: 65px;
+  width: 117px;
+}
+
+.homepage-mobile-op-2 .industries {
+  height: 24px;
+  letter-spacing: 0;
+  width: 78px;
+}
+
+.homepage-mobile-op-2 .terms-of-use {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 102px;
+}
+
+.homepage-mobile-op-2 .privacy-policy {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 109px;
+}
+
+.homepage-mobile-op-2 .support {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 64px;
+}
+
+.homepage-mobile-op-2 .group-144 {
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 54px;
+  width: 278px;
+}
+
+.homepage-mobile-op-2 .group-1759 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 50px;
+  padding: 0 18.7px;
+}
+
+.homepage-mobile-op-2 .group-143 {
+  height: 24px;
+  width: 12px;
+}
+
+.homepage-mobile-op-2 .group-1758 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 12.6px 12.4px;
+}
+
+.homepage-mobile-op-2 .group {
+  height: 24px;
+  width: 25px;
+}
+
+.homepage-mobile-op-2 .group-1757 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 14.5px 13px;
+}
+
+.homepage-mobile-op-2 .vector-1 {
+  height: 20px;
+  width: 24px;
+}
+
+.homepage-mobile-op-2 .group-1756-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 16.0px 13px;
+}
+
+.homepage-mobile-op-2 .group-1755 {
+  height: 18px;
+  width: 24px;
+}
+
+.homepage-mobile-op-2 .hellouleadzcom {
+  height: 24px;
+  letter-spacing: 0;
+  margin-left: 7.0px;
+  margin-top: 39px;
+  min-width: 148px;
+}
+
+.homepage-mobile-op-2 .uleadz1-1 {
+  height: 32px;
+  margin-left: 1.0px;
+  margin-top: 11px;
+  object-fit: cover;
+  width: 32px;
+}

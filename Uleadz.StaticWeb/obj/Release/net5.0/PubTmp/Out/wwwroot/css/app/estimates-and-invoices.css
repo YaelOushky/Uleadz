@@ -1,0 +1,1305 @@
+/* screen - estimates-and-invoices */
+
+.estimates-and-invoices {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  height: 5716px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.estimates-and-invoices .overlap-group13 {
+  height: 1863px;
+  margin-right: -979px;
+  margin-top: -315px;
+  position: relative;
+  width: 2372px;
+}
+
+.estimates-and-invoices .overlap-group11 {
+  height: 1863px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2372px;
+}
+
+.estimates-and-invoices .x1207_vw50a-x-rs-zw-qt-mg-1 {
+  height: 1621px;
+  left: 751px;
+  position: absolute;
+  top: 0;
+  width: 1621px;
+}
+
+.estimates-and-invoices .book-4 {
+  height: 130px;
+  left: 649px;
+  object-fit: cover;
+  position: absolute;
+  top: 584px;
+  width: 130px;
+}
+
+.estimates-and-invoices .rectangle-227 {
+  background-color: var(--ffffff);
+  height: 528px;
+  left: 27px;
+  position: absolute;
+  top: 1100px;
+  width: 1366px;
+}
+
+.estimates-and-invoices .group-1-45 {
+  height: 691px;
+  left: 728px;
+  position: absolute;
+  top: 409px;
+  width: 613px;
+}
+
+.estimates-and-invoices .group-587 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 414px;
+  min-width: 600px;
+  position: absolute;
+  top: 350px;
+}
+
+.estimates-and-invoices .place {
+  letter-spacing: -0.64px;
+  min-height: 24px;
+  min-width: 47px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .group-586 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 30px;
+  width: 89px;
+}
+
+.estimates-and-invoices .why-uleadz {
+  letter-spacing: -0.64px;
+  min-height: 24px;
+}
+
+.estimates-and-invoices .line-42 {
+  height: 2px;
+  margin-top: 5px;
+  width: 61px;
+}
+
+.estimates-and-invoices .industries {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 74px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .about-us {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 68px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .pricing {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 52px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .place-1 {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .mask-group {
+  height: 763px;
+  left: 0;
+  position: absolute;
+  top: 1100px;
+  width: 1515px;
+}
+
+.estimates-and-invoices .group-561 {
+  align-items: flex-start;
+  display: flex;
+  height: 429px;
+  left: 127px;
+  min-width: 500px;
+  position: absolute;
+  top: 1264px;
+}
+
+.estimates-and-invoices .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 368px;
+  width: 202px;
+}
+
+.estimates-and-invoices .overlap-group6 {
+  height: 208px;
+  position: relative;
+  width: 202px;
+}
+
+.estimates-and-invoices .ellipse-32 {
+  height: 202px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 202px;
+}
+
+.estimates-and-invoices .group-559 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border-radius: 7px;
+  box-shadow: 0px 0px 89px #00000012;
+  display: flex;
+  height: 46px;
+  left: 13px;
+  min-width: 178px;
+  padding: 0 8px;
+  position: absolute;
+  top: 162px;
+}
+
+.estimates-and-invoices .ellipse-36 {
+  height: 30px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.estimates-and-invoices .group-558 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  min-height: 30px;
+  width: 73px;
+}
+
+.estimates-and-invoices .name {
+  height: 14px;
+  letter-spacing: -0.40px;
+  line-height: 14.0px;
+  min-width: 69px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .profession {
+  height: 14px;
+  letter-spacing: -0.40px;
+  line-height: 14.0px;
+  margin-top: 2px;
+  min-width: 48px;
+  opacity: 0.3;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .ellipse-34 {
+  height: 145px;
+  margin-right: 15.0px;
+  margin-top: 15px;
+  object-fit: cover;
+  width: 145px;
+}
+
+.estimates-and-invoices .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 429px;
+  width: 298px;
+}
+
+.estimates-and-invoices .ellipse-33 {
+  height: 100px;
+  margin-left: 28px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.estimates-and-invoices .overlap-group5 {
+  height: 311px;
+  margin-top: 18px;
+  position: relative;
+  width: 298px;
+}
+
+.estimates-and-invoices .ellipse-35 {
+  height: 298px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 298px;
+}
+
+.estimates-and-invoices .group-560 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border-radius: 7px;
+  box-shadow: 0px 0px 89px #00000012;
+  display: flex;
+  height: 46px;
+  left: 107px;
+  min-width: 178px;
+  padding: 0 8px;
+  position: absolute;
+  top: 265px;
+}
+
+.estimates-and-invoices .group-565 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 719px;
+  min-height: 511px;
+  position: absolute;
+  top: 1223px;
+  width: 556px;
+}
+
+.estimates-and-invoices .creat-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 540px;
+}
+
+.estimates-and-invoices .create-estimates-bas {
+  color: var(--hunter-green);
+  font-family: var(--font-family-poppins);
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: -1.20px;
+  line-height: 45px;
+  min-height: 90px;
+}
+
+.estimates-and-invoices .the-process-to-creat {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 24px;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 31px;
+  min-width: 488px;
+}
+
+.estimates-and-invoices .group-56 {
+  height: 350px;
+  width: 45px;
+}
+
+.estimates-and-invoices .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-top: 5px;
+  min-height: 329px;
+  width: 423px;
+}
+
+.estimates-and-invoices .select-services-to-be-added-to-invoice {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .choose-inventory-items {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .enter-additional-wor {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .choose-estimate-as-the-payment-option {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .email-estimates-and {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .get-signed-approvals {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .book-5 {
+  height: 90px;
+  left: 1198px;
+  object-fit: cover;
+  position: absolute;
+  top: 855px;
+  width: 90px;
+}
+
+.estimates-and-invoices .image-1 {
+  height: 28px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 348px;
+  width: 90px;
+}
+
+.estimates-and-invoices .estimates-and-invoices-1 {
+  color: var(--hunter-green);
+  font-family: var(--font-family-poppins);
+  font-size: 60px;
+  font-weight: 500;
+  left: 127px;
+  letter-spacing: -2.40px;
+  line-height: 72.0px;
+  position: absolute;
+  top: 570px;
+}
+
+.estimates-and-invoices .send-quotations-and {
+  color: var(--hunter-green);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 127px;
+  letter-spacing: -0.60px;
+  line-height: 27.0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 738px;
+}
+
+.estimates-and-invoices .frame-16 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  left: 127px;
+  min-width: 180px;
+  padding: 0 48px;
+  position: absolute;
+  top: 866px;
+}
+
+.estimates-and-invoices .learn-more {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .group-container {
+  align-self: center;
+  height: 739px;
+  margin-top: 91px;
+  position: relative;
+  width: 1166px;
+}
+
+.estimates-and-invoices .group-564 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 618px;
+  position: absolute;
+  top: 61px;
+  width: 582px;
+}
+
+.estimates-and-invoices .create-invoices-with {
+  color: var(--hunter-green);
+  font-family: var(--font-family-poppins);
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: -1.20px;
+  line-height: 45px;
+  min-height: 45px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .the-ease-of-making-i {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 48px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 32px;
+  min-width: 508px;
+}
+
+.estimates-and-invoices .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-top: 5px;
+  min-height: 329px;
+  width: 443px;
+}
+
+.estimates-and-invoices .quickly-create-pdf-f {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .include-before-and-a {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .attach-documents {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .obtain-digital-signa {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .email-invoices-direc {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .attach-prepared-invo {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-top: 37px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .with-simplified-invo {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: -0.64px;
+  line-height: 27.2px;
+  margin-top: 46px;
+  min-height: 81px;
+}
+
+.estimates-and-invoices .span {
+  color: #808080;
+  letter-spacing: -0.10px;
+}
+
+.estimates-and-invoices .span1 {
+  letter-spacing: -0.10px;
+}
+
+.estimates-and-invoices .overlap-group7 {
+  height: 739px;
+  left: 558px;
+  position: absolute;
+  top: 0;
+  width: 608px;
+}
+
+.estimates-and-invoices .ellipse-22 {
+  background-color: var(--royal-blue);
+  height: 608px;
+  left: 0;
+  position: absolute;
+  top: 131px;
+  width: 608px;
+}
+
+.estimates-and-invoices .ellipse-24 {
+  background-color: var(--royal-blue);
+  height: 524px;
+  left: 42px;
+  position: absolute;
+  top: 173px;
+  width: 524px;
+}
+
+.estimates-and-invoices .ellipse-23 {
+  background-color: var(--royal-blue);
+  height: 432px;
+  left: 88px;
+  position: absolute;
+  top: 219px;
+  width: 432px;
+}
+
+.estimates-and-invoices .mansgement-1 {
+  height: 596px;
+  left: 119px;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.estimates-and-invoices .coins2-3 {
+  height: 78px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 78px;
+}
+
+.estimates-and-invoices .coins2-4 {
+  height: 78px;
+  left: 481px;
+  object-fit: cover;
+  position: absolute;
+  top: 141px;
+  width: 78px;
+}
+
+.estimates-and-invoices .overlap-group10 {
+  background-color: var(--baby-powder);
+  height: 777px;
+  margin-top: 134px;
+  position: relative;
+  width: 1366px;
+}
+
+.estimates-and-invoices .frame-17 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  left: 592px;
+  min-width: 183px;
+  padding: 0 48px;
+  position: absolute;
+  top: 359px;
+}
+
+.estimates-and-invoices .book-demo {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 87px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .choose-from-multiple-payment-options {
+  color: var(--hunter-green);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-weight: 500;
+  left: 241px;
+  letter-spacing: -1.92px;
+  line-height: 72px;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .provide-customers-th {
+  left: 378px;
+  letter-spacing: -0.72px;
+  line-height: 27px;
+  opacity: 0.5;
+  position: absolute;
+  text-align: center;
+  top: 184px;
+}
+
+.estimates-and-invoices .mask-group-1 {
+  height: 777px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.estimates-and-invoices .overlap-group8 {
+  height: 155px;
+  left: 913px;
+  position: absolute;
+  top: 521px;
+  width: 124px;
+}
+
+.estimates-and-invoices .ellipse-28 {
+  background-color: var(--blue-chalk-3);
+  border-radius: 62px;
+  height: 124px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 124px;
+}
+
+.estimates-and-invoices .book-4-1 {
+  height: 112px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.estimates-and-invoices .overlap-group9 {
+  height: 126px;
+  left: 362px;
+  position: absolute;
+  top: 589px;
+  width: 98px;
+}
+
+.estimates-and-invoices .ellipse-27 {
+  background-color: #f9e9e9;
+  border-radius: 49px;
+  height: 98px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 98px;
+}
+
+.estimates-and-invoices .book-3 {
+  height: 86px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.estimates-and-invoices .group-625 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-222@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 828px;
+  padding: 125px 101px;
+  width: 1367px;
+}
+
+.estimates-and-invoices .we-have-defined-a-co {
+  color: var(--hunter-green);
+  font-family: var(--font-family-poppins);
+  font-size: 36px;
+  font-weight: 500;
+  height: 135px;
+  letter-spacing: -1.80px;
+  line-height: 45px;
+}
+
+.estimates-and-invoices .line-22 {
+  height: 2px;
+  margin-top: 40px;
+  width: 416px;
+}
+
+.estimates-and-invoices .flex-row-2 {
+  align-items: center;
+  display: flex;
+  margin-top: 69px;
+  min-width: 283px;
+}
+
+.estimates-and-invoices .line-23 {
+  height: 2px;
+  width: 18px;
+}
+
+.estimates-and-invoices .what-is-an-invoice {
+  height: 30px;
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  margin-left: 52px;
+  min-width: 213px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .in-basic-terms-an-i {
+  color: var(--hunter-green);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: -1.00px;
+  line-height: 34.0px;
+  margin-left: 70px;
+  margin-top: 23px;
+  min-height: 68px;
+}
+
+.estimates-and-invoices .group-570 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 60px;
+  min-height: 103px;
+  opacity: 0.4;
+  width: 576px;
+}
+
+.estimates-and-invoices .group-569 {
+  align-items: center;
+  display: flex;
+  height: 30px;
+  min-width: 526px;
+}
+
+.estimates-and-invoices .line-container {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.estimates-and-invoices .line-24 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 18px;
+}
+
+.estimates-and-invoices .line-25 {
+  height: 18px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.estimates-and-invoices .when-is-the-best-tim {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  margin-left: 52px;
+  min-height: 30px;
+  min-width: 454px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .group-568 {
+  align-items: center;
+  display: flex;
+  height: 30px;
+  margin-top: 43px;
+  min-width: 578px;
+}
+
+.estimates-and-invoices .how-can-i-make-it-ea {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  margin-left: 52px;
+  min-height: 30px;
+  min-width: 506px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .group-573 {
+  align-items: flex-end;
+  background-color: var(--desert-storm);
+  display: flex;
+  flex-direction: column;
+  min-height: 908px;
+  padding: 65.5px 33px;
+  width: 1366px;
+}
+
+.estimates-and-invoices .group-525 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 52px;
+  min-height: 672px;
+  width: 1136px;
+}
+
+.estimates-and-invoices .packed-with-features {
+  color: var(--hunter-green);
+  font-family: var(--font-family-poppins);
+  font-size: 42px;
+  font-weight: 500;
+  letter-spacing: -1.68px;
+  line-height: 54.6px;
+  min-height: 110px;
+}
+
+.estimates-and-invoices .frame-17-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.estimates-and-invoices .frame-17-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 509px;
+  margin-top: 53px;
+  min-width: 1134px;
+  overflow-x: scroll;
+}
+
+.estimates-and-invoices .overlap-group {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  min-height: 509px;
+  padding: 35px 23px;
+  width: 350px;
+}
+
+.estimates-and-invoices .purse-1 {
+  height: 125px;
+  margin-left: 8px;
+  object-fit: cover;
+  width: 125px;
+}
+
+.estimates-and-invoices .job-profitability {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 24px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .estimates-invoices {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 28px 23px;
+  width: 350px;
+}
+
+.estimates-and-invoices .purse-2 {
+  height: 122px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 122px;
+}
+
+.estimates-and-invoices .customer-management {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 34px;
+  min-height: 88px;
+}
+
+.estimates-and-invoices .scheduling-dispatc {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 160px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 32px 23px;
+  width: 350px;
+}
+
+.estimates-and-invoices .purse-3 {
+  height: 118px;
+  margin-left: 4px;
+  object-fit: cover;
+  width: 118px;
+}
+
+.estimates-and-invoices .online-booking {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 34px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .file-photo-attachmen {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 27px 22px;
+  width: 350px;
+}
+
+.estimates-and-invoices .purse-3-1 {
+  height: 128px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.estimates-and-invoices .online-booking-1 {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 11px;
+  margin-top: 29px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .cloud-storage-i-os-a {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-left: 1px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.estimates-and-invoices .overlap-group4 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../../lib/img/line-43@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  margin-top: 50px;
+  min-width: 68px;
+}
+
+.estimates-and-invoices .line-44 {
+  height: 3px;
+  width: 52px;
+}
+
+.estimates-and-invoices .group-518 {
+  align-items: flex-start;
+  display: flex;
+  height: 691px;
+  margin-right: -2px;
+  min-width: 1368px;
+}
+
+.estimates-and-invoices .overlap-group4-1 {
+  height: 692px;
+  margin-top: -1px;
+  position: relative;
+  width: 1366px;
+}
+
+.estimates-and-invoices .rectangle-170 {
+  height: 691px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1366px;
+}
+
+.estimates-and-invoices .line-41 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.estimates-and-invoices .group-484 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 242px;
+  min-height: 243px;
+  position: absolute;
+  top: 92px;
+  width: 884px;
+}
+
+.estimates-and-invoices .stay-ahead-of-the-ga {
+  letter-spacing: -1.88px;
+  line-height: 75.2px;
+  margin-right: 2.0px;
+  min-height: 150px;
+  min-width: 882px;
+  text-align: center;
+}
+
+.estimates-and-invoices .frame-16-1 {
+  align-items: center;
+  background-color: var(--hunter-green);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-right: 2.0px;
+  margin-top: 31px;
+  min-width: 180px;
+  padding: 0 48px;
+}
+
+.estimates-and-invoices .contact-us {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.estimates-and-invoices .group-486 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 136px;
+  min-height: 184px;
+  position: absolute;
+  top: 398px;
+  width: 107px;
+}
+
+.estimates-and-invoices .place-2 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.estimates-and-invoices .why-uleadz-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.estimates-and-invoices .about-us-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.estimates-and-invoices .place-3 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.estimates-and-invoices .pricing-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.estimates-and-invoices .group-485 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 632px;
+  min-height: 144px;
+  position: absolute;
+  top: 398px;
+  width: 110px;
+}
+
+.estimates-and-invoices .industries-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.estimates-and-invoices .terms-of-use {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.estimates-and-invoices .privacy-policy {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.estimates-and-invoices .support {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.estimates-and-invoices .hellouleadzcom {
+  height: 24px;
+  left: 1105px;
+  letter-spacing: -0.48px;
+  position: absolute;
+  top: 486px;
+}
+
+.estimates-and-invoices .group-144 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 1119px;
+  min-width: 124px;
+  position: absolute;
+  top: 526px;
+}
+
+.estimates-and-invoices .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  min-width: 25px;
+  padding: 5.6px 8.7px;
+}
+
+.estimates-and-invoices .group-144-1 {
+  height: 13px;
+  width: 7px;
+}
+
+.estimates-and-invoices .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.7px 5.8px;
+}
+
+.estimates-and-invoices .group {
+  height: 12px;
+  width: 12px;
+}
+
+.estimates-and-invoices .overlap-group2-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.2px 2.3px;
+}
+
+.estimates-and-invoices .twitter-logowine-1 {
+  height: 13px;
+  width: 20px;
+}
+
+.estimates-and-invoices .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.2px 2.2px;
+}
+
+.estimates-and-invoices .you-tube-icon-almost-black-logowine-1 {
+  height: 15px;
+  width: 21px;
+}
+
+.estimates-and-invoices .uleadz1-1 {
+  height: 72px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 72px;
+}

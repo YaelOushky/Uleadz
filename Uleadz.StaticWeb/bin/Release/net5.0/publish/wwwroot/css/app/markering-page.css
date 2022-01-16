@@ -1,0 +1,2296 @@
+/* screen - markering-page */
+
+.markering-page {
+  align-items: center;
+  background-color: var(--baby-powder);
+  display: flex;
+  flex-direction: column;
+  height: 12705px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.markering-page .group-1676 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: -519px;
+  min-width: 1578px;
+}
+
+.markering-page .overlap-group5 {
+  background-image: url(../../lib/img/ellipse-28@1x.svg);
+  background-size: 100% 100%;
+  height: 1574px;
+  position: relative;
+  width: 1574px;
+}
+
+.markering-page .mask-group {
+  height: 1574px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1574px;
+}
+
+.markering-page .group-582 {
+  align-items: flex-start;
+  display: flex;
+  height: 62px;
+  left: 607px;
+  min-width: 364px;
+  position: absolute;
+  top: 927px;
+}
+
+.markering-page .frame-17 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 16px;
+  display: flex;
+  height: 62px;
+  min-width: 188px;
+  padding: 0 48px;
+}
+
+.markering-page .get-started {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  min-width: 92px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.markering-page .frame-16 {
+  align-items: center;
+  border-radius: 16px;
+  display: flex;
+  height: 62px;
+  margin-left: 22px;
+  min-width: 154px;
+  opacity: 0.5;
+  padding: 0 48px;
+}
+
+.markering-page .explore {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  min-width: 58px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.markering-page .image-1 {
+  height: 28px;
+  left: 172px;
+  object-fit: cover;
+  position: absolute;
+  top: 552px;
+  width: 90px;
+}
+
+.markering-page .there-is-a-better-way-to-grow {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 54px;
+  font-weight: 500;
+  left: 417px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 728px;
+}
+
+.markering-page .the-worlds-leading {
+  left: 440px;
+  letter-spacing: 0;
+  opacity: 0.5;
+  position: absolute;
+  text-align: center;
+  top: 841px;
+}
+
+.markering-page .rectangle-204 {
+  height: 65px;
+  left: 228px;
+  object-fit: cover;
+  position: absolute;
+  top: 899px;
+  width: 65px;
+}
+
+.markering-page .rectangle-205 {
+  height: 49px;
+  left: 1280px;
+  object-fit: cover;
+  position: absolute;
+  top: 1119px;
+  width: 49px;
+}
+
+.markering-page .rectangle-206 {
+  height: 60px;
+  left: 590px;
+  object-fit: cover;
+  position: absolute;
+  top: 1429px;
+  width: 60px;
+}
+
+.markering-page .rectangle-207 {
+  height: 60px;
+  left: 1270px;
+  object-fit: cover;
+  position: absolute;
+  top: 708px;
+  width: 60px;
+}
+
+.markering-page .group-1675 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.0px;
+  margin-top: 160px;
+  min-height: 253px;
+  width: 1198px;
+}
+
+.markering-page .trusted-by-companies-all-over-the-world {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 48.0px;
+  min-height: 48px;
+  min-width: 646px;
+}
+
+.markering-page .overlap-group6 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 20px;
+  box-shadow: 0px 0px 80px #0000000d;
+  display: flex;
+  height: 113px;
+  margin-right: 2.0px;
+  margin-top: 51px;
+  min-width: 1196px;
+  padding: 29.0px 72.0px;
+}
+
+.markering-page .group-144 {
+  height: 54px;
+  width: 1052px;
+}
+
+.markering-page .group-1673 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 2.0px;
+  margin-top: 33px;
+  min-width: 80px;
+}
+
+.markering-page .rectangle-265 {
+  background-color: var(--black);
+  border-radius: 50px;
+  height: 8px;
+  width: 16px;
+}
+
+.markering-page .ellipse-4 {
+  background-color: var(--mist-gray);
+  border-radius: 4px;
+  height: 8px;
+  margin-left: 8px;
+  width: 8px;
+}
+
+.markering-page .why-uleadz-3-cubes {
+  align-items: center;
+  background-color: #fff4fa;
+  display: flex;
+  flex-direction: column;
+  margin-top: 156px;
+  min-height: 979px;
+  padding: 121px 0;
+  width: 1366px;
+}
+
+.markering-page .group-1720 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.0px;
+  min-height: 182px;
+  width: 994px;
+}
+
+.markering-page .why-uleadz {
+  letter-spacing: 0;
+  line-height: 62.4px;
+  margin-right: 1.0px;
+  min-height: 62px;
+  min-width: 321px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.markering-page .uleadz-has-significa {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-right: 4.0px;
+  margin-top: 24px;
+  min-height: 96px;
+  min-width: 990px;
+  text-align: center;
+}
+
+.markering-page .group-1689 {
+  align-items: flex-start;
+  display: flex;
+  height: 477px;
+  margin-top: 78px;
+  min-width: 1216px;
+}
+
+.markering-page .your-container {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  min-height: 477px;
+  padding: 32px;
+  width: 384px;
+}
+
+.markering-page .customize-your-workflows {
+  letter-spacing: 0;
+  line-height: 44.2px;
+  margin-left: 4px;
+  margin-top: 29px;
+  min-height: 88px;
+}
+
+.markering-page .your-business-is-lik {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-top: 40px;
+  min-height: 256px;
+  opacity: 0.5;
+}
+
+.markering-page .group-1846 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-246@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+  min-height: 477px;
+  padding: 61px 9px;
+  width: 384px;
+}
+
+.markering-page .manage-business-communication {
+  align-self: center;
+  color: var(--ffffff);
+  font-family: var(--font-family-poppins);
+  font-size: 34px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44.2px;
+  margin-right: 10.0px;
+  min-height: 88px;
+  min-width: 302px;
+}
+
+.markering-page .never-miss-a-call-wi {
+  color: var(--ffffff);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-top: 40px;
+  min-height: 224px;
+  min-width: 343px;
+}
+
+.markering-page .pro-container {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+  min-height: 477px;
+  padding: 32px 17px;
+  width: 384px;
+}
+
+.markering-page .automate-your-business-processes {
+  letter-spacing: 0;
+  line-height: 44.2px;
+  margin-top: 29px;
+  min-height: 88px;
+  min-width: 331px;
+}
+
+.markering-page .eliminate-manual-pro {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-right: 25.0px;
+  margin-top: 40px;
+  min-height: 256px;
+  min-width: 295px;
+  opacity: 0.5;
+}
+
+.markering-page .product-integrations {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 156px;
+  min-height: 1000px;
+  width: 1476px;
+}
+
+.markering-page .group-1682 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.0px;
+  min-height: 150px;
+  width: 730px;
+}
+
+.markering-page .product-intergrations {
+  letter-spacing: 0;
+  line-height: 62.4px;
+  margin-left: 36.0px;
+  min-height: 62px;
+  min-width: 512px;
+  white-space: nowrap;
+}
+
+.markering-page .incorporate-marketin {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-right: 4.0px;
+  margin-top: 24px;
+  min-height: 64px;
+  min-width: 726px;
+  opacity: 0.5;
+  text-align: center;
+}
+
+.markering-page .rectangle-292 {
+  height: 746px;
+  margin-top: 20px;
+  object-fit: cover;
+  width: 1476px;
+}
+
+.markering-page .frame-23-1 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 65px;
+  margin-left: 1.0px;
+  margin-top: 19px;
+  min-width: 193px;
+  padding: 0 35px;
+}
+
+.markering-page .get-started-1 {
+  color: var(--ffffff);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 27px;
+  min-width: 103px;
+  white-space: nowrap;
+}
+
+.markering-page .arrow-top-right {
+  height: 11px;
+  margin-left: 10px;
+  width: 10px;
+}
+
+.markering-page .group-1678 {
+  align-items: center;
+  background-color: var(--zircon);
+  display: flex;
+  height: 740px;
+  justify-content: flex-end;
+  margin-top: 156px;
+  min-width: 1366px;
+  padding: 0 79.0px;
+}
+
+.markering-page .group-1672 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 40px;
+  box-shadow: 0px 0px 80px #0000000d;
+  display: flex;
+  flex-direction: column;
+  min-height: 420px;
+  padding: 48px 15px;
+  width: 477px;
+}
+
+.markering-page .why-we-are-different {
+  letter-spacing: 0;
+  margin-left: 33px;
+  min-height: 144px;
+}
+
+.markering-page .lorem-ipsum-dolor-si-2 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 27.0px;
+  margin-top: 16px;
+  min-height: 108px;
+  min-width: 414px;
+}
+
+.markering-page .group-1661 {
+  align-items: center;
+  display: flex;
+  height: 32px;
+  margin-left: 33px;
+  margin-top: 24px;
+  min-width: 150px;
+}
+
+.markering-page .learn-more {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  min-height: 32px;
+  min-width: 103px;
+  white-space: nowrap;
+}
+
+.markering-page .arrow-right {
+  height: 14px;
+  width: 54px;
+}
+
+.markering-page .group-1671 {
+  align-items: flex-start;
+  display: flex;
+  height: 428px;
+  margin-left: 103px;
+  min-width: 607px;
+}
+
+.markering-page .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 423px;
+  width: 286px;
+}
+
+.markering-page .group-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 174px;
+  width: 286px;
+}
+
+.markering-page .group-1665 {
+  align-items: center;
+  background-color: #e0f2ff;
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.markering-page .coins2-5 {
+  height: 44px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.markering-page .service-management {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-top: 16px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.markering-page .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 4px;
+  min-height: 50px;
+}
+
+.markering-page .group-1668 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  margin-top: 75px;
+  min-height: 174px;
+  width: 286px;
+}
+
+.markering-page .group-1666 {
+  align-items: center;
+  background-color: #e1f2ff;
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 10px;
+}
+
+.markering-page .lightning-2 {
+  height: 52px;
+  object-fit: cover;
+  width: 51px;
+}
+
+.markering-page .tags {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-top: 16px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.markering-page .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 39px;
+  min-height: 428px;
+  width: 286px;
+}
+
+.markering-page .group-1664 {
+  align-items: center;
+  background-color: #fce4ff;
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.markering-page .joby-submit {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-top: 16px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.markering-page .group-1667 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  margin-top: 70px;
+  min-height: 184px;
+  width: 286px;
+}
+
+.markering-page .group-1663 {
+  align-items: center;
+  background-color: #f3ecff;
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 10px;
+}
+
+.markering-page .coins2-5-1 {
+  height: 52px;
+  object-fit: cover;
+  width: 52px;
+}
+
+.markering-page .phone-system-call-flow {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-top: 26px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.markering-page .group-1753 {
+  align-items: flex-start;
+  display: flex;
+  height: 1195px;
+  margin-left: 4.0px;
+  margin-top: 1px;
+  min-width: 1370px;
+}
+
+.markering-page .overlap-group8 {
+  align-items: center;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  min-height: 1195px;
+  padding: 121px 0;
+  width: 1366px;
+}
+
+.markering-page .why-uleadz-1 {
+  letter-spacing: 0;
+  line-height: 62.4px;
+  margin-left: 3.0px;
+  min-height: 62px;
+  min-width: 321px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.markering-page .uleadz-has-significa-1 {
+  letter-spacing: 0;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 96px;
+  min-width: 990px;
+  opacity: 0.5;
+  text-align: center;
+}
+
+.markering-page .overlap-group {
+  background-color: var(--ffffff);
+  border-radius: 40px;
+  box-shadow: 0px 0px 80px #00000008;
+  height: 674px;
+  margin-top: 64px;
+  position: relative;
+  width: 1280px;
+}
+
+.markering-page .line-64 {
+  height: 1px;
+  left: 422px;
+  position: absolute;
+  top: 336px;
+  width: 1px;
+}
+
+.markering-page .line-65 {
+  height: 1px;
+  left: 856px;
+  position: absolute;
+  top: 336px;
+  width: 1px;
+}
+
+.markering-page .image-1-1 {
+  height: 35px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 112px;
+}
+
+.markering-page .workiz-easy-logo-1 {
+  height: 63px;
+  left: 906px;
+  position: absolute;
+  top: 51px;
+  width: 174px;
+}
+
+.markering-page .line-66 {
+  height: 1px;
+  left: 640px;
+  position: absolute;
+  top: 141px;
+  width: 1px;
+}
+
+.markering-page .line-67 {
+  height: 1px;
+  left: 1068px;
+  position: absolute;
+  top: 141px;
+  width: 1px;
+}
+
+.markering-page .line-68 {
+  height: 1px;
+  left: 211px;
+  position: absolute;
+  top: 141px;
+  width: 1px;
+}
+
+.markering-page .standard-features {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.markering-page .verify {
+  height: 28px;
+  left: 40px;
+  position: absolute;
+  top: 184px;
+  width: 28px;
+}
+
+.markering-page .standard-features-1 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-1 {
+  height: 28px;
+  left: 897px;
+  position: absolute;
+  top: 182px;
+  width: 28px;
+}
+
+.markering-page .standard-features-2 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-2 {
+  height: 28px;
+  left: 463px;
+  position: absolute;
+  top: 183px;
+  width: 28px;
+}
+
+.markering-page .unlimited-technicians {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 285px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-3 {
+  height: 28px;
+  left: 40px;
+  position: absolute;
+  top: 288px;
+  width: 28px;
+}
+
+.markering-page .unlimited-technicians-1 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 285px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-4 {
+  height: 28px;
+  left: 897px;
+  position: absolute;
+  top: 286px;
+  width: 28px;
+}
+
+.markering-page .unlimited-technicians-2 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 285px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-5 {
+  height: 28px;
+  left: 463px;
+  position: absolute;
+  top: 287px;
+  width: 28px;
+}
+
+.markering-page .address {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 389px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-6 {
+  height: 28px;
+  left: 40px;
+  position: absolute;
+  top: 391px;
+  width: 28px;
+}
+
+.markering-page .address-1 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 389px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-7 {
+  height: 28px;
+  left: 897px;
+  position: absolute;
+  top: 389px;
+  width: 28px;
+}
+
+.markering-page .address-2 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 389px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-8 {
+  height: 28px;
+  left: 463px;
+  position: absolute;
+  top: 390px;
+  width: 28px;
+}
+
+.markering-page .joby {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 493px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-9 {
+  height: 29px;
+  left: 40px;
+  position: absolute;
+  top: 495px;
+  width: 28px;
+}
+
+.markering-page .joby-1 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 493px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-10 {
+  height: 29px;
+  left: 897px;
+  position: absolute;
+  top: 493px;
+  width: 28px;
+}
+
+.markering-page .joby-2 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 493px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-11 {
+  height: 29px;
+  left: 463px;
+  position: absolute;
+  top: 494px;
+  width: 28px;
+}
+
+.markering-page .address-3 {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-12 {
+  height: 29px;
+  left: 40px;
+  position: absolute;
+  top: 235px;
+  width: 28px;
+}
+
+.markering-page .address-4 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-13 {
+  height: 29px;
+  left: 897px;
+  position: absolute;
+  top: 233px;
+  width: 28px;
+}
+
+.markering-page .address-5 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 233px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-14 {
+  height: 29px;
+  left: 463px;
+  position: absolute;
+  top: 234px;
+  width: 28px;
+}
+
+.markering-page .address-6 {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 337px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-15 {
+  height: 28px;
+  left: 40px;
+  position: absolute;
+  top: 339px;
+  width: 28px;
+}
+
+.markering-page .address-7 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 337px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-16 {
+  height: 28px;
+  left: 897px;
+  position: absolute;
+  top: 337px;
+  width: 28px;
+}
+
+.markering-page .address-8 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 337px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-17 {
+  height: 28px;
+  left: 463px;
+  position: absolute;
+  top: 338px;
+  width: 28px;
+}
+
+.markering-page .address-9 {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 441px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-18 {
+  height: 29px;
+  left: 40px;
+  position: absolute;
+  top: 442px;
+  width: 28px;
+}
+
+.markering-page .address-10 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 441px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-19 {
+  height: 29px;
+  left: 897px;
+  position: absolute;
+  top: 440px;
+  width: 28px;
+}
+
+.markering-page .address-11 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 441px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-20 {
+  height: 29px;
+  left: 463px;
+  position: absolute;
+  top: 441px;
+  width: 28px;
+}
+
+.markering-page .call-masking {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 545px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-21 {
+  height: 28px;
+  left: 40px;
+  position: absolute;
+  top: 546px;
+  width: 28px;
+}
+
+.markering-page .call-masking-1 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 545px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-22 {
+  height: 28px;
+  left: 897px;
+  position: absolute;
+  top: 544px;
+  width: 28px;
+}
+
+.markering-page .call-masking-2 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 545px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-23 {
+  height: 28px;
+  left: 463px;
+  position: absolute;
+  top: 545px;
+  width: 28px;
+}
+
+.markering-page .x247-live-support {
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 597px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-24 {
+  height: 28px;
+  left: 40px;
+  position: absolute;
+  top: 598px;
+  width: 28px;
+}
+
+.markering-page .x247-live-support-1 {
+  left: 932px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 597px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-25 {
+  height: 28px;
+  left: 897px;
+  position: absolute;
+  top: 596px;
+  width: 28px;
+}
+
+.markering-page .x247-live-support-2 {
+  left: 498px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  top: 597px;
+  white-space: nowrap;
+}
+
+.markering-page .verify-26 {
+  height: 28px;
+  left: 463px;
+  position: absolute;
+  top: 597px;
+  width: 28px;
+}
+
+.markering-page .vector {
+  height: 36px;
+  left: 463px;
+  position: absolute;
+  top: 65px;
+  width: 209px;
+}
+
+.markering-page .group-1733 {
+  align-items: center;
+  background-color: #f3f5ff;
+  display: flex;
+  height: 853px;
+  justify-content: flex-end;
+  margin-top: 3px;
+  min-width: 1366px;
+  padding: 102.7px 128.0px;
+}
+
+.markering-page .group-1727 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.0px;
+  min-height: 551px;
+  width: 504px;
+}
+
+.markering-page .invoicing {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 29px;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+.markering-page .invoice-and-get-paid {
+  letter-spacing: 0;
+  min-height: 72px;
+}
+
+.markering-page .lorem-ipsum-dolor-si-1 {
+  letter-spacing: 0;
+  line-height: 27.0px;
+  margin-top: 16px;
+  min-height: 324px;
+}
+
+.markering-page .frame-23 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 15px;
+  display: flex;
+  height: 62px;
+  margin-top: 48px;
+  min-width: 161px;
+  padding: 0 35px;
+}
+
+.markering-page .know-more {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 91px;
+  white-space: nowrap;
+}
+
+.markering-page .overlap-group-1 {
+  align-self: flex-end;
+  height: 646px;
+  margin-left: 40px;
+  position: relative;
+  width: 536px;
+}
+
+.markering-page .rectangle-293 {
+  background-color: #3353d1;
+  border-radius: 207.57px;
+  filter: blur(200px);;
+  height: 438px;
+  left: 68px;
+  opacity: 0.5;
+  position: absolute;
+  top: 112px;
+  transform: rotate(-8.60deg);
+  width: 438px;
+}
+
+.markering-page .rectangle-294 {
+  height: 578px;
+  left: 223px;
+  position: absolute;
+  top: 68px;
+  width: 310px;
+}
+
+.markering-page .rectangle-297 {
+  background-color: var(--black);
+  border-radius: 17px;
+  filter: blur(100px);;
+  height: 461px;
+  left: 130px;
+  opacity: 0.3;
+  position: absolute;
+  top: 126px;
+  transform: rotate(-8.60deg);
+  width: 213px;
+}
+
+.markering-page .rectangle-296 {
+  height: 584px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 331px;
+}
+
+.markering-page .group-1730 {
+  align-items: center;
+  background-color: #fff3f9;
+  display: flex;
+  min-width: 1366px;
+}
+
+.markering-page .mask-group-1 {
+  height: 853px;
+  width: 643px;
+}
+
+.markering-page .group-1727-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 96px;
+  min-height: 551px;
+  width: 466px;
+}
+
+.markering-page .scheduling {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  min-height: 29px;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+.markering-page .schedule-your-jobs {
+  letter-spacing: 0;
+  min-height: 72px;
+}
+
+.markering-page .group-624 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--baby-powder);
+  display: flex;
+  flex-direction: column;
+  min-height: 924px;
+  padding: 76px 68.2px;
+  width: 1385px;
+}
+
+.markering-page .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 32.83px;
+  min-width: 1099px;
+}
+
+.markering-page .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 8.0px;
+  min-height: 260px;
+  width: 574px;
+}
+
+.markering-page .testimonials {
+  letter-spacing: 0;
+  min-height: 21px;
+  opacity: 0.5;
+}
+
+.markering-page .you-get-more-than-what-you-pay-for {
+  letter-spacing: 0;
+  line-height: 60.0px;
+  margin-left: 0.39px;
+  margin-top: 10px;
+  min-height: 180px;
+  width: 574px;
+}
+
+.markering-page .we-will-take-care-of-everything-else {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-left: 0.39px;
+  margin-top: 20px;
+  min-height: 29px;
+  opacity: 0.8;
+  white-space: nowrap;
+}
+
+.markering-page .overlap-group-2 {
+  height: 354px;
+  margin-left: 150px;
+  position: relative;
+  width: 375px;
+}
+
+.markering-page .rectangle-258 {
+  height: 333px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 338px;
+}
+
+.markering-page .rectangle-259 {
+  height: 108px;
+  left: 265px;
+  object-fit: cover;
+  position: absolute;
+  top: 246px;
+  width: 110px;
+}
+
+.markering-page .rectangle-260 {
+  height: 108px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 110px;
+}
+
+.markering-page .flex-row-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  margin-top: 67px;
+  min-width: 1249px;
+}
+
+.markering-page .arrow-right-1 {
+  height: 32px;
+  margin-bottom: 69.08px;
+  width: 34px;
+}
+
+.markering-page .group-622 {
+  align-items: flex-start;
+  display: flex;
+  height: 309px;
+  margin-left: 45px;
+  min-width: 1091px;
+}
+
+.markering-page .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 31px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  min-height: 309px;
+  padding: 28px 41.6px;
+  width: 517px;
+}
+
+.markering-page .if-you-are-looking {
+  height: 160px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  width: 404px;
+}
+
+.markering-page .group-618 {
+  align-items: center;
+  display: flex;
+  margin-top: 40px;
+  min-width: 249px;
+}
+
+.markering-page .ellipse-42 {
+  height: 47px;
+  object-fit: cover;
+  width: 48px;
+}
+
+.markering-page .overlap-group-3 {
+  height: 51px;
+  margin-left: 16px;
+  position: relative;
+  width: 185px;
+}
+
+.markering-page .name {
+  height: 29px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.markering-page .home-service-professional {
+  height: 25px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  opacity: 0.5;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.markering-page .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 31px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-left: 57px;
+  min-height: 309px;
+  padding: 28px 41.6px;
+  width: 517px;
+}
+
+.markering-page .group-619 {
+  align-items: center;
+  display: flex;
+  margin-top: 40px;
+  min-width: 177px;
+}
+
+.markering-page .overlap-group-4 {
+  height: 51px;
+  margin-left: 16px;
+  position: relative;
+  width: 113px;
+}
+
+.markering-page .field-technician {
+  height: 25px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  opacity: 0.5;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.markering-page .arrow-right-2 {
+  height: 33px;
+  margin-bottom: 70.2px;
+  margin-left: 45px;
+  width: 34px;
+}
+
+.markering-page .group-517 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  min-height: 1063px;
+  padding: 119px;
+  width: 1366px;
+}
+
+.markering-page .top-features-weve {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 65px;
+  margin-left: 1.0px;
+  min-height: 195px;
+  min-width: 899px;
+  text-align: center;
+}
+
+.markering-page .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 562px;
+  margin-top: 68px;
+  min-width: 1126px;
+}
+
+.markering-page .group-container-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 561px;
+  width: 491px;
+}
+
+.markering-page .group-492 {
+  align-items: flex-start;
+  display: flex;
+  height: 184px;
+  min-width: 486px;
+}
+
+.markering-page .group-489 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 171px;
+  width: 249px;
+}
+
+.markering-page .call-secure {
+  letter-spacing: 0;
+  min-height: 42px;
+}
+
+.markering-page .send-the-right-techn {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: 13px;
+  min-height: 116px;
+  opacity: 0.7;
+}
+
+.markering-page .coins2-5-2 {
+  align-self: flex-end;
+  height: 182px;
+  margin-left: 55px;
+  object-fit: cover;
+  width: 182px;
+}
+
+.markering-page .group-493 {
+  align-items: flex-start;
+  display: flex;
+  height: 247px;
+  margin-top: 130px;
+  min-width: 491px;
+}
+
+.markering-page .group-489-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 244px;
+  width: 237px;
+}
+
+.markering-page .work-order-management {
+  letter-spacing: 0;
+  min-height: 84px;
+}
+
+.markering-page .manage-your-workforc {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: 15px;
+  min-height: 145px;
+  opacity: 0.7;
+}
+
+.markering-page .coins2-5-3 {
+  height: 192px;
+  margin-left: 62px;
+  object-fit: cover;
+  width: 192px;
+}
+
+.markering-page .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 168px;
+  min-height: 547px;
+  width: 467px;
+}
+
+.markering-page .overlap-group-5 {
+  height: 218px;
+  position: relative;
+  width: 467px;
+}
+
+.markering-page .coins2-6 {
+  height: 204px;
+  left: 263px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 204px;
+}
+
+.markering-page .group-490 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 215px;
+  position: absolute;
+  top: 3px;
+  width: 267px;
+}
+
+.markering-page .estimates-and-invoicing {
+  letter-spacing: 0;
+  min-height: 84px;
+}
+
+.markering-page .email-or-fax-estimat {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: 15px;
+  min-height: 116px;
+  opacity: 0.7;
+}
+
+.markering-page .overlap-group1-1 {
+  height: 218px;
+  margin-top: 111px;
+  position: relative;
+  width: 467px;
+}
+
+.markering-page .dashboards-analytics {
+  letter-spacing: 0;
+  min-height: 84px;
+}
+
+.markering-page .group-1754 {
+  align-items: center;
+  background-color: var(--zircon);
+  display: flex;
+  height: 821px;
+  min-width: 1366px;
+  padding: 106px 121px;
+}
+
+.markering-page .group-478 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 84.0px;
+  min-height: 403px;
+  width: 498px;
+}
+
+.markering-page .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 90px;
+  min-width: 456px;
+}
+
+.markering-page .internet {
+  height: 42px;
+  width: 42px;
+}
+
+.markering-page .an-app-build-specifi {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  margin-left: 23px;
+  min-height: 90px;
+  min-width: 391px;
+}
+
+.markering-page .uleadz-guarantees-to {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-right: 4px;
+  margin-top: 24px;
+  min-height: 174px;
+  min-width: 480px;
+  opacity: 0.7;
+}
+
+.markering-page .frame-16-1 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-left: 14px;
+  margin-top: 53px;
+  min-width: 169px;
+  padding: 0 40px;
+}
+
+.markering-page .learn-more-1 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  min-width: 89px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.markering-page .overlap-group-6 {
+  align-self: flex-end;
+  height: 608px;
+  margin-left: 3px;
+  position: relative;
+  width: 622px;
+}
+
+.markering-page .ellipse-25 {
+  background-color: var(--blue-chalk-2);
+  height: 608px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 608px;
+}
+
+.markering-page .ellipse-26 {
+  background-color: var(--blue-chalk-2);
+  height: 524px;
+  left: 42px;
+  position: absolute;
+  top: 42px;
+  width: 524px;
+}
+
+.markering-page .ellipse-27 {
+  background-color: var(--blue-chalk-2);
+  height: 432px;
+  left: 88px;
+  position: absolute;
+  top: 88px;
+  width: 432px;
+}
+
+.markering-page .group-1-45 {
+  height: 286px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 501px;
+}
+
+.markering-page .coins2-6-1 {
+  height: 78px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 78px;
+}
+
+.markering-page .coins2-5-4 {
+  height: 78px;
+  left: 544px;
+  object-fit: cover;
+  position: absolute;
+  top: 369px;
+  width: 78px;
+}
+
+.markering-page .group-554 {
+  height: 355px;
+  margin-left: 0.73px;
+  margin-top: 150px;
+  width: 1425px;
+}
+
+.markering-page .group-1685 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 150px;
+  min-width: 1240px;
+}
+
+.markering-page .overlap-group7 {
+  height: 840px;
+  position: relative;
+  width: 1240px;
+}
+
+.markering-page .group-1750 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 840px;
+  position: absolute;
+  top: 0;
+  width: 1240px;
+}
+
+.markering-page .overlap-group-7 {
+  height: 120px;
+  margin-left: 41px;
+  position: relative;
+  width: 994px;
+}
+
+.markering-page .send-us-a-message-and-well-get-the {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 60.0px;
+  position: absolute;
+  top: 0;
+}
+
+.markering-page .ball-rolling-to-book-your-demo-asap {
+  height: 53px;
+  left: 90px;
+  position: absolute;
+  top: 64px;
+  width: 904px;
+}
+
+.markering-page .overlap-group1-2 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 80px #00000005;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 680px;
+  padding: 150px 38px;
+  width: 1240px;
+}
+
+.markering-page .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 164px;
+  min-width: 976px;
+}
+
+.markering-page .group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 164px;
+  width: 399px;
+}
+
+.markering-page .group-168 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 46px;
+  width: 399px;
+}
+
+.markering-page .place {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  white-space: nowrap;
+}
+
+.markering-page .line-5 {
+  height: 3px;
+  margin-top: 8px;
+  width: 397px;
+}
+
+.markering-page .group-168-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 72px;
+  min-height: 46px;
+  width: 399px;
+}
+
+.markering-page .company {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  white-space: nowrap;
+}
+
+.markering-page .group-container-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 178px;
+  min-height: 164px;
+  width: 399px;
+}
+
+.markering-page .email {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  white-space: nowrap;
+}
+
+.markering-page .phone {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  white-space: nowrap;
+}
+
+.markering-page .group-1684 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 72px;
+  min-height: 100px;
+  width: 976px;
+}
+
+.markering-page .message {
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 36.0px;
+  white-space: nowrap;
+}
+
+.markering-page .line-55 {
+  height: 3px;
+  margin-top: 62px;
+  width: 974px;
+}
+
+.markering-page .frame-24 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 15px;
+  display: flex;
+  height: 60px;
+  left: 813px;
+  min-width: 202px;
+  padding: 0 42px;
+  position: absolute;
+  top: 718px;
+}
+
+.markering-page .send-message {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.markering-page .footer {
+  align-items: flex-start;
+  display: flex;
+  height: 691px;
+  margin-left: 2.0px;
+  margin-top: 152px;
+  min-width: 1368px;
+}
+
+.markering-page .overlap-group4 {
+  height: 693px;
+  margin-top: -1.5px;
+  position: relative;
+  width: 1366px;
+}
+
+.markering-page .rectangle-170 {
+  height: 692px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1366px;
+}
+
+.markering-page .line-41 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.markering-page .group-484 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 208px;
+  min-height: 243px;
+  position: absolute;
+  top: 92px;
+  width: 952px;
+}
+
+.markering-page .stay-ahead-of-the-ga {
+  letter-spacing: 0;
+  line-height: 75.2px;
+  margin-right: 2.0px;
+  min-height: 150px;
+  min-width: 950px;
+  text-align: center;
+}
+
+.markering-page .frame-16-2 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-left: 4.0px;
+  margin-top: 31px;
+  min-width: 186px;
+  padding: 0 48px;
+}
+
+.markering-page .contact-us {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  min-width: 90px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.markering-page .group-486 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 136px;
+  min-height: 184px;
+  position: absolute;
+  top: 398px;
+  width: 112px;
+}
+
+.markering-page .place-1 {
+  height: 24px;
+  letter-spacing: 0;
+}
+
+.markering-page .why-uleadz-2 {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+}
+
+.markering-page .about-us {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+}
+
+.markering-page .place-2 {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+}
+
+.markering-page .pricing {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+}
+
+.markering-page .group-485 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 632px;
+  min-height: 144px;
+  position: absolute;
+  top: 398px;
+  width: 117px;
+}
+
+.markering-page .industries {
+  height: 24px;
+  letter-spacing: 0;
+}
+
+.markering-page .terms-of-use {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+}
+
+.markering-page .privacy-policy {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+}
+
+.markering-page .support {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+}
+
+.markering-page .hellouleadzcom {
+  height: 24px;
+  left: 1105px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 486px;
+}
+
+.markering-page .group-144-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 1119px;
+  min-width: 124px;
+  position: absolute;
+  top: 526px;
+}
+
+.markering-page .overlap-group1-3 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  min-width: 25px;
+  padding: 5.6px 9.2px;
+}
+
+.markering-page .group-143 {
+  height: 14px;
+  width: 7px;
+}
+
+.markering-page .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.6px 6.2px;
+}
+
+.markering-page .group {
+  height: 12px;
+  width: 13px;
+}
+
+.markering-page .overlap-group-8 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.7px 2.3px;
+}
+
+.markering-page .twitter-logowine-1 {
+  height: 14px;
+  width: 20px;
+}
+
+.markering-page .overlap-group2-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.2px 2.2px;
+}
+
+.markering-page .you-tube-icon-almost-black-logowine-1 {
+  height: 15px;
+  width: 21px;
+}
+
+.markering-page .uleadz1-1 {
+  height: 72px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 72px;
+}

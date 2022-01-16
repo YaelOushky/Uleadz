@@ -1,0 +1,17 @@
+@page
+
+@section styles{
+    <link rel="stylesheet" type="text/css" href="~/css/app/homepage.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/app/homepage-mobile-op-2.css" />
+}
+<body>
+    @if (Request.IsMobileBrowser())
+    {
+        <partial name="_HomePageMobile" />
+
+    }
+    else
+    {
+        <partial name="_HomePage" />
+    }
+</body>

@@ -1,0 +1,1784 @@
+/* screen - industries-locksmith */
+
+.industries-locksmith {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 33px 0;
+  width: 1366px;
+}
+
+.industries-locksmith .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: -47px;
+  min-height: 1824px;
+  width: 1413px;
+}
+
+.industries-locksmith .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 656px;
+  min-width: 1413px;
+}
+
+.industries-locksmith .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 656px;
+  width: 262px;
+}
+
+.industries-locksmith .image-1 {
+  height: 28px;
+  margin-left: 58.0px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.industries-locksmith .overlap-group11 {
+  height: 327px;
+  margin-top: 301px;
+  position: relative;
+  width: 262px;
+}
+
+.industries-locksmith .image-3 {
+  height: 327px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 251px;
+}
+
+.industries-locksmith .book-4 {
+  height: 140px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 140px;
+}
+
+.industries-locksmith .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 33px;
+  margin-top: 2px;
+  min-height: 522px;
+  width: 871px;
+}
+
+.industries-locksmith .group-585 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-left: 7.0px;
+  min-width: 600px;
+}
+
+.industries-locksmith .place {
+  letter-spacing: -0.64px;
+  min-height: 24px;
+  min-width: 47px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .why-uleadz {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 89px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .group-584 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 30px;
+  width: 74px;
+}
+
+.industries-locksmith .industries {
+  letter-spacing: -0.64px;
+  min-height: 24px;
+}
+
+.industries-locksmith .line-42 {
+  height: 2px;
+  margin-top: 5px;
+  width: 61px;
+}
+
+.industries-locksmith .about-us {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 68px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .pricing {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 52px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .place-1 {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .if-you-work-with-mat {
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  margin-top: 190px;
+  min-height: 120px;
+  min-width: 871px;
+  text-align: center;
+}
+
+.industries-locksmith .ideal-for-trades-and {
+  letter-spacing: -0.60px;
+  line-height: 27.0px;
+  margin-right: 1.0px;
+  margin-top: 33px;
+  min-height: 54px;
+  min-width: 524px;
+  opacity: 0.5;
+  text-align: center;
+}
+
+.industries-locksmith .group-582 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 1.0px;
+  margin-top: 33px;
+  min-width: 400px;
+}
+
+.industries-locksmith .frame-17 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 16px;
+  display: flex;
+  height: 62px;
+  min-width: 180px;
+  padding: 0 48px;
+}
+
+.industries-locksmith .learn-more {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-locksmith .frame-16 {
+  align-items: center;
+  border-radius: 16px;
+  display: flex;
+  height: 62px;
+  margin-left: 30px;
+  min-width: 190px;
+  opacity: 0.5;
+  padding: 0 48px;
+}
+
+.industries-locksmith .how-it-works {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 94px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-locksmith .overlap-group14 {
+  align-self: center;
+  height: 327px;
+  margin-bottom: 117.0px;
+  margin-left: 52px;
+  position: relative;
+  width: 195px;
+}
+
+.industries-locksmith .image-3-1 {
+  height: 327px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 155px;
+}
+
+.industries-locksmith .book-5 {
+  height: 118px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 108px;
+  width: 118px;
+}
+
+.industries-locksmith .overlap-group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1168px;
+  width: 1366px;
+}
+
+.industries-locksmith .group-container {
+  align-items: center;
+  background-color: var(--desert-storm);
+  display: flex;
+  height: 998px;
+  min-width: 1366px;
+  padding: 0 100px;
+}
+
+.industries-locksmith .group-581 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32.0px;
+  min-height: 604px;
+  width: 547px;
+}
+
+.industries-locksmith .suitable-for-over-30 {
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  min-height: 120px;
+}
+
+.industries-locksmith .the-highest-rated-e {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 38px;
+  min-height: 320px;
+}
+
+.industries-locksmith .span {
+  letter-spacing: -0.13px;
+}
+
+.industries-locksmith .frame-17-1 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 54px;
+  margin-top: 72px;
+  min-width: 156px;
+  padding: 0 36px;
+}
+
+.industries-locksmith .learn-more-1 {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-locksmith .group-580 {
+  align-items: flex-start;
+  display: flex;
+  height: 838px;
+  margin-left: 39px;
+  min-width: 580px;
+}
+
+.industries-locksmith .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 838px;
+  width: 270px;
+}
+
+.industries-locksmith .group-575 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  min-height: 399px;
+  padding: 20px 0;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group {
+  align-items: center;
+  background-color: var(--seashell-peach);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 21px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-locksmith .coins2-5 {
+  height: 44px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.industries-locksmith .easy-to-use-software-for-contractors {
+  align-self: center;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 21.0px;
+  margin-top: 23px;
+  min-height: 52px;
+  min-width: 189px;
+}
+
+.industries-locksmith .try-uleadzs-compreh {
+  align-self: center;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9.0px;
+  margin-top: 16px;
+  min-height: 120px;
+  min-width: 219px;
+  opacity: 0.4;
+}
+
+.industries-locksmith .know-more-2 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 30px;
+  margin-top: 48px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-locksmith .group-579 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 399px;
+  padding: 20px 13px;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group-1 {
+  align-items: center;
+  background-color: var(--alice-blue-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 8px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-locksmith .easy-to-use-software {
+  align-self: flex-end;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 5px;
+  margin-top: 23px;
+  min-height: 78px;
+  min-width: 222px;
+}
+
+.industries-locksmith .try-our-comprehensiv {
+  align-self: flex-end;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-top: 14px;
+  min-height: 96px;
+  min-width: 227px;
+  opacity: 0.4;
+}
+
+.industries-locksmith .know-more-3 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 17px;
+  margin-top: 48px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-locksmith .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 838px;
+  width: 270px;
+}
+
+.industries-locksmith .group-576 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  min-height: 399px;
+  padding: 20px 14px;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group-2 {
+  align-items: center;
+  background-color: var(--zumthor-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 7px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-locksmith .manage-your-entire-p {
+  align-self: flex-end;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-top: 23px;
+  min-height: 78px;
+  min-width: 226px;
+}
+
+.industries-locksmith .try-uleadzs-compreh-1 {
+  align-self: center;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9.0px;
+  margin-top: 14px;
+  min-height: 120px;
+  min-width: 219px;
+  opacity: 0.4;
+}
+
+.industries-locksmith .know-more-4 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 16px;
+  margin-top: 24px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-locksmith .group-578 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 399px;
+  padding: 20px 16px;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group-3 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 5px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-locksmith .give-your-locksmith {
+  align-self: center;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 12.0px;
+  margin-top: 23px;
+  min-height: 78px;
+  min-width: 198px;
+}
+
+.industries-locksmith .accelerate-cash-flow {
+  align-self: flex-end;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-top: 14px;
+  min-height: 96px;
+  min-width: 224px;
+  opacity: 0.4;
+}
+
+.industries-locksmith .know-more-5 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 14px;
+  margin-top: 48px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-locksmith .overlap-group8 {
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  height: 77px;
+  margin-left: 46.0px;
+  margin-top: 93px;
+  position: relative;
+  width: 1140px;
+}
+
+.industries-locksmith .rectangle-227 {
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.industries-locksmith .looking-for-a-specif {
+  left: 90px;
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .rectangle-copy-15 {
+  background-color: var(--alice-blue);
+  border-radius: 20.5px;
+  height: 43px;
+  left: 26px;
+  position: absolute;
+  top: 17px;
+  width: 44px;
+}
+
+.industries-locksmith .search {
+  height: 18px;
+  left: 39px;
+  position: absolute;
+  top: 29px;
+  width: 18px;
+}
+
+.industries-locksmith .frame-17-2 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 54px;
+  left: 958px;
+  min-width: 126px;
+  padding: 0 36px;
+  position: absolute;
+  top: 12px;
+}
+
+.industries-locksmith .search-1 {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 54px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-locksmith .flex-row-1 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 748px;
+  margin-left: 61.0px;
+  margin-top: 76px;
+  min-width: 1155px;
+}
+
+.industries-locksmith .group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 731px;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group9 {
+  height: 227px;
+  position: relative;
+  width: 270px;
+}
+
+.industries-locksmith .group-578-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000001a;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 217px;
+  padding: 19px 20px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.industries-locksmith .coins2-4 {
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  height: 72px;
+  width: 72px;
+}
+
+.industries-locksmith .locksmith {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .know-more {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-locksmith .locksmith-1 {
+  height: 32px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 32px;
+}
+
+.industries-locksmith .pointer-1 {
+  height: 24px;
+  left: 206px;
+  position: absolute;
+  top: 203px;
+  width: 19px;
+}
+
+.industries-locksmith .group-645 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  min-height: 217px;
+  padding: 21px 20px;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group1 {
+  align-items: center;
+  background-color: var(--zumthor-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-locksmith .group-574 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: 22px;
+  min-height: 73px;
+  width: 106px;
+}
+
+.industries-locksmith .contractor {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .know-more-1 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-top: 23px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-locksmith .group-64 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 217px;
+  padding: 20px 21px;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group-4 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 20px;
+}
+
+.industries-locksmith .garbage-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.industries-locksmith .junk-removal {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .overlap-group15 {
+  height: 830px;
+  margin-bottom: -82.0px;
+  margin-left: 40px;
+  position: relative;
+  width: 927px;
+}
+
+.industries-locksmith .overlap-group3 {
+  height: 830px;
+  left: 256px;
+  position: absolute;
+  top: 0;
+  width: 671px;
+}
+
+.industries-locksmith .rectangle-225 {
+  height: 381px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 449px;
+  width: 671px;
+}
+
+.industries-locksmith .group-605 {
+  align-items: center;
+  display: flex;
+  height: 480px;
+  left: 86px;
+  min-width: 461px;
+  position: absolute;
+  top: 0;
+}
+
+.industries-locksmith .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.95px;
+  min-height: 465px;
+  width: 30px;
+}
+
+.industries-locksmith .group {
+  height: 31px;
+  width: 30px;
+}
+
+.industries-locksmith .line-45 {
+  height: 109px;
+  margin-right: 0;
+  margin-top: 62px;
+  width: 3px;
+}
+
+.industries-locksmith .line-46 {
+  height: 71px;
+  margin-right: 0;
+  margin-top: 53px;
+  width: 3px;
+}
+
+.industries-locksmith .line-47 {
+  height: 97px;
+  margin-right: 0;
+  margin-top: 42px;
+  width: 3px;
+}
+
+.industries-locksmith .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+  min-height: 480px;
+  width: 405px;
+}
+
+.industries-locksmith .get-everything-you-n {
+  letter-spacing: -1.08px;
+  line-height: 37.8px;
+  margin-left: 2px;
+  min-height: 76px;
+  width: 403px;
+}
+
+.industries-locksmith .quickly-create-and-a {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 25px;
+  min-height: 130px;
+  opacity: 0.7;
+}
+
+.industries-locksmith .attach-job-notes-co {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 32px;
+  min-height: 78px;
+  opacity: 0.7;
+}
+
+.industries-locksmith .with-multiple-schedu {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 35px;
+  min-height: 104px;
+  opacity: 0.7;
+}
+
+.industries-locksmith .rectangle {
+  height: 96px;
+  left: 279px;
+  position: absolute;
+  top: 37px;
+  width: 4px;
+}
+
+.industries-locksmith .group-container-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 731px;
+  position: absolute;
+  top: 17px;
+  width: 270px;
+}
+
+.industries-locksmith .group-646 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  min-height: 217px;
+  padding: 20px 21px;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 18px 20px;
+}
+
+.industries-locksmith .lightning-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.industries-locksmith .electrician {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .group-647 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 217px;
+  padding: 21px 20px;
+  width: 270px;
+}
+
+.industries-locksmith .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--zumthor-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 72px;
+  padding: 18px 19px;
+}
+
+.industries-locksmith .pipe-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.industries-locksmith .group-574-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: 22px;
+  min-height: 73px;
+  width: 94px;
+}
+
+.industries-locksmith .plumbing {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .overlap-group-6 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 72px;
+  padding: 0 18px;
+}
+
+.industries-locksmith .cleaning-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.industries-locksmith .cleaning {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .overlap-group10 {
+  height: 1833px;
+  margin-top: 88px;
+  position: relative;
+  width: 1366px;
+}
+
+.industries-locksmith .group-603 {
+  align-items: flex-start;
+  display: flex;
+  height: 939px;
+  justify-content: flex-end;
+  left: 78px;
+  min-width: 1145px;
+  position: absolute;
+  top: 894px;
+}
+
+.industries-locksmith .overlap-group-7 {
+  height: 940px;
+  margin-top: -0.29px;
+  position: relative;
+  width: 692px;
+}
+
+    .industries-locksmith .ellipse-22 {
+        background-color: #ec52a000;
+        height: 609px;
+        left: 42px;
+        position: absolute;
+        top: 318px;
+        width: 608px;
+        border-radius: 50%;
+    }
+
+
+    .industries-locksmith .ellipse-24 {
+        background-color: #ec52a000;
+        height: 525px;
+        left: 84px;
+        position: absolute;
+        top: 360px;
+        width: 524px;
+        border-radius: 50%;
+    }
+
+    .industries-locksmith .ellipse-23 {
+        background-color: #ec52a000;
+        height: 433px;
+        left: 130px;
+        position: absolute;
+        top: 406px;
+        width: 432px;
+        border-radius: 50%;
+    }
+
+.industries-locksmith .mansgement-1 {
+  height: 940px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 692px;
+}
+
+.industries-locksmith .coins2-3 {
+  height: 89px;
+  left: 497px;
+  object-fit: cover;
+  position: absolute;
+  top: 644px;
+  width: 88px;
+}
+
+.industries-locksmith .coins2-4-1 {
+  height: 78px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 367px;
+  width: 78px;
+}
+
+.industries-locksmith .group-602 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 542px;
+  margin-left: 18px;
+  margin-top: 103.21px;
+  min-width: 453px;
+}
+
+.industries-locksmith .flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.86px;
+  min-height: 534px;
+  width: 30px;
+}
+
+.industries-locksmith .line-50 {
+  height: 45px;
+  margin-right: 0;
+  margin-top: 53px;
+  width: 3px;
+}
+
+.industries-locksmith .line-51 {
+  height: 16px;
+  margin-right: 0;
+  margin-top: 41px;
+  width: 3px;
+}
+
+.industries-locksmith .line-5 {
+  height: 16px;
+  margin-right: 0;
+  margin-top: 42px;
+  width: 3px;
+}
+
+.industries-locksmith .flex-col-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+  min-height: 542px;
+  width: 387px;
+}
+
+.industries-locksmith .invoice-and-get-paid {
+  letter-spacing: -1.08px;
+  line-height: 37.8px;
+  margin-left: 2px;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .whether-out-in-the-f {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 46px;
+  min-height: 52px;
+  opacity: 0.7;
+}
+
+.industries-locksmith .flex-col-item {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 32px;
+  min-height: 26px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.industries-locksmith .rectangle-181 {
+  background-color: var(--blue-chalk);
+  height: 908px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.industries-locksmith .group-604 {
+  align-items: center;
+  display: flex;
+  height: 755px;
+  left: 159px;
+  min-width: 1180px;
+  position: absolute;
+  top: 68px;
+}
+
+.industries-locksmith .flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 103.2px;
+  min-height: 366px;
+  width: 30px;
+}
+
+.industries-locksmith .group-1 {
+  height: 30px;
+  width: 30px;
+}
+
+.industries-locksmith .line-48 {
+  height: 117px;
+  margin-left: 0;
+  margin-top: 57px;
+  width: 3px;
+}
+
+.industries-locksmith .line-49 {
+  height: 117px;
+  margin-left: 0;
+  margin-top: 45px;
+  width: 3px;
+}
+
+.industries-locksmith .overlap-group7 {
+  height: 755px;
+  margin-left: 9px;
+  position: relative;
+  width: 1133px;
+}
+
+.industries-locksmith .set-jobs-up-for-success {
+  left: 11px;
+  letter-spacing: -1.08px;
+  line-height: 37.8px;
+  position: absolute;
+  top: 140px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .overlap-group6 {
+  height: 755px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 1124px;
+}
+
+.industries-locksmith .track-employee-times {
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  opacity: 0.7;
+  position: absolute;
+  top: 224px;
+}
+
+.industries-locksmith .managers-can-view-te {
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  opacity: 0.7;
+  position: absolute;
+  top: 386px;
+}
+
+.industries-locksmith .overlap-group-8 {
+  height: 755px;
+  left: 394px;
+  position: absolute;
+  top: 0;
+  width: 730px;
+}
+
+.industries-locksmith .ellipse-22-1 {
+  background-color: var(--blue-icons-);
+  height: 608px;
+  left: 82px;
+  position: absolute;
+  top: 147px;
+  width: 608px;
+}
+
+.industries-locksmith .ellipse-24-1 {
+  background-color: var(--blue-icons-);
+  height: 524px;
+  left: 124px;
+  position: absolute;
+  top: 189px;
+  width: 524px;
+}
+
+.industries-locksmith .ellipse-23-1 {
+  background-color: var(--blue-icons-);
+  height: 432px;
+  left: 170px;
+  position: absolute;
+  top: 235px;
+  width: 432px;
+}
+
+.industries-locksmith .mansgement-1-1 {
+  height: 719px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 730px;
+}
+
+.industries-locksmith .coins2-3-1 {
+  height: 78px;
+  left: 648px;
+  object-fit: cover;
+  position: absolute;
+  top: 163px;
+  width: 78px;
+}
+
+.industries-locksmith .coins2-4-2 {
+  height: 78px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 544px;
+  width: 78px;
+}
+
+.industries-locksmith .learn-more-2 {
+  height: 22px;
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 580px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .group-573 {
+  align-items: flex-end;
+  background-color: var(--desert-storm);
+  display: flex;
+  flex-direction: column;
+  margin-top: 137px;
+  min-height: 908px;
+  padding: 65.5px 33px;
+  width: 1366px;
+}
+
+.industries-locksmith .group-525 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 52px;
+  min-height: 672px;
+  width: 1136px;
+}
+
+.industries-locksmith .packed-with-features {
+  letter-spacing: -1.68px;
+  line-height: 54.6px;
+  min-height: 110px;
+}
+
+.industries-locksmith .frame-17-3::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.industries-locksmith .frame-17-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 509px;
+  margin-top: 53px;
+  min-width: 1134px;
+  overflow-x: scroll;
+}
+
+.industries-locksmith .overlap-group-9 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  min-height: 509px;
+  padding: 38px 23px;
+  width: 350px;
+}
+
+.industries-locksmith .purse-1 {
+  height: 118px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 118px;
+}
+
+.industries-locksmith .job-profitability {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 28px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .estimates-invoices {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .overlap-group1-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 28px 23px;
+  width: 350px;
+}
+
+.industries-locksmith .purse-2 {
+  height: 122px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 122px;
+}
+
+.industries-locksmith .customer-management {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 34px;
+  min-height: 88px;
+}
+
+.industries-locksmith .scheduling-dispatc {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 160px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 32px 23px;
+  width: 350px;
+}
+
+.industries-locksmith .purse-3 {
+  height: 118px;
+  margin-left: 4px;
+  object-fit: cover;
+  width: 118px;
+}
+
+.industries-locksmith .online-booking {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 34px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .file-photo-attachmen {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 27px 22px;
+  width: 350px;
+}
+
+.industries-locksmith .purse-3-1 {
+  height: 128px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.industries-locksmith .online-booking-1 {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 11px;
+  margin-top: 29px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.industries-locksmith .cloud-storage-i-os-a {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-left: 1px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.industries-locksmith .overlap-group4 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../../lib/img/line-43@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  margin-top: 50px;
+  min-width: 68px;
+}
+
+.industries-locksmith .line-44 {
+  height: 3px;
+  width: 52px;
+}
+
+.industries-locksmith .overlap-group13 {
+  height: 691px;
+  margin-top: 2px;
+  position: relative;
+  width: 1368px;
+}
+
+.industries-locksmith .line-41 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 336px;
+  width: 1366px;
+}
+
+.industries-locksmith .overlap-group5 {
+  height: 692px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 1366px;
+}
+
+.industries-locksmith .rectangle-170 {
+  height: 691px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1366px;
+}
+
+.industries-locksmith .line-41-1 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.industries-locksmith .group-484 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 244px;
+  min-height: 243px;
+  position: absolute;
+  top: 92px;
+  width: 880px;
+}
+
+.industries-locksmith .stay-ahead-of-the-ga {
+  letter-spacing: -1.88px;
+  line-height: 75.2px;
+  margin-right: 2.0px;
+  min-height: 150px;
+  min-width: 878px;
+  text-align: center;
+}
+
+.industries-locksmith .frame-16-1 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-right: 2.0px;
+  margin-top: 31px;
+  min-width: 180px;
+  padding: 0 48px;
+}
+
+.industries-locksmith .contact-us {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-locksmith .group-486 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 136px;
+  min-height: 184px;
+  position: absolute;
+  top: 398px;
+  width: 106px;
+}
+
+.industries-locksmith .place-2 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.industries-locksmith .why-uleadz-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-locksmith .about-us-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-locksmith .place-3 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-locksmith .pricing-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-locksmith .group-485 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 632px;
+  min-height: 144px;
+  position: absolute;
+  top: 398px;
+  width: 110px;
+}
+
+.industries-locksmith .industries-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.industries-locksmith .terms-of-use {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-locksmith .privacy-policy {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-locksmith .support {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-locksmith .hellouleadzcom {
+  height: 24px;
+  left: 1105px;
+  letter-spacing: -0.48px;
+  position: absolute;
+  top: 486px;
+}
+
+.industries-locksmith .group-144 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 1119px;
+  min-width: 124px;
+  position: absolute;
+  top: 526px;
+}
+
+.industries-locksmith .overlap-group3-2 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  min-width: 25px;
+  padding: 5.3px 9.2px;
+}
+
+.industries-locksmith .group-143 {
+  height: 14px;
+  width: 7px;
+}
+
+.industries-locksmith .overlap-group2-2 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.3px 6.2px;
+}
+
+.industries-locksmith .group-2 {
+  height: 12px;
+  width: 13px;
+}
+
+.industries-locksmith .overlap-group-10 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.2px 2.3px;
+}
+
+.industries-locksmith .twitter-logowine-1 {
+  height: 13px;
+  width: 20px;
+}
+
+.industries-locksmith .overlap-group1-2 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.2px 2.2px;
+}
+
+.industries-locksmith .you-tube-icon-almost-black-logowine-1 {
+  height: 15px;
+  width: 21px;
+}
+
+.industries-locksmith .uleadz1-1 {
+  height: 72px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 72px;
+}

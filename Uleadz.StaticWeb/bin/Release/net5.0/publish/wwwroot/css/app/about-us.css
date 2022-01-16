@@ -1,0 +1,739 @@
+/* screen - about-us */
+
+.about-us {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 33px 0;
+  width: 1366px;
+}
+
+.about-us .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  margin-left: 68px;
+  min-width: 919px;
+}
+
+.about-us .image-1 {
+  height: 28px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.about-us .group-585 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-left: 229px;
+  min-width: 600px;
+}
+
+.about-us .place {
+  letter-spacing: -0.64px;
+  min-height: 24px;
+  min-width: 47px;
+  opacity: 0.5;
+}
+
+.about-us .why-uleadz {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 89px;
+  opacity: 0.5;
+}
+
+.about-us .overlap-group {
+  height: 30px;
+  margin-left: 40px;
+  position: relative;
+  width: 182px;
+}
+
+.about-us .about-us-1 {
+  left: 114px;
+  letter-spacing: -0.64px;
+  position: absolute;
+  top: 0;
+}
+
+.about-us .group-584 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 0;
+  min-width: 166px;
+  position: absolute;
+  top: 0;
+}
+
+.about-us .industries {
+  letter-spacing: -0.64px;
+  min-height: 24px;
+  min-width: 74px;
+}
+
+.about-us .line-42 {
+  align-self: flex-end;
+  height: 2px;
+  margin-bottom: -1px;
+  margin-left: 42px;
+  width: 50px;
+}
+
+.about-us .pricing {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 52px;
+  opacity: 0.5;
+}
+
+.about-us .place-1 {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  opacity: 0.5;
+}
+
+.about-us .overlap-group6 {
+  height: 1924px;
+  margin-top: 241px;
+  position: relative;
+  width: 1366px;
+}
+
+.about-us .the-need-for-field-management-solutions {
+  left: 159px;
+  letter-spacing: -1.60px;
+  line-height: 48.0px;
+  position: absolute;
+  top: 0;
+}
+
+.about-us .overlap-group7 {
+  height: 1924px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.about-us .overlap-group5 {
+  height: 1797px;
+  left: 0;
+  position: absolute;
+  top: 127px;
+  width: 1366px;
+}
+
+.about-us .rectangle-237 {
+  background-color: var(--desert-storm);
+  height: 1292px;
+  left: 0;
+  position: absolute;
+  top: 505px;
+  width: 1366px;
+}
+
+.about-us .rectangle-243-1 {
+  height: 727px;
+  left: 118px;
+  object-fit: cover;
+  position: absolute;
+  top: 125px;
+  width: 1166px;
+}
+
+.about-us .rectangle-240 {
+  height: 80px;
+  left: 1127px;
+  object-fit: cover;
+  position: absolute;
+  top: 1112px;
+  width: 57px;
+}
+
+.about-us .rectangle-241 {
+  height: 98px;
+  left: 719px;
+  object-fit: cover;
+  position: absolute;
+  top: 1360px;
+  width: 96px;
+}
+
+.about-us .rectangle-239 {
+  height: 653px;
+  left: 756px;
+  position: absolute;
+  top: 1038px;
+  width: 433px;
+}
+
+.about-us .rectangle-242 {
+  height: 96px;
+  left: 1018px;
+  object-fit: cover;
+  position: absolute;
+  top: 1619px;
+  width: 90px;
+}
+
+.about-us .group-606 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 100px;
+  min-height: 512px;
+  position: absolute;
+  top: 1109px;
+  width: 609px;
+}
+
+.about-us .top-ideas {
+  letter-spacing: 0;
+  min-height: 21px;
+  opacity: 0.5;
+}
+
+.about-us .legendary-support {
+  letter-spacing: -1.08px;
+  line-height: 37.8px;
+  margin-top: 8px;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.about-us .uleadz-provides-an-i {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: 24px;
+  min-height: 319px;
+  opacity: 0.8;
+}
+
+.about-us .frame-17 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-top: 40px;
+  min-width: 170px;
+  padding: 0 48px;
+}
+
+.about-us .start-now {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 74px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.about-us .ellipse-37 {
+  background-color: #f17f7f;
+  border-radius: 2.5px/4.5px;
+  height: 9px;
+  left: 1140px;
+  position: absolute;
+  top: 1321px;
+  transform: rotate(-45deg);
+  width: 5px;
+}
+
+.about-us .ellipse-41 {
+  background-color: #8f7ff1;
+  border-radius: 2.5px/4.5px;
+  height: 9px;
+  left: 1029px;
+  position: absolute;
+  top: 1108px;
+  transform: rotate(-45deg);
+  width: 5px;
+}
+
+.about-us .ellipse-38 {
+  background-color: #f3c550;
+  border-radius: 3.62px/6.52px;
+  height: 13px;
+  left: 812px;
+  position: absolute;
+  top: 1239px;
+  transform: rotate(-45deg);
+  width: 7px;
+}
+
+.about-us .ellipse-39 {
+  background-color: #5899e6;
+  border-radius: 3.62px/6.52px;
+  height: 13px;
+  left: 907px;
+  position: absolute;
+  top: 1648px;
+  transform: rotate(-45deg);
+  width: 7px;
+}
+
+.about-us .ellipse-40 {
+  background-color: #58e66e;
+  border-radius: 3.62px/6.52px;
+  height: 13px;
+  left: 1158px;
+  position: absolute;
+  top: 1515px;
+  transform: rotate(-45deg);
+  width: 7px;
+}
+
+.about-us .supercup-1 {
+  height: 218px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.about-us .in-2018-the-ucallz-e {
+  left: 687px;
+  letter-spacing: -0.60px;
+  line-height: 27.0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 526px;
+}
+
+.about-us .group-624 {
+  align-items: center;
+  background-color: var(--baby-powder);
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  height: 890px;
+  min-width: 1366px;
+  padding: 0 68px;
+}
+
+.about-us .arrow-right {
+  height: 32px;
+  margin-top: 422.56px;
+  width: 32px;
+}
+
+.about-us .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 730px;
+  width: 1121px;
+}
+
+.about-us .flex-row-1 {
+  align-items: center;
+  display: flex;
+  min-width: 1053px;
+}
+
+.about-us .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 21.0px;
+  min-height: 210px;
+  width: 566px;
+}
+
+.about-us .testimonial {
+  letter-spacing: 0;
+  min-height: 21px;
+  opacity: 0.5;
+}
+
+.about-us .you-get-more-than-what-you-pay-for {
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  margin-top: 20px;
+  min-height: 120px;
+}
+
+.about-us .we-will-take-care-of-everything-else {
+  letter-spacing: 0;
+  line-height: 28.8px;
+  margin-top: 20px;
+  min-height: 29px;
+  opacity: 0.8;
+  white-space: nowrap;
+}
+
+.about-us .overlap-group-1 {
+  height: 333px;
+  margin-left: 147px;
+  position: relative;
+  width: 340px;
+}
+
+.about-us .rectangle-258 {
+  height: 333px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 333px;
+}
+
+.about-us .rectangle-259 {
+  height: 108px;
+  left: 216px;
+  object-fit: cover;
+  position: absolute;
+  top: 203px;
+  width: 108px;
+}
+
+.about-us .rectangle-260 {
+  height: 108px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 203px;
+  width: 108px;
+}
+
+.about-us .group-622 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 309px;
+  margin-top: 88px;
+  min-width: 1076px;
+}
+
+.about-us .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 31px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  min-height: 309px;
+  padding: 28px 41px;
+  width: 510px;
+}
+
+.about-us .if-you-are-looking {
+  height: 160px;
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  width: 398px;
+}
+
+.about-us .overlap-group-2 {
+  height: 51px;
+  margin-left: 63px;
+  margin-top: 40px;
+  position: relative;
+  width: 171px;
+}
+
+.about-us .name {
+  height: 29px;
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.about-us .home-service-professional {
+  height: 25px;
+  left: 0;
+  letter-spacing: -0.56px;
+  line-height: 25.2px;
+  opacity: 0.5;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.about-us .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 31px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-left: 56px;
+  min-height: 309px;
+  padding: 28px 41px;
+  width: 510px;
+}
+
+.about-us .overlap-group-3 {
+  height: 51px;
+  margin-left: 63px;
+  margin-top: 40px;
+  position: relative;
+  width: 104px;
+}
+
+.about-us .field-technician {
+  height: 25px;
+  left: 0;
+  letter-spacing: -0.56px;
+  line-height: 25.2px;
+  opacity: 0.5;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.about-us .arrow-right-1 {
+  height: 32px;
+  margin-left: 45px;
+  margin-top: 421.44px;
+  width: 32px;
+}
+
+.about-us .footer {
+  align-items: flex-start;
+  display: flex;
+  height: 691px;
+  min-width: 1368px;
+}
+
+.about-us .overlap-group4 {
+  height: 692px;
+  margin-top: -1px;
+  position: relative;
+  width: 1366px;
+}
+
+.about-us .rectangle-170 {
+  height: 691px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1366px;
+}
+
+.about-us .line-41 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.about-us .group-484 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 244px;
+  min-height: 243px;
+  position: absolute;
+  top: 92px;
+  width: 880px;
+}
+
+.about-us .stay-ahead-of-the-ga {
+  letter-spacing: -1.88px;
+  line-height: 75.2px;
+  margin-right: 2.0px;
+  min-height: 150px;
+  min-width: 878px;
+  text-align: center;
+}
+
+.about-us .frame-16 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-right: 2.0px;
+  margin-top: 31px;
+  min-width: 180px;
+  padding: 0 48px;
+}
+
+.about-us .contact-us {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.about-us .group-486 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 136px;
+  min-height: 184px;
+  position: absolute;
+  top: 398px;
+  width: 106px;
+}
+
+.about-us .place-2 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.about-us .why-uleadz-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.about-us .about-us-2 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.about-us .place-3 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.about-us .pricing-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.about-us .group-485 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 632px;
+  min-height: 144px;
+  position: absolute;
+  top: 398px;
+  width: 110px;
+}
+
+.about-us .industries-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.about-us .terms-of-use {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.about-us .privacy-policy {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.about-us .support {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.about-us .hellouleadzcom {
+  height: 24px;
+  left: 1105px;
+  letter-spacing: -0.48px;
+  position: absolute;
+  top: 486px;
+}
+
+.about-us .group-144 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 1119px;
+  min-width: 124px;
+  position: absolute;
+  top: 526px;
+}
+
+.about-us .overlap-group2-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  min-width: 25px;
+  padding: 5.5px 9.2px;
+}
+
+.about-us .group-143 {
+  height: 14px;
+  width: 7px;
+}
+
+.about-us .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.5px 6.2px;
+}
+
+.about-us .group {
+  height: 12px;
+  width: 13px;
+}
+
+.about-us .overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.2px 2.3px;
+}
+
+.about-us .twitter-logowine-1 {
+  height: 13px;
+  width: 20px;
+}
+
+.about-us .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.2px 2.2px;
+}
+
+.about-us .you-tube-icon-almost-black-logowine-1 {
+  height: 15px;
+  width: 21px;
+}
+
+.about-us .uleadz1-1 {
+  height: 72px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 72px;
+}

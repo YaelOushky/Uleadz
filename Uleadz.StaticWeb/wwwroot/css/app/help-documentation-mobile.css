@@ -1,0 +1,761 @@
+/* screen - help-documentation-mobile */
+
+.help-documentation-mobile {
+  align-items: center;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 24.9px 0;
+  width: 375px;
+}
+
+.help-documentation-mobile .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 35px;
+  min-width: 315px;
+}
+
+.help-documentation-mobile .image-1 {
+  align-self: flex-end;
+  height: 28px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.help-documentation-mobile .menu {
+  height: 28px;
+  margin-left: 193px;
+  width: 32px;
+}
+
+.help-documentation-mobile .overlap-group7 {
+  align-self: flex-end;
+  height: 529px;
+  margin-right: -371.0px;
+  margin-top: 95px;
+  position: relative;
+  width: 725px;
+}
+
+.help-documentation-mobile .overlap-group3 {
+  height: 529px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 725px;
+}
+
+.help-documentation-mobile .how-can-we-help-you-today {
+  left: 9px;
+  letter-spacing: -1.36px;
+  line-height: 40.8px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 315px;
+}
+
+.help-documentation-mobile .group-1781 {
+  display: flex;
+  height: 460px;
+  left: 265px;
+  position: absolute;
+  top: 69px;
+  width: 460px;
+}
+
+.help-documentation-mobile .x1207_vw50a-x-rs-zw-qt-mg-1 {
+  height: 910px;
+  margin-left: -224.8px;
+  margin-top: -224.8px;
+  width: 910px;
+}
+
+.help-documentation-mobile .the-help-and-documen {
+  left: 0;
+  letter-spacing: -0.60px;
+  line-height: 27.0px;
+  opacity: 0.4;
+  position: absolute;
+  text-align: center;
+  top: 326px;
+  width: 333px;
+}
+
+.help-documentation-mobile .book-4 {
+  height: 140px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 151px;
+  width: 140px;
+}
+
+.help-documentation-mobile .group-container {
+  align-items: center;
+  background-color: var(--desert-storm);
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+  min-height: 1585px;
+  padding: 40px 21px;
+  width: 375px;
+}
+
+.help-documentation-mobile .search-container {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  height: 60px;
+  min-width: 319px;
+  padding: 11.3px 14px;
+}
+
+.help-documentation-mobile .search {
+  align-self: flex-end;
+  height: 32px;
+  width: 32px;
+}
+
+.help-documentation-mobile .search-feature-for {
+  letter-spacing: -0.56px;
+  line-height: 21px;
+  margin-left: 1px;
+  margin-top: 5.0px;
+  min-height: 21px;
+  min-width: 249px;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .group-580 {
+  display: flex;
+  margin-top: 35px;
+  width: 327px;
+}
+
+.help-documentation-mobile .group-575 {
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  height: 330px;
+  width: 327px;
+}
+
+.help-documentation-mobile .group-574 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25.4px;
+  margin-top: 20px;
+  min-height: 283px;
+  width: 280.13px;
+}
+
+.help-documentation-mobile .overlap-group-1 {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--blue-chalk-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 87px;
+  padding: 0 24.1px;
+}
+
+.help-documentation-mobile .new-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 39px;
+}
+
+.help-documentation-mobile .what-is-new-in-uleadz {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 4.0px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.help-documentation-mobile .try-uleadzs-compreh {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 6.9px;
+  margin-top: 42px;
+  min-height: 120px;
+  opacity: 0.4;
+  width: 265px;
+}
+
+.help-documentation-mobile .group-176 {
+  display: flex;
+  margin-top: 24px;
+  width: 327px;
+}
+
+.help-documentation-mobile .overlap-group {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--blue-chalk-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 87px;
+  padding: 0 27.6px;
+}
+
+.help-documentation-mobile .video-tutorial-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.help-documentation-mobile .quick-start-tutorial {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 4.0px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.help-documentation-mobile .operating-system-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.help-documentation-mobile .system-requirements-and-recommendations {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 4.0px;
+  margin-top: 23px;
+  min-height: 52px;
+  width: 254px;
+}
+
+.help-documentation-mobile .try-uleadzs-compreh-1 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 6.9px;
+  margin-top: 16px;
+  min-height: 120px;
+  opacity: 0.4;
+  width: 265px;
+}
+
+.help-documentation-mobile .dictionary-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.help-documentation-mobile .uleadz-glossary {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 4.0px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.help-documentation-mobile .featured-content {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 1.0px;
+  margin-top: 58px;
+  min-height: 42px;
+  min-width: 248px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .improved-call-secure {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-top: 39px;
+  min-height: 25px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .setting-up-a-new-phone {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-left: 1.0px;
+  margin-top: 37px;
+  min-height: 25px;
+  min-width: 218px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .multiple-technicians-in-a-company {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-left: 1.0px;
+  margin-top: 37px;
+  min-height: 25px;
+  min-width: 320px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .troubleshooting-20 {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-left: 2.0px;
+  margin-top: 37px;
+  min-height: 25px;
+  min-width: 181px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .ap-is-and-more {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-left: 1.0px;
+  margin-top: 37px;
+  min-height: 25px;
+  min-width: 138px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .automating-joby {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-left: 1.0px;
+  margin-top: 35px;
+  min-height: 25px;
+  min-width: 162px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .scheduling-a-job {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-left: 1.0px;
+  margin-top: 37px;
+  min-height: 25px;
+  min-width: 154px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .reports-and-statistics {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-top: 37px;
+  min-height: 25px;
+  min-width: 199px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .employee-sign-in {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-left: 1.0px;
+  margin-top: 37px;
+  min-height: 25px;
+  min-width: 156px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .connecting-multiple-accounts {
+  letter-spacing: -1.00px;
+  line-height: 25px;
+  margin-top: 37px;
+  min-height: 25px;
+  min-width: 279px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .frame-container {
+  border-radius: 50px;
+  height: 49px;
+  margin-left: 1.0px;
+  margin-top: 59px;
+  position: relative;
+  width: 250px;
+}
+
+.help-documentation-mobile .frame {
+  border-radius: 50px;
+  display: flex;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.help-documentation-mobile .show-all-featured-content {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 35px;
+  margin-top: 14px;
+  width: 180px;
+}
+
+.help-documentation-mobile .group-container-1 {
+  height: 1436px;
+  margin-left: 4.0px;
+  margin-top: 59px;
+  position: relative;
+  width: 379px;
+}
+
+.help-documentation-mobile .group-1764 {
+  height: 20px;
+  left: 68px;
+  position: absolute;
+  top: 567px;
+  width: 246px;
+}
+
+.help-documentation-mobile .group-1865 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1436px;
+  position: absolute;
+  top: 0;
+  width: 379px;
+}
+
+.help-documentation-mobile .overlap-group1 {
+  align-items: center;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  min-height: 712px;
+  padding: 32px 24px;
+  width: 375px;
+}
+
+.help-documentation-mobile .didnt-find-what-you {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 42px;
+  min-height: 168px;
+  text-align: center;
+  width: 326px;
+}
+
+.help-documentation-mobile .enter-your-details {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-left: 2.0px;
+  margin-top: 48px;
+  min-height: 17px;
+  min-width: 309px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile .group-1833 {
+  display: flex;
+  flex-direction: column;
+  height: 27px;
+  margin-right: 2.0px;
+  margin-top: 44px;
+  width: 321px;
+}
+
+.help-documentation-mobile .your-name {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.help-documentation-mobile .line-63 {
+  height: 1px;
+  margin-top: 9.5px;
+  width: 319px;
+}
+
+.help-documentation-mobile .group-183 {
+  display: flex;
+  flex-direction: column;
+  height: 27px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  width: 321px;
+}
+
+.help-documentation-mobile .your-email {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.help-documentation-mobile .your-company {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.help-documentation-mobile .tell-us-how-we-can-help {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+  width: 166px;
+}
+
+.help-documentation-mobile .frame-5 {
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 49px;
+  margin-left: 8.0px;
+  margin-top: 54px;
+  width: 181px;
+}
+
+.help-documentation-mobile .schedule-demo {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 35px;
+  margin-top: 14px;
+  width: 111px;
+}
+
+.help-documentation-mobile .overlap-group-2 {
+  align-items: center;
+  background-image: url(../../lib/img/rectangle-170-2@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 724px;
+  padding: 15px 25px;
+  width: 375px;
+}
+
+.help-documentation-mobile .stay-ahead-of-the-ga {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 28.0px;
+  margin-top: 57px;
+  min-height: 109px;
+  min-width: 324px;
+  text-align: center;
+}
+
+.help-documentation-mobile .span1 {
+  line-height: 39.2px;
+}
+
+.help-documentation-mobile .frame-16 {
+  background-color: var(--black);
+  border-radius: 33px;
+  display: flex;
+  height: 42px;
+  margin-top: 32px;
+  width: 143px;
+}
+
+.help-documentation-mobile .contact-us {
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-left: 21px;
+  margin-top: 8.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.help-documentation-mobile .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 9.0px;
+  margin-top: 60px;
+  min-width: 294px;
+}
+
+.help-documentation-mobile .group-486 {
+  display: flex;
+  flex-direction: column;
+  height: 184px;
+  width: 112px;
+}
+
+.help-documentation-mobile .place {
+  height: 24px;
+  letter-spacing: 0;
+  width: 48px;
+}
+
+.help-documentation-mobile .why-uleadz {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 102px;
+}
+
+.help-documentation-mobile .about-us {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 72px;
+}
+
+.help-documentation-mobile .place-1 {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 66px;
+}
+
+.help-documentation-mobile .pricing {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 54px;
+}
+
+.help-documentation-mobile .group-485 {
+  display: flex;
+  flex-direction: column;
+  height: 144px;
+  margin-left: 65px;
+  width: 117px;
+}
+
+.help-documentation-mobile .industries {
+  height: 24px;
+  letter-spacing: 0;
+  width: 78px;
+}
+
+.help-documentation-mobile .terms-of-use {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 102px;
+}
+
+.help-documentation-mobile .privacy-policy {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 109px;
+}
+
+.help-documentation-mobile .support {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 64px;
+}
+
+.help-documentation-mobile .group-144 {
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 54px;
+  width: 278px;
+}
+
+.help-documentation-mobile .group-1759 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 50px;
+  padding: 0 18.7px;
+}
+
+.help-documentation-mobile .group-143 {
+  height: 24px;
+  width: 12px;
+}
+
+.help-documentation-mobile .group-1758 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 12.6px 12.4px;
+}
+
+.help-documentation-mobile .group {
+  height: 24px;
+  width: 25px;
+}
+
+.help-documentation-mobile .group-1757 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 14.5px 13px;
+}
+
+.help-documentation-mobile .vector {
+  height: 20px;
+  width: 24px;
+}
+
+.help-documentation-mobile .group-1756 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 16.0px 13px;
+}
+
+.help-documentation-mobile .group-1755 {
+  height: 18px;
+  width: 24px;
+}
+
+.help-documentation-mobile .hellouleadzcom {
+  height: 24px;
+  letter-spacing: 0;
+  margin-left: 7.0px;
+  margin-top: 39px;
+  min-width: 148px;
+}
+
+.help-documentation-mobile .uleadz1-1 {
+  height: 32px;
+  margin-left: 1.0px;
+  margin-top: 11px;
+  object-fit: cover;
+  width: 32px;
+}

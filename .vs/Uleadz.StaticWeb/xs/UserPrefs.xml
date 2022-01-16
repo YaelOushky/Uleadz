@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E0C6E4D9-8531-44B5-B85A-4569E4B7123E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Uleadz.StaticWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Uleadz.StaticWeb/Pages/index.cshtml">
+    <Files>
+      <File FileName="Uleadz.StaticWeb/Pages/homepage.cshtml" Line="10" Column="43" />
+      <File FileName="Uleadz.StaticWeb/Pages/about-us.cshtml" Line="16" Column="9" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Layout.cshtml" Line="37" Column="9" />
+      <File FileName="Uleadz.StaticWeb/Pages/contact.cshtml" Line="17" Column="9" />
+      <File FileName="Uleadz.StaticWeb/Pages/help-documentation.cshtml" Line="17" Column="9" />
+      <File FileName="Uleadz.StaticWeb/Pages/pricing.cshtml" Line="13" Column="9" />
+      <File FileName="Uleadz.StaticWeb/Pages/why-uleadz.cshtml" Line="17" Column="9" />
+      <File FileName="Uleadz.StaticWeb/Pages/frame-26.cshtml" Line="1" Column="1" />
+      <File FileName="Uleadz.StaticWeb/Startup.cs" Line="56" Column="16" />
+      <File FileName="Uleadz.StaticWeb/appsettings.json" Line="1" Column="1" />
+      <File FileName="Uleadz.StaticWeb/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Uleadz.StaticWeb/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Uleadz.StaticWeb" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/Pages/Shared/_HomePage.cshtml" relfile="Uleadz.StaticWeb/Pages/Shared/_HomePage.cshtml" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

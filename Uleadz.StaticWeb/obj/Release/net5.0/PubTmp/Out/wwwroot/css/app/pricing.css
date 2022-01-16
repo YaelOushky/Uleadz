@@ -1,0 +1,1470 @@
+/* screen - pricing */
+
+    .pricing {
+        align-items: center;
+        background-color: var(--alabaster);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        padding: 33px 0;
+        width: 1366px;
+    }
+
+        .pricing .flex-row {
+            align-items: flex-start;
+            align-self: flex-start;
+            display: flex;
+            height: 32px;
+            margin-left: 68px;
+            min-width: 957px;
+        }
+
+        .pricing .image-1 {
+            height: 28px;
+            object-fit: cover;
+            width: 90px;
+        }
+
+        .pricing .menu {
+            align-items: flex-start;
+            align-self: flex-end;
+            display: flex;
+            margin-left: 188px;
+            min-width: 679px;
+        }
+
+        .pricing .place {
+            letter-spacing: 0;
+            min-height: 24px;
+            min-width: 48px;
+            opacity: 0.5;
+        }
+
+        .pricing .group-498 {
+            display: flex;
+            margin-left: 39px;
+            width: 97px;
+        }
+
+        .pricing .why-uleadz {
+            height: 24px;
+            letter-spacing: 0;
+            opacity: 0.5;
+            width: 95px;
+        }
+
+        .pricing .overlap-group6 {
+            height: 30px;
+            margin-left: 32px;
+            position: relative;
+            width: 277px;
+        }
+
+        .pricing .pricing-1 {
+            left: 222px;
+            letter-spacing: 0;
+            position: absolute;
+            top: 0;
+        }
+
+        .pricing .about-us {
+            left: 114px;
+            letter-spacing: 0;
+            opacity: 0.5;
+            position: absolute;
+            top: 0;
+        }
+
+        .pricing .group-584 {
+            display: flex;
+            height: 30px;
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: 262px;
+        }
+
+        .pricing .group-499 {
+            display: flex;
+            opacity: 0.5;
+            width: 82px;
+        }
+
+        .pricing .industries {
+            height: 24px;
+            letter-spacing: 0;
+            width: 80px;
+        }
+
+        .pricing .line-42 {
+            height: 2px;
+            margin-left: 140px;
+            margin-top: 29px;
+            width: 40px;
+        }
+
+        .pricing .place-1 {
+            letter-spacing: 0;
+            margin-left: 37px;
+            min-height: 24px;
+            min-width: 66px;
+            opacity: 0.5;
+        }
+
+        .pricing .help {
+            letter-spacing: 0;
+            margin-left: 36px;
+            min-height: 24px;
+            opacity: 0.5;
+        }
+
+        .pricing .plans-and-pricing {
+            letter-spacing: -2.00px;
+            line-height: 60.0px;
+            margin-top: 178px;
+            min-height: 60px;
+            min-width: 402px;
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        .pricing .uleadz-comes-in-4-ve {
+            letter-spacing: -0.60px;
+            line-height: 27.0px;
+            margin-top: 24px;
+            min-height: 27px;
+            min-width: 462px;
+            opacity: 0.5;
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        .pricing .overlap-group7 {
+            height: 826px;
+            margin-top: 60px;
+            position: relative;
+            width: 1160px;
+        }
+
+        .pricing .group-615 {
+            align-items: center;
+            display: flex;
+            height: 826px;
+            left: 0;
+            min-width: 1160px;
+            position: absolute;
+            top: 0;
+        }
+
+        .pricing .overlap-group-container {
+            height: 826px;
+            position: relative;
+            width: 867px;
+        }
+
+        .pricing .overlap-group-1 {
+            align-items: center;
+            background-color: var(--ffffff);
+            border-radius: 25px;
+            box-shadow: 0px 0px 80px #00000005;
+            display: flex;
+            flex-direction: column;
+            left: 0;
+            min-height: 751px;
+            padding: 31px 16px;
+            position: absolute;
+            top: 37px;
+            width: 281px;
+        }
+
+        .pricing .flex-row-1 {
+            align-items: flex-start;
+            display: flex;
+            height: 65px;
+            margin-right: 40.0px;
+            margin-top: 2px;
+            min-width: 209px;
+        }
+
+        .pricing .rectangle-25 {
+            height: 62px;
+            object-fit: cover;
+            width: 62px;
+        }
+
+        .pricing .flex-col-1 {
+            align-items: flex-start;
+            align-self: flex-end;
+            display: flex;
+            flex-direction: column;
+            margin-left: 13px;
+            min-height: 65px;
+            width: 134px;
+        }
+
+        .pricing .basic {
+            letter-spacing: -0.80px;
+            line-height: 36.0px;
+            margin-left: 2px;
+            min-height: 36px;
+            min-width: 51px;
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        .pricing .free-billed-monthly {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .span0 {
+            letter-spacing: -0.10px;
+        }
+
+        .pricing .span1 {
+            letter-spacing: -0.08px;
+            line-height: 25.2px;
+        }
+
+        .pricing .line {
+            height: 2px;
+            margin-left: 1.0px;
+            margin-top: 27px;
+            width: 246px;
+        }
+
+        .pricing .group-608 {
+            align-items: flex-start;
+            display: flex;
+            height: 303px;
+            margin-left: 13.0px;
+            margin-top: 9px;
+            min-width: 192px;
+        }
+
+        .pricing .verify-container-1 {
+            align-items: flex-start;
+            display: flex;
+            flex-direction: column;
+            margin-top: -0.25px;
+            min-height: 288px;
+            width: 28px;
+        }
+
+        .pricing .verify {
+            height: 28px;
+            width: 28px;
+        }
+
+        .pricing .verify-1 {
+            height: 28px;
+            margin-top: 24px;
+            width: 28px;
+        }
+
+        .pricing .flex-col-2 {
+            align-items: flex-start;
+            align-self: flex-end;
+            display: flex;
+            flex-direction: column;
+            margin-left: 7px;
+            min-height: 294px;
+            width: 145px;
+        }
+
+        .pricing .standard-features {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .up-to-3-technicians {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .up-to-500-sms {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .up-to-500-minutes {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-1 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .frame-18 {
+            align-items: flex-start;
+            background-color: var(--violet-red);
+            border-radius: 15px;
+            display: flex;
+            height: 65px;
+            justify-content: flex-end;
+            margin-top: 216px;
+            min-width: 233px;
+            padding: 17.5px 50px;
+        }
+
+        .pricing .choose-plan {
+            align-self: center;
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            min-height: 29px;
+            min-width: 94px;
+            white-space: nowrap;
+        }
+
+        .pricing .arrow-right-1 {
+            height: 25px;
+            margin-left: 10px;
+            width: 24px;
+        }
+
+        .pricing .overlap-group1 {
+            align-items: center;
+            background-color: var(--ffffff);
+            border-radius: 25px;
+            box-shadow: 0px 0px 80px #00000005;
+            display: flex;
+            flex-direction: column;
+            left: 586px;
+            min-height: 751px;
+            padding: 26.8px 16px;
+            position: absolute;
+            top: 37px;
+            width: 281px;
+        }
+
+        .pricing .flex-row-2 {
+            align-items: flex-start;
+            align-self: flex-start;
+            display: flex;
+            height: 71px;
+            min-width: 206px;
+        }
+
+        .pricing .flex-col-3 {
+            align-items: flex-start;
+            align-self: flex-end;
+            display: flex;
+            flex-direction: column;
+            margin-left: 13px;
+            min-height: 65px;
+            width: 131px;
+        }
+
+        .pricing .pro {
+            letter-spacing: -0.80px;
+            line-height: 36.0px;
+            margin-left: 2px;
+            min-height: 36px;
+            white-space: nowrap;
+        }
+
+        .pricing .x119-billed-monthly {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .group-6 {
+            align-items: flex-start;
+            align-self: flex-end;
+            display: flex;
+            height: 462px;
+            margin-right: 8px;
+            margin-top: 9px;
+            min-width: 214px;
+        }
+
+        .pricing .verify-container {
+            align-items: flex-start;
+            display: flex;
+            flex-direction: column;
+            margin-top: -0.25px;
+            min-height: 445px;
+            width: 28px;
+        }
+
+        .pricing .flex-col {
+            align-items: flex-start;
+            align-self: flex-end;
+            display: flex;
+            flex-direction: column;
+            margin-left: 7px;
+            min-height: 453px;
+            width: 161px;
+        }
+
+        .pricing .standard-features-1 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-2 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .unlimited-technicians {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-3 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-4 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-5 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .joby {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .call-masking {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .x247-live-support {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .frame-2 {
+            align-items: flex-start;
+            background-color: var(--violet-red);
+            border-radius: 15px;
+            display: flex;
+            height: 65px;
+            justify-content: flex-end;
+            margin-top: 57px;
+            min-width: 233px;
+            padding: 17.8px 50px;
+        }
+
+        .pricing .arrow-right {
+            height: 24px;
+            margin-left: 10px;
+            width: 24px;
+        }
+
+        .pricing .overlap-group3 {
+            align-items: center;
+            background-color: #272727;
+            border-radius: 27.49px;
+            box-shadow: 0px 0px 87.97px #00000005;
+            display: flex;
+            flex-direction: column;
+            left: 279px;
+            min-height: 826px;
+            padding: 34.1px 18.4px;
+            position: absolute;
+            top: 0;
+            width: 309px;
+        }
+
+        .pricing .place-2 {
+            letter-spacing: -0.88px;
+            line-height: 39.6px;
+            margin-right: 6.6px;
+            margin-top: 2px;
+            min-height: 40px;
+            white-space: nowrap;
+            width: 98px;
+        }
+
+        .pricing .x49-billed-monthly {
+            color: transparent;
+            font-family: var(--font-family-poppins);
+            font-size: 17px;
+            font-weight: 500;
+            letter-spacing: -0.68px;
+            line-height: 30.6px;
+            margin-left: 35.19px;
+            min-height: 32px;
+            white-space: nowrap;
+            width: 144px;
+        }
+
+        .pricing .span0-1 {
+            color: var(--ffffff);
+            font-weight: 500;
+            letter-spacing: -0.12px;
+        }
+
+        .pricing .span1-1 {
+            color: var(--ffffff);
+            font-size: 17.6px;
+            font-weight: 500;
+            letter-spacing: -0.12px;
+            line-height: 31.7px;
+        }
+
+        .pricing .span2 {
+            color: var(--mist-gray);
+            font-size: var(--font-size-l);
+            font-weight: 400;
+            letter-spacing: -0.09px;
+            line-height: 27.0px;
+        }
+
+        .pricing .line-59 {
+            align-self: flex-end;
+            height: 2px;
+            margin-top: 30px;
+            width: 271px;
+        }
+
+        .pricing .group-607 {
+            align-items: flex-start;
+            display: flex;
+            height: 508px;
+            margin-left: 19.1px;
+            margin-top: 11px;
+            min-width: 234px;
+        }
+
+        .pricing .verify-container-2 {
+            align-items: flex-start;
+            display: flex;
+            flex-direction: column;
+            margin-top: -0.37px;
+            min-height: 489px;
+            width: 32px;
+        }
+
+        .pricing .verify-4 {
+            height: 31px;
+            width: 32px;
+        }
+
+        .pricing .verify-2 {
+            height: 30px;
+            margin-top: 27px;
+            width: 32px;
+        }
+
+        .pricing .verify-3 {
+            height: 31px;
+            margin-top: 27px;
+            width: 32px;
+        }
+
+        .pricing .flex-col-4 {
+            align-items: flex-start;
+            align-self: flex-end;
+            display: flex;
+            flex-direction: column;
+            margin-left: 7px;
+            min-height: 498px;
+            width: 177px;
+        }
+
+        .pricing .standard-features-2 {
+            letter-spacing: -0.68px;
+            line-height: 30.6px;
+            min-height: 32px;
+            white-space: nowrap;
+        }
+
+        .pricing .flex-col-item {
+            letter-spacing: -0.68px;
+            line-height: 30.6px;
+            margin-top: 26px;
+            min-height: 32px;
+            white-space: nowrap;
+        }
+
+        .pricing .frame-19 {
+            align-items: flex-start;
+            background-color: var(--blue-icons-);
+            border-radius: 16.49px;
+            display: flex;
+            height: 71px;
+            justify-content: flex-end;
+            margin-right: 0;
+            margin-top: 62px;
+            min-width: 256px;
+            padding: 19.7px 54.7px;
+        }
+
+        .pricing .choose-plan-1 {
+            align-self: center;
+            color: var(--ffffff);
+            font-family: var(--font-family-poppins);
+            font-size: 17px;
+            font-weight: 600;
+            letter-spacing: -0.68px;
+            line-height: 30.6px;
+            min-height: 32px;
+            white-space: nowrap;
+            width: 103px;
+        }
+
+        .pricing .arrow-right-2 {
+            height: 26px;
+            margin-left: 11px;
+            width: 27px;
+        }
+
+        .pricing .overlap-group2 {
+            align-items: center;
+            background-color: var(--ffffff);
+            border-radius: 25px;
+            box-shadow: 0px 0px 80px #00000005;
+            display: flex;
+            flex-direction: column;
+            margin-left: 12px;
+            min-height: 751px;
+            padding: 26.8px 16px;
+            width: 281px;
+        }
+
+        .pricing .flex-row-3 {
+            align-items: flex-start;
+            display: flex;
+            height: 71px;
+            margin-right: 39.0px;
+            min-width: 210px;
+        }
+
+        .pricing .flex-col-5 {
+            align-items: flex-start;
+            align-self: flex-end;
+            display: flex;
+            flex-direction: column;
+            margin-left: 13px;
+            min-height: 65px;
+            width: 135px;
+        }
+
+        .pricing .premium {
+            letter-spacing: -0.80px;
+            line-height: 36.0px;
+            margin-left: 2px;
+            min-height: 36px;
+            white-space: nowrap;
+        }
+
+        .pricing .x219-billed-monthly {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .standard-features-3 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-6 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .unlimited-technicians-1 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-7 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-8 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .address-9 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .joby-1 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .call-masking-1 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .x247-live-support-1 {
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            margin-top: 24px;
+            min-height: 29px;
+            white-space: nowrap;
+        }
+
+        .pricing .frame-22 {
+            background-color: var(--blue-icons-);
+            border-radius: 80px;
+            display: flex;
+            height: 24px;
+            left: 515px;
+            position: absolute;
+            top: 9px;
+            width: 61px;
+        }
+
+        .pricing .popular {
+            color: var(--ffffff);
+            font-family: var(--font-family-poppins);
+            font-size: 8px;
+            font-weight: 400;
+            height: 14px;
+            letter-spacing: -0.32px;
+            line-height: 14.4px;
+            margin-left: 16px;
+            margin-top: 5px;
+            white-space: nowrap;
+            width: 29px;
+        }
+
+        .pricing .rectangle-252 {
+            height: 68px;
+            left: 296px;
+            object-fit: cover;
+            position: absolute;
+            top: 30px;
+            width: 68px;
+        }
+
+        .pricing .group-624 {
+            background-color: var(--baby-powder);
+            box-shadow: 0px 0px 82px #0000000d;
+            display: flex;
+            height: 963px;
+            margin-top: 163px;
+            width: 1366px;
+        }
+
+        .pricing .group-623 {
+            align-items: center;
+            display: flex;
+            height: 770px;
+            margin-left: 68px;
+            margin-top: 80px;
+            min-width: 1236px;
+        }
+
+        .pricing .arrow-right-3 {
+            height: 32px;
+            margin-top: 309.9px;
+            width: 32px;
+        }
+
+        .pricing .flex-col-6 {
+            align-items: flex-start;
+            display: flex;
+            flex-direction: column;
+            min-height: 770px;
+            width: 1121px;
+        }
+
+        .pricing .flex-row-4 {
+            align-items: center;
+            display: flex;
+            min-width: 1083px;
+        }
+
+        .pricing .flex-col-7 {
+            align-items: flex-start;
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 42.0px;
+            min-height: 210px;
+            width: 566px;
+        }
+
+        .pricing .testimonial {
+            letter-spacing: 0;
+            min-height: 21px;
+            opacity: 0.5;
+        }
+
+        .pricing .you-get-more-than-what-you-pay-for {
+            letter-spacing: -2.00px;
+            line-height: 60.0px;
+            margin-top: 20px;
+            min-height: 120px;
+        }
+
+        .pricing .we-will-take-care-of-everything-else {
+            letter-spacing: 0;
+            line-height: 28.8px;
+            margin-top: 20px;
+            min-height: 29px;
+            opacity: 0.8;
+            white-space: nowrap;
+        }
+
+        .pricing .overlap-group-2 {
+            height: 354px;
+            margin-left: 148px;
+            position: relative;
+            width: 369px;
+        }
+
+        .pricing .rectangle-258 {
+            height: 333px;
+            left: 6px;
+            object-fit: cover;
+            position: absolute;
+            top: 0;
+            width: 333px;
+        }
+
+        .pricing .rectangle-259 {
+            height: 108px;
+            left: 261px;
+            object-fit: cover;
+            position: absolute;
+            top: 246px;
+            width: 108px;
+        }
+
+        .pricing .rectangle-260 {
+            height: 108px;
+            left: 0;
+            object-fit: cover;
+            position: absolute;
+            top: 119px;
+            width: 108px;
+        }
+
+        .pricing .group-622 {
+            align-self: flex-end;
+            display: flex;
+            margin-top: 107px;
+            width: 1076px;
+        }
+
+        .pricing .group-621 {
+            align-items: flex-start;
+            display: flex;
+            height: 309px;
+            min-width: 512px;
+        }
+
+        .pricing .overlap-group {
+            align-items: flex-start;
+            background-color: var(--ffffff);
+            border-radius: 31px;
+            box-shadow: 0px 0px 82px #0000000d;
+            display: flex;
+            flex-direction: column;
+            min-height: 309px;
+            padding: 28px 41px;
+            width: 510px;
+        }
+
+        .pricing .if-you-are-looking {
+            height: 160px;
+            letter-spacing: -0.72px;
+            line-height: 32.4px;
+            width: 398px;
+        }
+
+        .pricing .group-618 {
+            display: flex;
+            margin-top: 40px;
+            width: 234px;
+        }
+
+        .pricing .group-617 {
+            align-items: flex-start;
+            display: flex;
+            margin-left: 63px;
+            min-width: 175px;
+        }
+
+        .pricing .overlap-group-3 {
+            height: 51px;
+            position: relative;
+            width: 171px;
+        }
+
+        .pricing .name {
+            height: 29px;
+            left: 0;
+            letter-spacing: -0.64px;
+            line-height: 28.8px;
+            position: absolute;
+            top: 0;
+            white-space: nowrap;
+        }
+
+        .pricing .home-service-professional {
+            height: 25px;
+            left: 0;
+            letter-spacing: -0.56px;
+            line-height: 25.2px;
+            opacity: 0.5;
+            position: absolute;
+            top: 26px;
+            white-space: nowrap;
+        }
+
+        .pricing .group-620 {
+            align-items: flex-start;
+            display: flex;
+            height: 309px;
+            margin-left: 54px;
+            min-width: 512px;
+        }
+
+        .pricing .group-619 {
+            display: flex;
+            margin-top: 40px;
+            width: 167px;
+        }
+
+        .pricing .group-617-1 {
+            align-items: flex-start;
+            display: flex;
+            margin-left: 63px;
+            min-width: 108px;
+        }
+
+        .pricing .overlap-group-4 {
+            height: 51px;
+            position: relative;
+            width: 104px;
+        }
+
+        .pricing .field-technician {
+            height: 25px;
+            left: 0;
+            letter-spacing: -0.56px;
+            line-height: 25.2px;
+            opacity: 0.5;
+            position: absolute;
+            top: 26px;
+            white-space: nowrap;
+        }
+
+        .pricing .arrow-right-4 {
+            align-self: flex-end;
+            height: 32px;
+            margin-bottom: 175.0px;
+            margin-left: 45px;
+            width: 32px;
+        }
+
+        .pricing .overlap-group8 {
+            align-self: flex-start;
+            height: 868px;
+            margin-left: -23px;
+            position: relative;
+            width: 1389px;
+        }
+
+        .pricing .rectangle-222 {
+            background-color: var(--ffffff);
+            height: 868px;
+            left: 22px;
+            position: absolute;
+            top: 0;
+            width: 1367px;
+        }
+
+        .pricing .rectangle-223-1 {
+            height: 768px;
+            left: 0;
+            object-fit: cover;
+            position: absolute;
+            top: 50px;
+            width: 799px;
+        }
+
+        .pricing .group-628 {
+            display: flex;
+            flex-direction: column;
+            height: 672px;
+            left: 704px;
+            position: absolute;
+            top: 98px;
+            width: 569px;
+        }
+
+        .pricing .group-572 {
+            display: flex;
+            height: 530px;
+            width: 569px;
+        }
+
+        .pricing .group-571 {
+            align-items: flex-start;
+            display: flex;
+            flex-direction: column;
+            min-height: 530px;
+            width: 575px;
+        }
+
+        .pricing .we-have-defined-a-co {
+            height: 135px;
+            letter-spacing: -1.80px;
+            line-height: 45px;
+        }
+
+        .pricing .line-22 {
+            height: 2px;
+            margin-top: 40px;
+            width: 416px;
+        }
+
+        .pricing .flex-row-5 {
+            align-items: center;
+            display: flex;
+            margin-top: 69px;
+            min-width: 531px;
+        }
+
+        .pricing .line-23 {
+            height: 2px;
+            width: 18px;
+        }
+
+        .pricing .are-there-any-commitments-or-contracts {
+            height: 30px;
+            letter-spacing: -1.20px;
+            line-height: 30px;
+            margin-left: 52px;
+            min-width: 461px;
+            white-space: nowrap;
+        }
+
+        .pricing .if-you-sign-up-for-u {
+            align-self: flex-end;
+            letter-spacing: -1.00px;
+            line-height: 34.0px;
+            margin-right: 16px;
+            margin-top: 23px;
+            min-height: 68px;
+            min-width: 489px;
+        }
+
+        .pricing .group-570 {
+            display: flex;
+            flex-direction: column;
+            height: 103px;
+            margin-top: 60px;
+            opacity: 0.4;
+            width: 459px;
+        }
+
+        .pricing .group-569 {
+            display: flex;
+            width: 299px;
+        }
+
+        .pricing .group-48 {
+            align-items: flex-start;
+            display: flex;
+            margin-top: 6px;
+            min-width: 18px;
+        }
+
+        .pricing .line-container {
+            height: 18px;
+            position: relative;
+            width: 18px;
+        }
+
+        .pricing .line-24 {
+            height: 2px;
+            left: 0;
+            position: absolute;
+            top: 9px;
+            width: 18px;
+        }
+
+        .pricing .line-25 {
+            height: 18px;
+            left: 9px;
+            position: absolute;
+            top: 0;
+            width: 2px;
+        }
+
+        .pricing .can-i-change-plans {
+            height: 30px;
+            letter-spacing: -1.20px;
+            line-height: 30px;
+            margin-left: 52px;
+            white-space: nowrap;
+            width: 227px;
+        }
+
+        .pricing .group-568 {
+            display: flex;
+            margin-top: 43px;
+            width: 461px;
+        }
+
+        .pricing .what-happens-if-i-go-over-my-plan {
+            height: 30px;
+            letter-spacing: -1.20px;
+            line-height: 30px;
+            margin-left: 52px;
+            white-space: nowrap;
+            width: 389px;
+        }
+
+        .pricing .frame-17 {
+            background-color: var(--brilliant-rose);
+            border-radius: 50px;
+            display: flex;
+            height: 62px;
+            margin-top: 80px;
+            width: 197px;
+        }
+
+        .pricing .book-a-demo {
+            height: 22px;
+            letter-spacing: -0.64px;
+            line-height: 22.4px;
+            margin-left: 48px;
+            margin-top: 20px;
+            text-align: center;
+            white-space: nowrap;
+            width: 101px;
+        }
+
+        .pricing .footer {
+            align-items: flex-start;
+            display: flex;
+            height: 691px;
+            margin-left: 2.0px;
+            margin-top: 2px;
+            min-width: 1368px;
+        }
+
+        .pricing .overlap-group5 {
+            height: 692px;
+            margin-top: -1px;
+            position: relative;
+            width: 1366px;
+        }
+
+        .pricing .rectangle-170 {
+            height: 691px;
+            left: 0;
+            position: absolute;
+            top: 1px;
+            width: 1366px;
+        }
+
+        .pricing .line-41 {
+            height: 2px;
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: 1366px;
+        }
+
+        .pricing .group-484 {
+            display: flex;
+            flex-direction: column;
+            height: 243px;
+            left: 244px;
+            position: absolute;
+            top: 92px;
+            width: 880px;
+        }
+
+        .pricing .stay-ahead-of-the-ga {
+            height: 150px;
+            letter-spacing: -1.88px;
+            line-height: 75.2px;
+            text-align: center;
+            width: 878px;
+        }
+
+        .pricing .frame-16 {
+            background-color: var(--black);
+            border-radius: 50px;
+            display: flex;
+            height: 62px;
+            margin-left: 349px;
+            margin-top: 31px;
+            width: 180px;
+        }
+
+        .pricing .contact-us {
+            height: 22px;
+            letter-spacing: -0.64px;
+            line-height: 22.4px;
+            margin-left: 48px;
+            margin-top: 20px;
+            text-align: center;
+            white-space: nowrap;
+            width: 84px;
+        }
+
+        .pricing .group-486 {
+            display: flex;
+            flex-direction: column;
+            height: 184px;
+            left: 136px;
+            position: absolute;
+            top: 398px;
+            width: 106px;
+        }
+
+        .pricing .place-3 {
+            height: 24px;
+            letter-spacing: -0.48px;
+            width: 47px;
+        }
+
+        .pricing .why-uleadz-1 {
+            height: 24px;
+            letter-spacing: -0.48px;
+            margin-top: 16px;
+            width: 96px;
+        }
+
+        .pricing .about-us-1 {
+            height: 24px;
+            letter-spacing: -0.48px;
+            margin-top: 16px;
+            width: 68px;
+        }
+
+        .pricing .place-4 {
+            height: 24px;
+            letter-spacing: -0.48px;
+            margin-top: 16px;
+            width: 63px;
+        }
+
+        .pricing .pricing-2 {
+            height: 24px;
+            letter-spacing: -0.48px;
+            margin-top: 16px;
+            width: 51px;
+        }
+
+        .pricing .group-485 {
+            display: flex;
+            flex-direction: column;
+            height: 144px;
+            left: 632px;
+            position: absolute;
+            top: 398px;
+            width: 110px;
+        }
+
+        .pricing .industries-1 {
+            height: 24px;
+            letter-spacing: -0.48px;
+            width: 74px;
+        }
+
+        .pricing .terms-of-use {
+            height: 24px;
+            letter-spacing: -0.48px;
+            margin-top: 16px;
+            width: 96px;
+        }
+
+        .pricing .privacy-policy {
+            height: 24px;
+            letter-spacing: -0.48px;
+            margin-top: 16px;
+            width: 102px;
+        }
+
+        .pricing .support {
+            height: 24px;
+            letter-spacing: -0.48px;
+            margin-top: 16px;
+            width: 61px;
+        }
+
+        .pricing .hellouleadzcom {
+            height: 24px;
+            left: 1105px;
+            letter-spacing: -0.48px;
+            position: absolute;
+            top: 486px;
+        }
+
+        .pricing .group-144 {
+            align-items: flex-start;
+            display: flex;
+            height: 25px;
+            left: 1119px;
+            min-width: 124px;
+            position: absolute;
+            top: 526px;
+        }
+
+        .pricing .overlap-group2-1 {
+            align-items: flex-end;
+            background-color: var(--ffffff);
+            border-radius: 12.65px;
+            display: flex;
+            height: 25px;
+            min-width: 25px;
+            padding: 6.0px 9.2px;
+        }
+
+        .pricing .group-143 {
+            height: 13px;
+            width: 7px;
+        }
+
+        .pricing .overlap-group1-1 {
+            align-items: flex-end;
+            background-color: var(--ffffff);
+            border-radius: 12.65px;
+            display: flex;
+            height: 25px;
+            justify-content: flex-end;
+            margin-left: 8px;
+            min-width: 25px;
+            padding: 6.8px 6.7px;
+        }
+
+        .pricing .group {
+            height: 12px;
+            width: 12px;
+        }
+
+        .pricing .overlap-group3-1 {
+            align-items: flex-end;
+            background-color: var(--ffffff);
+            border-radius: 12.65px;
+            display: flex;
+            height: 25px;
+            margin-left: 8px;
+            min-width: 25px;
+            padding: 6.2px 2.3px;
+        }
+
+        .pricing .twitter-logowine-1 {
+            height: 13px;
+            width: 20px;
+        }
+
+        .pricing .overlap-group-5 {
+            align-items: flex-end;
+            background-color: var(--ffffff);
+            border-radius: 12.65px;
+            display: flex;
+            height: 25px;
+            margin-left: 8px;
+            min-width: 25px;
+            padding: 5.4px 2.4px;
+        }
+
+        .pricing .you-tube-icon-almost-black-logowine-1 {
+            height: 14px;
+            width: 20px;
+        }
+
+        .pricing .uleadz1-1 {
+            height: 72px;
+            left: 1143px;
+            object-fit: cover;
+            position: absolute;
+            top: 398px;
+            width: 72px;
+        }

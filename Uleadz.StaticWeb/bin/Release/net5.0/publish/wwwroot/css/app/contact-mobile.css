@@ -1,0 +1,813 @@
+/* screen - contact-mobile */
+
+.contact-mobile {
+  align-items: center;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 30px 0;
+  width: 375px;
+}
+
+.contact-mobile .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 169px;
+  min-width: 315px;
+}
+
+.contact-mobile .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 167px;
+  width: 265px;
+}
+
+.contact-mobile .image-1 {
+  height: 28px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.contact-mobile .get-in-touch {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 44.2px;
+  margin-top: 95px;
+  min-height: 44px;
+  min-width: 216px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.contact-mobile .menu {
+  height: 32px;
+  margin-left: 18px;
+  width: 32px;
+}
+
+.contact-mobile .group-629 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-top: 40px;
+  min-width: 358px;
+}
+
+.contact-mobile .overlap-group-1 {
+  height: 304px;
+  margin-top: -0.08px;
+  position: relative;
+  width: 358px;
+}
+
+.contact-mobile .rectangle-263 {
+  height: 304px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 305px;
+}
+
+.contact-mobile .lightning-2 {
+  height: 136px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
+
+.contact-mobile .lightning-3 {
+  height: 138px;
+  left: 221px;
+  object-fit: cover;
+  position: absolute;
+  top: 167px;
+  width: 137px;
+}
+
+.contact-mobile .group-1865 {
+  align-items: flex-start;
+  display: flex;
+  height: 620px;
+  margin-left: 4.0px;
+  margin-top: 80px;
+  min-width: 379px;
+}
+
+.contact-mobile .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  display: flex;
+  flex-direction: column;
+  min-height: 620px;
+  padding: 48px 26px;
+  width: 375px;
+}
+
+.contact-mobile .book-a-demo-with-an-expert {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-left: 1.0px;
+  min-height: 84px;
+  min-width: 252px;
+  text-align: center;
+}
+
+.contact-mobile .enter-your-details {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-height: 17px;
+  min-width: 309px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.contact-mobile .group-1833 {
+  display: flex;
+  flex-direction: column;
+  height: 27px;
+  margin-top: 44px;
+  width: 321px;
+}
+
+.contact-mobile .your-name {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.contact-mobile .line-63 {
+  height: 1px;
+  margin-top: 9.5px;
+  width: 319px;
+}
+
+.contact-mobile .group-183 {
+  display: flex;
+  flex-direction: column;
+  height: 27px;
+  margin-top: 48px;
+  width: 321px;
+}
+
+.contact-mobile .your-email {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.contact-mobile .your-company {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.contact-mobile .tell-us-about-your-project {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  white-space: nowrap;
+  width: 177px;
+}
+
+.contact-mobile .frame-5 {
+  align-self: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 49px;
+  margin-left: 8.0px;
+  margin-top: 54px;
+  width: 181px;
+}
+
+.contact-mobile .schedule-demo {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 35px;
+  margin-top: 14px;
+  width: 111px;
+}
+
+.contact-mobile .group-1842 {
+  align-items: flex-end;
+  background-color: var(--blue-icons-);
+  display: flex;
+  height: 813px;
+  min-width: 375px;
+  padding: 58px 81px;
+}
+
+.contact-mobile .group-1841 {
+  display: flex;
+  flex-direction: column;
+  height: 696px;
+  width: 212px;
+}
+
+.contact-mobile .group-1840 {
+  display: flex;
+  flex-direction: column;
+  height: 153px;
+  margin-left: 24px;
+  width: 178px;
+}
+
+.contact-mobile .group-634 {
+  background-image: url(../../lib/img/envelope@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 104px;
+  margin-left: 30px;
+  width: 106px;
+}
+
+.contact-mobile .infouleadzcom {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 18.8px;
+  margin-top: 30px;
+  white-space: nowrap;
+  width: 176px;
+}
+
+.contact-mobile .group-1839 {
+  display: flex;
+  flex-direction: column;
+  height: 157px;
+  margin-left: 23px;
+  margin-top: 80px;
+  width: 180px;
+}
+
+.contact-mobile .rectangle-264 {
+  height: 104px;
+  margin-left: 32px;
+  object-fit: cover;
+  width: 104px;
+}
+
+.contact-mobile .phone {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 18.8px;
+  margin-top: 34px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.contact-mobile .group-1838 {
+  display: flex;
+  flex-direction: column;
+  height: 226px;
+  margin-top: 80px;
+  width: 214px;
+}
+
+.contact-mobile .rectangle-266 {
+  height: 90px;
+  margin-left: 55px;
+  width: 104px;
+}
+
+.contact-mobile .address {
+  height: 102px;
+  letter-spacing: 0;
+  line-height: 34.0px;
+  margin-top: 34px;
+  text-align: center;
+  width: 212px;
+}
+
+.contact-mobile .once-you-go-uleadz {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-top: 58px;
+  min-height: 84px;
+  min-width: 287px;
+  text-align: center;
+}
+
+.contact-mobile .group-601 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 55px;
+  min-width: 454px;
+}
+
+.contact-mobile .overlap-group2 {
+  height: 462px;
+  margin-top: -0.03px;
+  position: relative;
+  width: 454px;
+}
+
+.contact-mobile .ellipse-22 {
+  background-color: var(--brilliant-rose);
+  height: 399px;
+  left: 27px;
+  position: absolute;
+  top: 63px;
+  width: 399px;
+}
+
+.contact-mobile .ellipse-24 {
+  background-color: var(--brilliant-rose);
+  height: 344px;
+  left: 55px;
+  position: absolute;
+  top: 91px;
+  width: 344px;
+}
+
+.contact-mobile .ellipse-23 {
+  background-color: var(--brilliant-rose);
+  height: 284px;
+  left: 85px;
+  position: absolute;
+  top: 121px;
+  width: 284px;
+}
+
+.contact-mobile .mansgement-1 {
+  height: 324px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.contact-mobile .coins2-3 {
+  height: 58px;
+  left: 326px;
+  object-fit: cover;
+  position: absolute;
+  top: 277px;
+  width: 58px;
+}
+
+.contact-mobile .coins2-4 {
+  height: 52px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 52px;
+}
+
+.contact-mobile .overlap-group8 {
+  align-items: center;
+  background-color: var(--desert-storm);
+  display: flex;
+  flex-direction: column;
+  margin-top: 74px;
+  min-height: 1613px;
+  padding: 48px 12.8px;
+  width: 375px;
+}
+
+.contact-mobile .surname {
+  letter-spacing: 0;
+  line-height: 33.6px;
+  margin-right: 1.0px;
+  min-height: 68px;
+  min-width: 320px;
+  text-align: center;
+}
+
+.contact-mobile .overlap-group3 {
+  height: 458px;
+  margin-left: 4.0px;
+  margin-top: 40px;
+  position: relative;
+  width: 327px;
+}
+
+.contact-mobile .mansgement-1-1 {
+  height: 458px;
+  left: 46px;
+  position: absolute;
+  top: 0;
+  width: 234px;
+}
+
+.contact-mobile .coins2-3-1 {
+  height: 48px;
+  left: 280px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  width: 48px;
+}
+
+.contact-mobile .coins2-4-1 {
+  height: 48px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 349px;
+  width: 48px;
+}
+
+.contact-mobile .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 20px;
+  box-shadow: 0px 0px 51.93px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 219px;
+  padding: 21.6px 6px;
+  width: 323px;
+}
+
+.contact-mobile .if-you-are-looking {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 1px;
+  min-height: 125px;
+  min-width: 308px;
+}
+
+.contact-mobile .group-1824 {
+  display: flex;
+  height: 36px;
+  margin-left: 3px;
+  margin-top: 13px;
+  width: 137px;
+}
+
+.contact-mobile .ellipse-42 {
+  height: 30px;
+  margin-left: -0.1px;
+  margin-top: 4.1px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.contact-mobile .group-617 {
+  align-items: flex-end;
+  display: flex;
+  height: 36.45px;
+  margin-left: 10.0px;
+  min-width: 101px;
+}
+
+.contact-mobile .overlap-group {
+  height: 36px;
+  margin-bottom: 0;
+  position: relative;
+  width: 97px;
+}
+
+.contact-mobile .name {
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.contact-mobile .field-technician {
+  height: 22px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21.6px;
+  opacity: 0.5;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.contact-mobile .a-super-powerful-das {
+  letter-spacing: 0;
+  line-height: 33.6px;
+  margin-right: 1.0px;
+  margin-top: 40px;
+  min-height: 102px;
+  min-width: 248px;
+  text-align: center;
+}
+
+.contact-mobile .overlap-group6 {
+  align-self: flex-start;
+  height: 251px;
+  margin-top: 40px;
+  position: relative;
+  width: 347px;
+}
+
+.contact-mobile .group-1-45 {
+  height: 168px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 295px;
+}
+
+.contact-mobile .rectangle-259 {
+  height: 64px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 64px;
+}
+
+.contact-mobile .rectangle-260 {
+  height: 64px;
+  left: 283px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.contact-mobile .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 20px;
+  box-shadow: 0px 0px 51.93px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 34px;
+  min-height: 219px;
+  padding: 21.6px 6px;
+  width: 323px;
+}
+
+.contact-mobile .so-what-are-you-waiting-for {
+  letter-spacing: 0;
+  line-height: 40.8px;
+  margin-left: 2.0px;
+  margin-top: 64px;
+  min-height: 82px;
+  min-width: 283px;
+  text-align: center;
+}
+
+.contact-mobile .frame-6 {
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 49px;
+  margin-left: 11.0px;
+  margin-top: 40px;
+  width: 218px;
+}
+
+.contact-mobile .book-your-demo-now {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 35px;
+  margin-top: 14px;
+  width: 148px;
+}
+
+.contact-mobile .group-1764 {
+  align-items: flex-start;
+  display: flex;
+  height: 724px;
+  margin-left: 4.0px;
+  margin-top: 112px;
+  min-width: 379px;
+}
+
+.contact-mobile .overlap-group7 {
+  align-items: center;
+  background-image: url(../../lib/img/rectangle-170-2@1x.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 724px;
+  padding: 15px 25px;
+  width: 375px;
+}
+
+.contact-mobile .stay-ahead-of-the-ga {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 28.0px;
+  margin-top: 57px;
+  min-height: 109px;
+  min-width: 324px;
+  text-align: center;
+}
+
+.contact-mobile .span1 {
+  line-height: 39.2px;
+}
+
+.contact-mobile .frame-16 {
+  background-color: var(--black);
+  border-radius: 33px;
+  display: flex;
+  height: 42px;
+  margin-top: 32px;
+  width: 143px;
+}
+
+.contact-mobile .contact-us {
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-left: 21px;
+  margin-top: 8.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.contact-mobile .group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 9.0px;
+  margin-top: 60px;
+  min-width: 294px;
+}
+
+.contact-mobile .group-486 {
+  display: flex;
+  flex-direction: column;
+  height: 184px;
+  width: 112px;
+}
+
+.contact-mobile .place {
+  height: 24px;
+  letter-spacing: 0;
+  width: 48px;
+}
+
+.contact-mobile .why-uleadz {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 102px;
+}
+
+.contact-mobile .about-us {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 72px;
+}
+
+.contact-mobile .place-1 {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 66px;
+}
+
+.contact-mobile .pricing {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 54px;
+}
+
+.contact-mobile .group-485 {
+  display: flex;
+  flex-direction: column;
+  height: 144px;
+  margin-left: 65px;
+  width: 117px;
+}
+
+.contact-mobile .industries {
+  height: 24px;
+  letter-spacing: 0;
+  width: 78px;
+}
+
+.contact-mobile .terms-of-use {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 102px;
+}
+
+.contact-mobile .privacy-policy {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 109px;
+}
+
+.contact-mobile .support {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 64px;
+}
+
+.contact-mobile .group-144 {
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 54px;
+  width: 278px;
+}
+
+.contact-mobile .group-1759 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 50px;
+  padding: 0 18.7px;
+}
+
+.contact-mobile .group-143 {
+  height: 24px;
+  width: 12px;
+}
+
+.contact-mobile .group-1758 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 12.6px 12.4px;
+}
+
+.contact-mobile .group {
+  height: 24px;
+  width: 25px;
+}
+
+.contact-mobile .group-1757 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 14.5px 13px;
+}
+
+.contact-mobile .vector {
+  height: 20px;
+  width: 24px;
+}
+
+.contact-mobile .group-1756 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  margin-left: 26px;
+  min-width: 50px;
+  padding: 16.0px 13px;
+}
+
+.contact-mobile .group-1755 {
+  height: 18px;
+  width: 24px;
+}
+
+.contact-mobile .hellouleadzcom {
+  height: 24px;
+  letter-spacing: 0;
+  margin-left: 7.0px;
+  margin-top: 39px;
+  min-width: 148px;
+}
+
+.contact-mobile .uleadz1-1 {
+  height: 32px;
+  margin-left: 1.0px;
+  margin-top: 11px;
+  object-fit: cover;
+  width: 32px;
+}

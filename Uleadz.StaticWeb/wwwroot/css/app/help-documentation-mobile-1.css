@@ -1,0 +1,178 @@
+/* screen - help-documentation-mobile-1 */
+
+.help-documentation-mobile-1 {
+  align-items: center;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  height: 3419px;
+  padding: 18.5px 22px;
+  width: 375px;
+}
+
+.help-documentation-mobile-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 238px;
+  min-width: 327px;
+}
+
+.help-documentation-mobile-1 .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 224px;
+  width: 241px;
+}
+
+.help-documentation-mobile-1 .image-1 {
+  height: 28px;
+  margin-left: 6px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.help-documentation-mobile-1 .group-1876 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 55px;
+  min-height: 72px;
+  width: 241px;
+}
+
+.help-documentation-mobile-1 .vector {
+  height: 8px;
+  margin-right: 30px;
+  margin-top: -1px;
+  width: 17px;
+}
+
+.help-documentation-mobile-1 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 4px;
+  margin-top: 5px;
+  min-height: 60px;
+  padding: 7.0px 20px;
+  width: 237px;
+}
+
+.help-documentation-mobile-1 .select-feature {
+  letter-spacing: -0.56px;
+  line-height: 21px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile-1 .joby {
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  margin-left: 4px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile-1 .joby-1 {
+  letter-spacing: -0.96px;
+  line-height: 28.8px;
+  margin-top: 40px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.help-documentation-mobile-1 .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 12px;
+  min-height: 169px;
+  width: 74px;
+}
+
+.help-documentation-mobile-1 .menu {
+  height: 20px;
+  margin-right: 6px;
+  width: 32px;
+}
+
+.help-documentation-mobile-1 .overlap-group {
+  height: 81px;
+  margin-top: 67px;
+  position: relative;
+  width: 74px;
+}
+
+.help-documentation-mobile-1 .rectangle-309 {
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 74px;
+}
+
+.help-documentation-mobile-1 .search {
+  height: 24px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.help-documentation-mobile-1 .contrary-to-popular {
+  letter-spacing: 0;
+  margin-right: 8.0px;
+  margin-top: 24px;
+  min-height: 123px;
+  opacity: 0.7;
+  width: 315px;
+}
+
+.help-documentation-mobile-1 .what-is-it-lorem-ip {
+  letter-spacing: 0;
+  margin-right: 8.0px;
+  margin-top: 24px;
+  min-height: 912px;
+  opacity: 0.7;
+  width: 315px;
+}
+
+.help-documentation-mobile-1 .web-uleadz-redesign-automation-1 {
+  align-self: flex-end;
+  height: 235px;
+  margin-top: 40px;
+  object-fit: cover;
+  width: 330px;
+}
+
+.help-documentation-mobile-1 .what-is-it-lorem-ip-1 {
+  letter-spacing: 0;
+  margin-right: 8.0px;
+  margin-top: 40px;
+  min-height: 912px;
+  opacity: 0.7;
+  width: 315px;
+}
+
+.help-documentation-mobile-1 .frame-5 {
+  border-radius: 50px;
+  display: flex;
+  height: 49px;
+  margin-left: 1.0px;
+  margin-top: 40px;
+  width: 196px;
+}
+
+.help-documentation-mobile-1 .back-to-help-page {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 35px;
+  margin-top: 14px;
+  width: 126px;
+}

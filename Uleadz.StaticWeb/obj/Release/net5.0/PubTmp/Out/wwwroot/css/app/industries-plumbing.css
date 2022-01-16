@@ -1,0 +1,1731 @@
+/* screen - industries-plumbing */
+
+.industries-plumbing {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  height: 6340px;
+  overflow: hidden;
+  padding: 33px 0;
+  width: 1366px;
+}
+
+.industries-plumbing .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: -47px;
+  min-height: 1824px;
+  width: 1413px;
+}
+
+.industries-plumbing .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 656px;
+  min-width: 1413px;
+}
+
+.industries-plumbing .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 656px;
+  width: 262px;
+}
+
+.industries-plumbing .image-1 {
+  height: 28px;
+  margin-left: 58.0px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.industries-plumbing .overlap-group12 {
+  height: 327px;
+  margin-top: 301px;
+  position: relative;
+  width: 262px;
+}
+
+.industries-plumbing .image-3 {
+  height: 327px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 251px;
+}
+
+.industries-plumbing .book-4 {
+  height: 140px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 140px;
+}
+
+.industries-plumbing .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 33px;
+  margin-top: 2px;
+  min-height: 522px;
+  width: 871px;
+}
+
+.industries-plumbing .group-585 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-left: 7.0px;
+  min-width: 600px;
+}
+
+.industries-plumbing .place {
+  letter-spacing: -0.64px;
+  min-height: 24px;
+  min-width: 47px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .why-uleadz {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 89px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .group-584 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 30px;
+  width: 74px;
+}
+
+.industries-plumbing .industries {
+  letter-spacing: -0.64px;
+  min-height: 24px;
+}
+
+.industries-plumbing .line-42 {
+  height: 2px;
+  margin-top: 5px;
+  width: 61px;
+}
+
+.industries-plumbing .about-us {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 68px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .pricing {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  min-width: 52px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .place-1 {
+  letter-spacing: -0.64px;
+  margin-left: 40px;
+  min-height: 24px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .if-you-work-with-mat {
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  margin-top: 190px;
+  min-height: 120px;
+  min-width: 871px;
+  text-align: center;
+}
+
+.industries-plumbing .ideal-for-trades-and {
+  letter-spacing: -0.60px;
+  line-height: 27.0px;
+  margin-right: 1.0px;
+  margin-top: 33px;
+  min-height: 54px;
+  min-width: 524px;
+  opacity: 0.5;
+  text-align: center;
+}
+
+.industries-plumbing .group-582 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 1.0px;
+  margin-top: 33px;
+  min-width: 400px;
+}
+
+.industries-plumbing .frame-17 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 16px;
+  display: flex;
+  height: 62px;
+  min-width: 180px;
+  padding: 0 48px;
+}
+
+.industries-plumbing .learn-more {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-plumbing .frame-16 {
+  align-items: center;
+  border-radius: 16px;
+  display: flex;
+  height: 62px;
+  margin-left: 30px;
+  min-width: 190px;
+  opacity: 0.5;
+  padding: 0 48px;
+}
+
+.industries-plumbing .how-it-works {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 94px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-plumbing .overlap-group11 {
+  align-self: center;
+  height: 327px;
+  margin-bottom: 117.0px;
+  margin-left: 52px;
+  position: relative;
+  width: 195px;
+}
+
+.industries-plumbing .image-3-1 {
+  height: 327px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 155px;
+}
+
+.industries-plumbing .book-5 {
+  height: 118px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 108px;
+  width: 118px;
+}
+
+.industries-plumbing .overlap-group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 1168px;
+  width: 1366px;
+}
+
+.industries-plumbing .group-container {
+  align-items: center;
+  background-color: var(--desert-storm);
+  display: flex;
+  height: 998px;
+  min-width: 1366px;
+  padding: 0 100px;
+}
+
+.industries-plumbing .group-581 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32.0px;
+  min-height: 604px;
+  width: 547px;
+}
+
+.industries-plumbing .suitable-for-over-30 {
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  min-height: 120px;
+}
+
+.industries-plumbing .the-highest-rated-e {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 38px;
+  min-height: 320px;
+}
+
+.industries-plumbing .span {
+  letter-spacing: -0.13px;
+}
+
+.industries-plumbing .frame-17-1 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 54px;
+  margin-top: 72px;
+  min-width: 156px;
+  padding: 0 36px;
+}
+
+.industries-plumbing .learn-more-1 {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-580 {
+  align-items: flex-start;
+  display: flex;
+  height: 838px;
+  margin-left: 39px;
+  min-width: 580px;
+}
+
+.industries-plumbing .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 838px;
+  width: 270px;
+}
+
+.industries-plumbing .group-575 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  min-height: 399px;
+  padding: 20px 0;
+  width: 270px;
+}
+
+.industries-plumbing .overlap-group {
+  align-items: center;
+  background-color: var(--seashell-peach);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 21px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-plumbing .coins2-5 {
+  height: 44px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.industries-plumbing .easy-to-use-software-for-contractors {
+  align-self: center;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 21.0px;
+  margin-top: 23px;
+  min-height: 52px;
+  min-width: 189px;
+}
+
+.industries-plumbing .try-uleadzs-compreh {
+  align-self: center;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9.0px;
+  margin-top: 16px;
+  min-height: 120px;
+  min-width: 219px;
+  opacity: 0.4;
+}
+
+.industries-plumbing .know-more-2 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 30px;
+  margin-top: 48px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-579 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 399px;
+  padding: 20px 13px;
+  width: 270px;
+}
+
+.industries-plumbing .overlap-group-1 {
+  align-items: center;
+  background-color: var(--alice-blue-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 8px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-plumbing .easy-to-use-software {
+  align-self: flex-end;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 5px;
+  margin-top: 23px;
+  min-height: 78px;
+  min-width: 222px;
+}
+
+.industries-plumbing .try-our-comprehensiv {
+  align-self: flex-end;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-top: 14px;
+  min-height: 96px;
+  min-width: 227px;
+  opacity: 0.4;
+}
+
+.industries-plumbing .know-more-3 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 17px;
+  margin-top: 48px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  min-height: 838px;
+  width: 270px;
+}
+
+.industries-plumbing .group-576 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  min-height: 399px;
+  padding: 20px 14px;
+  width: 270px;
+}
+
+.industries-plumbing .overlap-group-2 {
+  align-items: center;
+  background-color: var(--zumthor-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 7px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-plumbing .manage-your-entire-p {
+  align-self: flex-end;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-top: 23px;
+  min-height: 78px;
+  min-width: 226px;
+}
+
+.industries-plumbing .try-uleadzs-compreh-1 {
+  align-self: center;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9.0px;
+  margin-top: 14px;
+  min-height: 120px;
+  min-width: 219px;
+  opacity: 0.4;
+}
+
+.industries-plumbing .know-more-4 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 16px;
+  margin-top: 24px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-578 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 399px;
+  padding: 20px 16px;
+  width: 270px;
+}
+
+.industries-plumbing .overlap-group-3 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 5px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-plumbing .give-your-locksmith {
+  align-self: center;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 12.0px;
+  margin-top: 23px;
+  min-height: 78px;
+  min-width: 198px;
+}
+
+.industries-plumbing .accelerate-cash-flow {
+  align-self: flex-end;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-top: 14px;
+  min-height: 96px;
+  min-width: 224px;
+  opacity: 0.4;
+}
+
+.industries-plumbing .know-more-5 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 14px;
+  margin-top: 48px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-plumbing .overlap-group6 {
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  height: 77px;
+  margin-left: 46.0px;
+  margin-top: 93px;
+  position: relative;
+  width: 1140px;
+}
+
+.industries-plumbing .rectangle-227 {
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.industries-plumbing .looking-for-a-specif {
+  left: 90px;
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .rectangle-copy-15 {
+  background-color: var(--alice-blue);
+  border-radius: 20.5px;
+  height: 43px;
+  left: 26px;
+  position: absolute;
+  top: 17px;
+  width: 44px;
+}
+
+.industries-plumbing .search {
+  height: 18px;
+  left: 39px;
+  position: absolute;
+  top: 29px;
+  width: 18px;
+}
+
+.industries-plumbing .frame-17-2 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 54px;
+  left: 958px;
+  min-width: 126px;
+  padding: 0 36px;
+  position: absolute;
+  top: 12px;
+}
+
+.industries-plumbing .search-1 {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 54px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-plumbing .flex-row-1 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 748px;
+  margin-left: 61.0px;
+  margin-top: 76px;
+  min-width: 1155px;
+}
+
+.industries-plumbing .group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 731px;
+  width: 270px;
+}
+
+.industries-plumbing .overlap-group9 {
+  border-radius: 25px;
+  height: 217px;
+  position: relative;
+  width: 270px;
+}
+
+.industries-plumbing .group-578-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000001a;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 217px;
+  padding: 20px 21px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.industries-plumbing .coins2-4 {
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  height: 72px;
+  width: 72px;
+}
+
+.industries-plumbing .locksmith {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .know-more {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-plumbing .locksmith-1 {
+  height: 32px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 32px;
+}
+
+.industries-plumbing .group-64 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 217px;
+  padding: 21px 20px;
+  width: 270px;
+}
+
+.industries-plumbing .overlap-group1 {
+  align-items: center;
+  background-color: var(--zumthor-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-plumbing .group-574 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: 22px;
+  min-height: 73px;
+  width: 106px;
+}
+
+.industries-plumbing .contractor {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .know-more-1 {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-top: 23px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-64-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 217px;
+  padding: 20px 21px;
+  width: 270px;
+}
+
+.industries-plumbing .overlap-group-4 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 20px;
+}
+
+.industries-plumbing .garbage-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.industries-plumbing .junk-removal {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .overlap-group14 {
+  height: 830px;
+  margin-bottom: -82.0px;
+  margin-left: 40px;
+  position: relative;
+  width: 927px;
+}
+
+.industries-plumbing .overlap-group3 {
+  height: 830px;
+  left: 256px;
+  position: absolute;
+  top: 0;
+  width: 671px;
+}
+
+.industries-plumbing .rectangle-225 {
+  height: 381px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 449px;
+  width: 671px;
+}
+
+.industries-plumbing .group-605 {
+  align-items: center;
+  display: flex;
+  height: 480px;
+  left: 86px;
+  min-width: 461px;
+  position: absolute;
+  top: 0;
+}
+
+.industries-plumbing .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.95px;
+  min-height: 465px;
+  width: 30px;
+}
+
+.industries-plumbing .group {
+  height: 31px;
+  width: 30px;
+}
+
+.industries-plumbing .line-45 {
+  height: 109px;
+  margin-right: 0;
+  margin-top: 62px;
+  width: 3px;
+}
+
+.industries-plumbing .line-46 {
+  height: 71px;
+  margin-right: 0;
+  margin-top: 53px;
+  width: 3px;
+}
+
+.industries-plumbing .line-47 {
+  height: 97px;
+  margin-right: 0;
+  margin-top: 42px;
+  width: 3px;
+}
+
+.industries-plumbing .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+  min-height: 480px;
+  width: 405px;
+}
+
+.industries-plumbing .get-everything-you-n {
+  letter-spacing: -1.08px;
+  line-height: 37.8px;
+  margin-left: 2px;
+  min-height: 76px;
+  width: 403px;
+}
+
+.industries-plumbing .quickly-create-and-a {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 25px;
+  min-height: 130px;
+  opacity: 0.7;
+}
+
+.industries-plumbing .attach-job-notes-co {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 32px;
+  min-height: 78px;
+  opacity: 0.7;
+}
+
+.industries-plumbing .with-multiple-schedu {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 35px;
+  min-height: 104px;
+  opacity: 0.7;
+}
+
+.industries-plumbing .rectangle {
+  height: 96px;
+  left: 279px;
+  position: absolute;
+  top: 37px;
+  width: 4px;
+}
+
+.industries-plumbing .group-container-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 731px;
+  position: absolute;
+  top: 17px;
+  width: 270px;
+}
+
+.industries-plumbing .group-646 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 217px;
+  padding: 20px 21px;
+  width: 270px;
+}
+
+.industries-plumbing .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 18px 20px;
+}
+
+.industries-plumbing .lightning-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.industries-plumbing .electrician {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--zumthor-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 72px;
+  padding: 18px 19px;
+}
+
+.industries-plumbing .pipe-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.industries-plumbing .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 73px;
+  margin-left: 10px;
+  margin-top: 22px;
+  min-width: 175px;
+}
+
+.industries-plumbing .group-574-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 73px;
+  width: 94px;
+}
+
+.industries-plumbing .plumbing {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .pointer-1 {
+  height: 24px;
+  margin-left: 62px;
+  margin-top: 11px;
+  width: 19px;
+}
+
+.industries-plumbing .overlap-group-6 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  justify-content: flex-end;
+  min-width: 72px;
+  padding: 0 18px;
+}
+
+.industries-plumbing .cleaning-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.industries-plumbing .cleaning {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-637 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: -190px;
+  margin-top: 88px;
+  min-width: 1556px;
+}
+
+.industries-plumbing .overlap-group7 {
+  height: 907px;
+  position: relative;
+  width: 1556px;
+}
+
+.industries-plumbing .rectangle-181 {
+  height: 907px;
+  left: 190px;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.industries-plumbing .group-636 {
+  align-items: center;
+  display: flex;
+  height: 907px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1478px;
+  padding: 210.8px 0;
+  position: absolute;
+  top: 0;
+}
+
+.industries-plumbing .flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20.41px;
+  min-height: 280px;
+  width: 30px;
+}
+
+.industries-plumbing .overlap-group-7 {
+  height: 118px;
+  position: relative;
+  width: 30px;
+}
+
+.industries-plumbing .group-1 {
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.industries-plumbing .line-48 {
+  height: 118px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.industries-plumbing .line-49 {
+  height: 118px;
+  margin-left: 0;
+  margin-top: 44px;
+  width: 3px;
+}
+
+.industries-plumbing .flex-col-6 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 9px;
+  min-height: 462px;
+  width: 430px;
+}
+
+.industries-plumbing .set-jobs-up-for-success {
+  letter-spacing: -1.08px;
+  line-height: 37.8px;
+  margin-left: 11px;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .track-employee-times {
+  align-self: center;
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 46px;
+  min-height: 130px;
+  min-width: 412px;
+  opacity: 0.7;
+}
+
+.industries-plumbing .managers-can-view-te {
+  align-self: flex-end;
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 32px;
+  min-height: 130px;
+  min-width: 421px;
+  opacity: 0.7;
+}
+
+.industries-plumbing .learn-more-2 {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  margin-top: 64px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-container-5 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 939px;
+  margin-right: 71.0px;
+  margin-top: 15px;
+  min-width: 1151px;
+}
+
+.industries-plumbing .overlap-group8 {
+  height: 940px;
+  margin-top: -0.29px;
+  position: relative;
+  width: 692px;
+}
+
+.industries-plumbing .ellipse-22 {
+  background-color: var(--brilliant-rose);
+  height: 609px;
+  left: 42px;
+  position: absolute;
+  top: 318px;
+  width: 609px;
+}
+
+.industries-plumbing .ellipse-24 {
+  background-color: var(--brilliant-rose);
+  height: 525px;
+  left: 84px;
+  position: absolute;
+  top: 360px;
+  width: 525px;
+}
+
+.industries-plumbing .ellipse-23 {
+  background-color: var(--brilliant-rose);
+  height: 433px;
+  left: 130px;
+  position: absolute;
+  top: 406px;
+  width: 433px;
+}
+
+.industries-plumbing .mansgement-1 {
+  height: 940px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 692px;
+}
+
+.industries-plumbing .coins2-3 {
+  height: 89px;
+  left: 497px;
+  object-fit: cover;
+  position: absolute;
+  top: 644px;
+  width: 89px;
+}
+
+.industries-plumbing .coins2-4-1 {
+  height: 78px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 367px;
+  width: 78px;
+}
+
+.industries-plumbing .group-603 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 542px;
+  justify-content: flex-end;
+  margin-left: 24px;
+  margin-top: 89.62px;
+  min-width: 435px;
+}
+
+.industries-plumbing .flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.71px;
+  min-height: 534px;
+  width: 30px;
+}
+
+.industries-plumbing .group-2 {
+  height: 30px;
+  width: 30px;
+}
+
+.industries-plumbing .line-50 {
+  height: 45px;
+  margin-right: 0;
+  margin-top: 54px;
+  width: 3px;
+}
+
+.industries-plumbing .line-51 {
+  height: 16px;
+  margin-right: 0;
+  margin-top: 41px;
+  width: 3px;
+}
+
+.industries-plumbing .line-5 {
+  height: 16px;
+  margin-right: 0;
+  margin-top: 42px;
+  width: 3px;
+}
+
+.industries-plumbing .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 18px;
+  min-height: 542px;
+  width: 387px;
+}
+
+.industries-plumbing .invoice-and-get-paid {
+  letter-spacing: -1.08px;
+  line-height: 37.8px;
+  margin-left: 2px;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .whether-out-in-the-f {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 46px;
+  min-height: 52px;
+  opacity: 0.7;
+}
+
+.industries-plumbing .flex-col-item {
+  letter-spacing: -0.64px;
+  line-height: 25.6px;
+  margin-top: 32px;
+  min-height: 26px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-573 {
+  align-items: flex-end;
+  background-color: var(--desert-storm);
+  display: flex;
+  flex-direction: column;
+  margin-top: 109px;
+  min-height: 908px;
+  padding: 65.5px 33px;
+  width: 1366px;
+}
+
+.industries-plumbing .group-525 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 52px;
+  min-height: 672px;
+  width: 1136px;
+}
+
+.industries-plumbing .packed-with-features {
+  letter-spacing: -1.68px;
+  line-height: 54.6px;
+  min-height: 110px;
+}
+
+.industries-plumbing .frame-17-3::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.industries-plumbing .frame-17-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 509px;
+  margin-top: 53px;
+  min-width: 1134px;
+  overflow-x: scroll;
+}
+
+.industries-plumbing .overlap-group-8 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  min-height: 509px;
+  padding: 38px 23px;
+  width: 350px;
+}
+
+.industries-plumbing .purse-1 {
+  height: 118px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 118px;
+}
+
+.industries-plumbing .job-profitability {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 28px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .estimates-invoices {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .overlap-group1-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 28px 23px;
+  width: 350px;
+}
+
+.industries-plumbing .purse-2 {
+  height: 122px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 122px;
+}
+
+.industries-plumbing .customer-management {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 34px;
+  min-height: 88px;
+}
+
+.industries-plumbing .scheduling-dispatc {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 160px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 32px 23px;
+  width: 350px;
+}
+
+.industries-plumbing .purse-3 {
+  height: 118px;
+  margin-left: 4px;
+  object-fit: cover;
+  width: 118px;
+}
+
+.industries-plumbing .online-booking {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 10px;
+  margin-top: 34px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .file-photo-attachmen {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 509px;
+  padding: 27px 22px;
+  width: 350px;
+}
+
+.industries-plumbing .purse-3-1 {
+  height: 128px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.industries-plumbing .online-booking-1 {
+  letter-spacing: -1.36px;
+  line-height: 44.2px;
+  margin-left: 11px;
+  margin-top: 29px;
+  min-height: 44px;
+  white-space: nowrap;
+}
+
+.industries-plumbing .cloud-storage-i-os-a {
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  margin-left: 1px;
+  margin-top: 24px;
+  min-height: 128px;
+  opacity: 0.5;
+}
+
+.industries-plumbing .overlap-group4 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(../../lib/img/line-43@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  margin-top: 50px;
+  min-width: 68px;
+}
+
+.industries-plumbing .line-44 {
+  height: 3px;
+  width: 52px;
+}
+
+.industries-plumbing .overlap-group10 {
+  height: 691px;
+  margin-top: 2px;
+  position: relative;
+  width: 1368px;
+}
+
+.industries-plumbing .line-41 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 336px;
+  width: 1366px;
+}
+
+.industries-plumbing .overlap-group5 {
+  height: 692px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 1366px;
+}
+
+.industries-plumbing .rectangle-170 {
+  height: 691px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1366px;
+}
+
+.industries-plumbing .line-41-1 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.industries-plumbing .group-484 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 244px;
+  min-height: 243px;
+  position: absolute;
+  top: 92px;
+  width: 880px;
+}
+
+.industries-plumbing .stay-ahead-of-the-ga {
+  letter-spacing: -1.88px;
+  line-height: 75.2px;
+  margin-right: 2.0px;
+  min-height: 150px;
+  min-width: 878px;
+  text-align: center;
+}
+
+.industries-plumbing .frame-16-1 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-right: 2.0px;
+  margin-top: 31px;
+  min-width: 180px;
+  padding: 0 48px;
+}
+
+.industries-plumbing .contact-us {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.industries-plumbing .group-486 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 136px;
+  min-height: 184px;
+  position: absolute;
+  top: 398px;
+  width: 106px;
+}
+
+.industries-plumbing .place-2 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.industries-plumbing .why-uleadz-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-plumbing .about-us-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-plumbing .place-3 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-plumbing .pricing-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-plumbing .group-485 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 632px;
+  min-height: 144px;
+  position: absolute;
+  top: 398px;
+  width: 110px;
+}
+
+.industries-plumbing .industries-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.industries-plumbing .terms-of-use {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-plumbing .privacy-policy {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-plumbing .support {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.industries-plumbing .hellouleadzcom {
+  height: 24px;
+  left: 1105px;
+  letter-spacing: -0.48px;
+  position: absolute;
+  top: 486px;
+}
+
+.industries-plumbing .group-144 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 1119px;
+  min-width: 124px;
+  position: absolute;
+  top: 526px;
+}
+
+.industries-plumbing .overlap-group1-2 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  min-width: 25px;
+  padding: 5.3px 9.2px;
+}
+
+.industries-plumbing .group-143 {
+  height: 14px;
+  width: 7px;
+}
+
+.industries-plumbing .overlap-group-9 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.3px 6.2px;
+}
+
+.industries-plumbing .group-3 {
+  height: 12px;
+  width: 13px;
+}
+
+.industries-plumbing .overlap-group3-2 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.2px 2.3px;
+}
+
+.industries-plumbing .twitter-logowine-1 {
+  height: 13px;
+  width: 20px;
+}
+
+.industries-plumbing .overlap-group2-2 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.2px 2.2px;
+}
+
+.industries-plumbing .you-tube-icon-almost-black-logowine-1 {
+  height: 15px;
+  width: 21px;
+}
+
+.industries-plumbing .uleadz1-1 {
+  height: 72px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 72px;
+}

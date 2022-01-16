@@ -1,0 +1,947 @@
+/* screen - contact */
+
+.contact {
+  align-items: center;
+  background-color: var(--baby-powder);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 33px 0;
+  width: 1366px;
+}
+
+.contact .flex-row {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 32px;
+  margin-left: 68px;
+  min-width: 962px;
+}
+
+.contact .image-1 {
+  height: 28px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.contact .menu {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-left: 188px;
+  min-width: 684px;
+}
+
+.contact .place {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 48px;
+  opacity: 0.5;
+}
+
+.contact .why-uleadz {
+  letter-spacing: 0;
+  margin-left: 39px;
+  min-height: 24px;
+  min-width: 95px;
+  opacity: 0.5;
+}
+
+.contact .overlap-group-2 {
+  height: 30px;
+  margin-left: 34px;
+  position: relative;
+  width: 458px;
+}
+
+.contact .pricing {
+  left: 222px;
+  letter-spacing: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+}
+
+.contact .place-1 {
+  left: 314px;
+  letter-spacing: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+}
+
+.contact .about-us {
+  left: 114px;
+  letter-spacing: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+}
+
+.contact .help {
+  left: 416px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.contact .group-584 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 0;
+  min-width: 458px;
+  position: absolute;
+  top: 0;
+}
+
+.contact .industries {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 80px;
+}
+
+.contact .line-42 {
+  align-self: flex-end;
+  height: 2px;
+  margin-bottom: -1px;
+  margin-left: 338px;
+  width: 40px;
+}
+
+.contact .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 361px;
+  margin-right: 116.0px;
+  margin-top: 163px;
+  min-width: 1050px;
+}
+
+.contact .overlap-group1 {
+  height: 362px;
+  margin-bottom: -0.2px;
+  position: relative;
+  width: 417px;
+}
+
+.contact .lightning-2 {
+  height: 150px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 148px;
+}
+
+.contact .rectangle-263-1 {
+  height: 334px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 334px;
+}
+
+.contact .lightning-3 {
+  height: 151px;
+  left: 243px;
+  object-fit: cover;
+  position: absolute;
+  top: 211px;
+  width: 150px;
+}
+
+.contact .get-in-touch {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 130px;
+  font-weight: 600;
+  letter-spacing: -5.20px;
+  line-height: 156.0px;
+  margin-bottom: 11.31px;
+  margin-left: 112px;
+  min-height: 312px;
+  min-width: 521px;
+}
+
+.contact .overlap-group8 {
+  align-items: center;
+  background-color: var(--blue-chalk);
+  display: flex;
+  height: 1095px;
+  justify-content: flex-end;
+  margin-top: 128px;
+  min-width: 1366px;
+}
+
+.contact .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 38.0px;
+  min-height: 885px;
+  width: 694px;
+}
+
+.contact .book-a-demo-with-an-expert {
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  min-height: 60px;
+  white-space: nowrap;
+}
+
+.contact .overlap-group-container {
+  border-radius: 25px;
+  height: 771px;
+  margin-top: 54px;
+  position: relative;
+  width: 694px;
+}
+
+.contact .overlap-group {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 80px #00000005;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 771px;
+  padding: 46px 56px;
+  position: absolute;
+  top: 0;
+  width: 694px;
+}
+
+.contact .enter-your-details {
+  align-self: flex-start;
+  letter-spacing: -0.80px;
+  line-height: 24.0px;
+  margin-left: 1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.contact .group-630 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 38px;
+  width: 581px;
+}
+
+.contact .your {
+  letter-spacing: -0.88px;
+  line-height: 26.4px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.contact .line-63 {
+  height: 1px;
+  margin-top: 12px;
+  width: 579px;
+}
+
+.contact .group-63 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 104px;
+  min-height: 38px;
+  width: 581px;
+}
+
+.contact .frame-17 {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-left: 1px;
+  margin-top: 81px;
+  min-width: 217px;
+  padding: 0 48px;
+}
+
+.contact .schedule-demo {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 121px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.contact .overlap-group9 {
+  align-items: center;
+  background-color: var(--blue-icons-);
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  min-height: 1095px;
+  padding: 73px 164px;
+  width: 554px;
+}
+
+.contact .group-634 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13.0px;
+  min-height: 146px;
+  width: 183px;
+}
+
+.contact .envelope-1 {
+  height: 104px;
+  margin-right: 11.0px;
+  object-fit: cover;
+  width: 106px;
+}
+
+.contact .infouleadzcom {
+  letter-spacing: -0.88px;
+  line-height: 20.7px;
+  margin-right: 2.0px;
+  margin-top: 21px;
+  min-height: 21px;
+  min-width: 181px;
+  white-space: nowrap;
+}
+
+.contact .rectangle-264 {
+  height: 104px;
+  margin-left: 12.0px;
+  margin-top: 104px;
+  object-fit: cover;
+  width: 104px;
+}
+
+.contact .phone {
+  letter-spacing: -0.88px;
+  line-height: 20.7px;
+  margin-left: 13.0px;
+  margin-top: 34px;
+  min-height: 21px;
+  min-width: 183px;
+  white-space: nowrap;
+}
+
+.contact .rectangle-266 {
+  height: 90px;
+  margin-left: 12.0px;
+  margin-top: 104px;
+  width: 104px;
+}
+
+.contact .address {
+  align-self: flex-end;
+  letter-spacing: -0.88px;
+  line-height: 37.4px;
+  margin-top: 34px;
+  min-height: 111px;
+  min-width: 215px;
+  text-align: center;
+}
+
+.contact .image-2 {
+  height: 28px;
+  margin-top: 85px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.contact .flex-row-2 {
+  align-items: center;
+  display: flex;
+  margin-top: 70px;
+  min-width: 1366px;
+}
+
+.contact .overlap-group11 {
+  height: 939px;
+  position: relative;
+  width: 1159px;
+}
+
+.contact .overlap-group7 {
+  height: 939px;
+  left: 207px;
+  position: absolute;
+  top: 0;
+  width: 952px;
+}
+
+.contact .overlap-group4 {
+  height: 940px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 692px;
+}
+
+    .contact .ellipse-22 {
+        background-color: #ec52a000;
+        height: 609px;
+        left: 42px;
+        position: absolute;
+        top: 318px;
+        width: 608px;
+        border-radius: 50%;
+    }
+
+    .contact .ellipse-24 {
+        background-color: #ec52a000;
+        height: 525px;
+        left: 84px;
+        position: absolute;
+        top: 360px;
+        width: 524px;
+        border-radius: 50%;
+    }
+
+    .contact .ellipse-23 {
+        background-color: #ec52a000;
+        height: 433px;
+        left: 130px;
+        position: absolute;
+        top: 406px;
+        width: 432px;
+        border-radius: 50%;
+    }
+
+.contact .mansgement-1 {
+  height: 940px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 692px;
+}
+
+.contact .coins2-3 {
+  height: 89px;
+  left: 497px;
+  object-fit: cover;
+  position: absolute;
+  top: 644px;
+  width: 88px;
+}
+
+.contact .coins2-4 {
+  height: 78px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 367px;
+  width: 78px;
+}
+
+.contact .once-you-go-uleadz {
+  left: 0;
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.contact .image-4 {
+  height: 327px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 347px;
+  width: 251px;
+}
+
+.contact .image-3 {
+  height: 327px;
+  margin-left: 52px;
+  margin-top: 67.59px;
+  object-fit: cover;
+  width: 155px;
+}
+
+.contact .group-641 {
+  align-items: flex-start;
+  display: flex;
+  height: 1508px;
+  margin-left: 4.0px;
+  margin-top: 60px;
+  min-width: 1370px;
+}
+
+.contact .flex-col-1 {
+  align-items: flex-end;
+  background-color: var(--desert-storm);
+  display: flex;
+  flex-direction: column;
+  min-height: 1508px;
+  padding: 97px 107px;
+  width: 1366px;
+}
+
+.contact .flex-col-2 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 12.0px;
+  margin-top: 17px;
+  min-height: 781px;
+  width: 1106px;
+}
+
+.contact .flex-row-3 {
+  align-items: center;
+  display: flex;
+  min-width: 1106px;
+}
+
+.contact .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.0px;
+  min-height: 385px;
+  width: 519px;
+}
+
+.contact .surname {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: -1.20px;
+  line-height: 36.0px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.contact .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 31px;
+  box-shadow: 0px 0px 82px #0000000d;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 309px;
+  padding: 28px 41px;
+  width: 510px;
+}
+
+.contact .if-you-are-looking {
+  height: 160px;
+  letter-spacing: -0.72px;
+  line-height: 32.4px;
+  width: 398px;
+}
+
+.contact .overlap-group-3 {
+  height: 51px;
+  margin-left: 63px;
+  margin-top: 40px;
+  position: relative;
+  width: 171px;
+}
+
+.contact .name {
+  height: 29px;
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.contact .home-service-professional {
+  height: 25px;
+  left: 0;
+  letter-spacing: -0.56px;
+  line-height: 25.2px;
+  opacity: 0.5;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.contact .group-514 {
+  align-items: center;
+  display: flex;
+  margin-left: 45px;
+  min-width: 542px;
+}
+
+.contact .coins2-4-1 {
+  height: 78px;
+  margin-bottom: 95.0px;
+  object-fit: cover;
+  width: 78px;
+}
+
+.contact .mansgement-1-1 {
+  height: 593px;
+  margin-left: 44px;
+  width: 302px;
+}
+
+.contact .coins2-3-1 {
+  height: 78px;
+  margin-left: 40px;
+  margin-top: 181.0px;
+  object-fit: cover;
+  width: 78px;
+}
+
+.contact .rectangle-260 {
+  height: 108px;
+  margin-right: 12.0px;
+  margin-top: 80px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.contact .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 516px;
+  min-width: 1119px;
+}
+
+.contact .flex-col-4 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 445px;
+  width: 501px;
+}
+
+.contact .group-1-45 {
+  height: 286px;
+  object-fit: cover;
+  width: 501px;
+}
+
+.contact .rectangle-259 {
+  height: 108px;
+  margin-left: 23.0px;
+  margin-top: 51px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.contact .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 108px;
+  min-height: 421px;
+  width: 510px;
+}
+
+.contact .a-super-powerful-f {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: -1.20px;
+  line-height: 36.0px;
+  min-height: 72px;
+  width: 510px;
+}
+
+.contact .overlap-group-4 {
+  height: 51px;
+  margin-left: 63px;
+  margin-top: 40px;
+  position: relative;
+  width: 104px;
+}
+
+.contact .field-technician {
+  height: 25px;
+  left: 0;
+  letter-spacing: -0.56px;
+  line-height: 25.2px;
+  opacity: 0.5;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.contact .so-what-are-you-waiting-for {
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  margin-left: 1.0px;
+  margin-top: 83px;
+  min-height: 60px;
+  min-width: 667px;
+  white-space: nowrap;
+}
+
+.contact .frame-17-1 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-top: 80px;
+  min-width: 258px;
+  padding: 0 48px;
+}
+
+.contact .book-your-demo-now {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 162px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.contact .footer {
+  align-items: flex-start;
+  display: flex;
+  height: 691px;
+  margin-left: 2.0px;
+  margin-top: 85px;
+  min-width: 1368px;
+}
+
+.contact .overlap-group6 {
+  height: 692px;
+  margin-top: -1px;
+  position: relative;
+  width: 1366px;
+}
+
+.contact .rectangle-170 {
+  height: 691px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1366px;
+}
+
+.contact .line-41 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.contact .group-484 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 244px;
+  min-height: 243px;
+  position: absolute;
+  top: 92px;
+  width: 880px;
+}
+
+.contact .stay-ahead-of-the-ga {
+  letter-spacing: -1.88px;
+  line-height: 75.2px;
+  margin-right: 2.0px;
+  min-height: 150px;
+  min-width: 878px;
+  text-align: center;
+}
+
+.contact .frame-16 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-right: 2.0px;
+  margin-top: 31px;
+  min-width: 180px;
+  padding: 0 48px;
+}
+
+.contact .contact-us {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.contact .group-486 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 136px;
+  min-height: 184px;
+  position: absolute;
+  top: 398px;
+  width: 106px;
+}
+
+.contact .place-2 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.contact .why-uleadz-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.contact .about-us-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.contact .place-3 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.contact .pricing-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.contact .group-485 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 632px;
+  min-height: 144px;
+  position: absolute;
+  top: 398px;
+  width: 110px;
+}
+
+.contact .industries-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.contact .terms-of-use {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.contact .privacy-policy {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.contact .support {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.contact .hellouleadzcom {
+  height: 24px;
+  left: 1105px;
+  letter-spacing: -0.48px;
+  position: absolute;
+  top: 486px;
+}
+
+.contact .group-144 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 1119px;
+  min-width: 124px;
+  position: absolute;
+  top: 526px;
+}
+
+.contact .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  min-width: 25px;
+  padding: 5.5px 9.2px;
+}
+
+.contact .group-143 {
+  height: 14px;
+  width: 7px;
+}
+
+.contact .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.5px 6.2px;
+}
+
+.contact .group {
+  height: 12px;
+  width: 13px;
+}
+
+.contact .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.2px 2.3px;
+}
+
+.contact .twitter-logowine-1 {
+  height: 13px;
+  width: 20px;
+}
+
+.contact .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.2px 2.2px;
+}
+
+.contact .you-tube-icon-almost-black-logowine-1 {
+  height: 15px;
+  width: 21px;
+}
+
+.contact .uleadz1-1 {
+  height: 72px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 72px;
+}

@@ -1,0 +1,1589 @@
+/* screen - industries-mobile-3 */
+
+.industries-mobile-3 {
+  align-items: center;
+  background-color: var(--ffffff);
+  display: flex;
+  flex-direction: column;
+  height: 6107px;
+  overflow: hidden;
+  padding: 30.4px 0;
+  width: 375px;
+}
+
+.industries-mobile-3 .flex-row {
+  align-items: center;
+  display: flex;
+  min-width: 315px;
+}
+
+.industries-mobile-3 .image-1 {
+  height: 28px;
+  margin-bottom: 1.75px;
+  object-fit: cover;
+  width: 90px;
+}
+
+.industries-mobile-3 .menu {
+  height: 33px;
+  margin-left: 193px;
+  width: 32px;
+}
+
+.industries-mobile-3 .group-container {
+  align-self: flex-start;
+  height: 497px;
+  margin-left: -50px;
+  margin-top: 27px;
+  position: relative;
+  width: 486px;
+}
+
+.industries-mobile-3 .group-1869 {
+  display: flex;
+  flex-direction: column;
+  height: 368px;
+  left: 60px;
+  position: absolute;
+  top: 129px;
+  width: 358px;
+}
+
+.industries-mobile-3 .if-you-work-with-mat {
+  height: 176px;
+  letter-spacing: 0;
+  line-height: 44.2px;
+  text-align: center;
+  width: 354px;
+}
+
+.industries-mobile-3 .ideal-for-trades-and {
+  height: 75px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-left: 8px;
+  margin-top: 16px;
+  opacity: 0.4;
+  text-align: center;
+  width: 339px;
+}
+
+.industries-mobile-3 .group-1802 {
+  display: flex;
+  margin-left: 28px;
+  margin-top: 52px;
+  width: 306px;
+}
+
+.industries-mobile-3 .frame-4 {
+  background-color: var(--brilliant-rose);
+  border-radius: 11px;
+  display: flex;
+  height: 49px;
+  width: 138px;
+}
+
+.industries-mobile-3 .start-today {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 30px;
+  margin-top: 14px;
+  width: 78px;
+}
+
+.industries-mobile-3 .frame-5 {
+  background-color: var(--ffffff);
+  border-radius: 11px;
+  display: flex;
+  height: 49px;
+  margin-left: 21px;
+  opacity: 0.5;
+  width: 147px;
+}
+
+.industries-mobile-3 .how-it-works {
+  height: 21px;
+  letter-spacing: 0;
+  margin-left: 30px;
+  margin-top: 14px;
+  width: 87px;
+}
+
+.industries-mobile-3 .overlap-group5 {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.industries-mobile-3 .image-3 {
+  height: 156px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.industries-mobile-3 .book-4 {
+  height: 67px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 67px;
+}
+
+.industries-mobile-3 .overlap-group6 {
+  height: 206px;
+  left: 383px;
+  position: absolute;
+  top: 24px;
+  width: 103px;
+}
+
+.industries-mobile-3 .image-3-1 {
+  height: 206px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 98px;
+}
+
+.industries-mobile-3 .book-5 {
+  height: 75px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 74px;
+}
+
+.industries-mobile-3 .group-1804 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-top: 48px;
+  min-width: 1180px;
+}
+
+.industries-mobile-3 .overlap-group3 {
+  height: 892px;
+  position: relative;
+  width: 1176px;
+}
+
+.industries-mobile-3 .rectangle-226 {
+  background-color: var(--desert-storm);
+  height: 892px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.industries-mobile-3 .suitable-for-over-30 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+}
+
+.industries-mobile-3 .the-highest-rated-e {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 148px;
+}
+
+.industries-mobile-3 .group-1803 {
+  display: flex;
+  height: 400px;
+  left: 24px;
+  position: absolute;
+  top: 452px;
+  width: 1152px;
+}
+
+.industries-mobile-3 .group-575 {
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  height: 399px;
+  margin-top: 1px;
+  width: 270px;
+}
+
+.industries-mobile-3 .group-574 {
+  display: flex;
+  flex-direction: column;
+  height: 355px;
+  margin-left: 21px;
+  margin-top: 20px;
+  width: 251px;
+}
+
+.industries-mobile-3 .group-642 {
+  background-color: var(--seashell-peach);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  width: 72px;
+}
+
+.industries-mobile-3 .coins2-5-1 {
+  height: 44px;
+  margin-left: 14px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.industries-mobile-3 .easy-to-use-software-for-contractors {
+  height: 52px;
+  letter-spacing: 0;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  width: 205px;
+}
+
+.industries-mobile-3 .try-uleadzs-compreh {
+  height: 120px;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-left: 9px;
+  margin-top: 16px;
+  opacity: 0.4;
+  width: 236px;
+}
+
+.industries-mobile-3 .know-more-2 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-left: 9px;
+  margin-top: 48px;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.industries-mobile-3 .group-576 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 24px;
+  margin-top: 1px;
+  min-width: 273px;
+}
+
+.industries-mobile-3 .overlap-group1 {
+  height: 399px;
+  position: relative;
+  width: 279px;
+}
+
+.industries-mobile-3 .rectangle-225 {
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  height: 399px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.industries-mobile-3 .group-574-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 21px;
+  min-height: 355px;
+  position: absolute;
+  top: 20px;
+  width: 258px;
+}
+
+.industries-mobile-3 .overlap-group-1 {
+  align-items: center;
+  background-color: var(--zumthor-2);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-mobile-3 .coins2-5 {
+  height: 44px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.industries-mobile-3 .manage-your-entire-p {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 26.0px;
+  margin-left: 3.0px;
+  margin-top: 23px;
+  min-height: 78px;
+  min-width: 243px;
+}
+
+.industries-mobile-3 .try-uleadzs-compreh-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-right: 4.0px;
+  margin-top: 14px;
+  min-height: 120px;
+  min-width: 236px;
+  opacity: 0.4;
+}
+
+.industries-mobile-3 .know-more-3 {
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-left: 9px;
+  margin-top: 24px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .group-579 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 21px;
+  min-width: 274px;
+}
+
+.industries-mobile-3 .overlap-group2 {
+  height: 399px;
+  position: relative;
+  width: 280px;
+}
+
+.industries-mobile-3 .group-574-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 21px;
+  min-height: 355px;
+  position: absolute;
+  top: 20px;
+  width: 259px;
+}
+
+.industries-mobile-3 .overlap-group-2 {
+  align-items: center;
+  background-color: var(--alice-blue);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-mobile-3 .easy-to-use-software {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 26.0px;
+  margin-right: 2.0px;
+  margin-top: 23px;
+  min-height: 78px;
+  min-width: 239px;
+}
+
+.industries-mobile-3 .try-our-comprehensiv {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-left: 3.0px;
+  margin-top: 14px;
+  min-height: 96px;
+  min-width: 244px;
+  opacity: 0.4;
+}
+
+.industries-mobile-3 .know-more {
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-left: 9px;
+  margin-top: 48px;
+  min-height: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .group-578 {
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  height: 399px;
+  margin-left: 20px;
+  width: 270px;
+}
+
+.industries-mobile-3 .group-574-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  margin-top: 20px;
+  min-height: 355px;
+  width: 255px;
+}
+
+.industries-mobile-3 .overlap-group-3 {
+  align-items: center;
+  background-color: var(--zumthor);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  min-width: 72px;
+  padding: 0 14px;
+}
+
+.industries-mobile-3 .give-your-locksmith {
+  letter-spacing: 0;
+  line-height: 26.0px;
+  margin-left: 9px;
+  margin-top: 23px;
+  min-height: 78px;
+}
+
+.industries-mobile-3 .accelerate-cash-flow {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 23.8px;
+  margin-left: 3.0px;
+  margin-top: 14px;
+  min-height: 96px;
+  min-width: 240px;
+  opacity: 0.4;
+}
+
+.industries-mobile-3 .group-1879 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 48px;
+  min-height: 450px;
+  width: 319px;
+}
+
+.industries-mobile-3 .overlap-group-4 {
+  align-items: center;
+  background-color: var(--desert-storm);
+  border-radius: 16px;
+  display: flex;
+  height: 60px;
+  min-width: 319px;
+  padding: 12.3px 21px;
+}
+
+.industries-mobile-3 .search {
+  align-self: flex-end;
+  height: 32px;
+  width: 32px;
+}
+
+.industries-mobile-3 .seach-for-industries {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: 18px;
+  min-height: 24px;
+  min-width: 158px;
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 147px;
+  margin-right: 3.0px;
+  margin-top: 46px;
+  min-width: 316px;
+}
+
+.industries-mobile-3 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 16px;
+  box-shadow: 0px 0px 40px #0000001a;
+  display: flex;
+  flex-direction: column;
+  min-height: 147px;
+  padding: 8px 12px;
+  width: 154px;
+}
+
+.industries-mobile-3 .group-1876 {
+  background-color: var(--mabel);
+  border-radius: 9px;
+  display: flex;
+  height: 40px;
+  margin-top: 4px;
+  width: 40px;
+}
+
+.industries-mobile-3 .locksmith-1 {
+  height: 24px;
+  margin-left: 9px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.industries-mobile-3 .locksmith {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .know-more-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 29px;
+  min-height: 18px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .overlap-group3-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 16px;
+  box-shadow: 0px 0px 40px #0000001a;
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+  min-height: 147px;
+  padding: 8px 12px;
+  width: 154px;
+}
+
+.industries-mobile-3 .lock-1 {
+  height: 25px;
+  margin-left: 8px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 25px;
+}
+
+.industries-mobile-3 .electrician {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 147px;
+  margin-right: 3.0px;
+  margin-top: 17px;
+  min-width: 316px;
+}
+
+.industries-mobile-3 .coins2-5-2 {
+  height: 24px;
+  margin-left: 8px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.industries-mobile-3 .contractor {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 16px;
+  box-shadow: 0px 0px 40px #0000001a;
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+  min-height: 147px;
+  padding: 9px 11px;
+  width: 154px;
+}
+
+.industries-mobile-3 .group-1876-1 {
+  background-color: var(--mabel);
+  border-radius: 9px;
+  display: flex;
+  height: 40px;
+  margin-top: 2px;
+  width: 40px;
+}
+
+.industries-mobile-3 .pipe-1 {
+  height: 24px;
+  margin-left: 10px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.industries-mobile-3 .plumbing {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: 16px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .group-1879-1 {
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 27px;
+  width: 60px;
+}
+
+.industries-mobile-3 .rectangle-265 {
+  background-color: var(--brilliant-rose);
+  border-radius: 37.5px;
+  height: 6px;
+  width: 12px;
+}
+
+.industries-mobile-3 .ellipse-4 {
+  background-color: var(--classic-rose);
+  border-radius: 3px;
+  height: 6px;
+  margin-left: 6px;
+  width: 6px;
+}
+
+.industries-mobile-3 .group-1740 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 6.0px;
+  margin-top: 34px;
+  min-height: 322px;
+  width: 349px;
+}
+
+.industries-mobile-3 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  min-width: 347px;
+}
+
+.industries-mobile-3 .group {
+  height: 27px;
+  margin-bottom: 7.3px;
+  width: 30px;
+}
+
+.industries-mobile-3 .get-everything-you-n {
+  height: 58px;
+  letter-spacing: -0.84px;
+  line-height: 29.4px;
+  margin-left: 17px;
+  width: 300px;
+}
+
+.industries-mobile-3 .group-650 {
+  display: flex;
+  height: 217px;
+  margin-top: 47px;
+  width: 347px;
+}
+
+.industries-mobile-3 .rectangle-225-1 {
+  height: 381px;
+  margin-left: -82px;
+  margin-top: -82px;
+  object-fit: cover;
+  width: 511px;
+}
+
+.industries-mobile-3 .group-1809 {
+  display: flex;
+  margin-left: 14.3px;
+  margin-top: 37px;
+  width: 341px;
+}
+
+.industries-mobile-3 .line-45 {
+  height: 124px;
+  margin-left: -1.2px;
+  margin-top: 6px;
+  width: 2.5px;
+}
+
+.industries-mobile-3 .quickly-create-and-a {
+  height: 132px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 16.0px;
+  opacity: 0.7;
+  width: 322px;
+}
+
+.industries-mobile-3 .group-1808 {
+  display: flex;
+  margin-right: 2.7px;
+  margin-top: 32px;
+  width: 324px;
+}
+
+.industries-mobile-3 .line-46 {
+  height: 56px;
+  margin-left: -1.2px;
+  margin-top: 6px;
+  width: 2.5px;
+}
+
+.industries-mobile-3 .attach-job-notes-co {
+  height: 66px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 16.0px;
+  opacity: 0.7;
+  width: 305px;
+}
+
+.industries-mobile-3 .group-1807 {
+  display: flex;
+  margin-right: 9.7px;
+  margin-top: 32px;
+  width: 333px;
+}
+
+.industries-mobile-3 .line-47 {
+  height: 77.5px;
+  margin-left: -1.2px;
+  margin-top: 7.1px;
+  width: 2.5px;
+}
+
+.industries-mobile-3 .with-multiple-schedu {
+  height: 88px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 24.0px;
+  opacity: 0.7;
+  width: 306px;
+}
+
+.industries-mobile-3 .overlap-group9 {
+  align-self: flex-start;
+  height: 881px;
+  margin-top: 59px;
+  position: relative;
+  width: 544px;
+}
+
+.industries-mobile-3 .rectangle-181 {
+  background-color: var(--black-haze);
+  height: 881px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.industries-mobile-3 .rectangle-182 {
+  height: 361px;
+  left: 0;
+  position: absolute;
+  top: 97px;
+  width: 544px;
+}
+
+.industries-mobile-3 .group-1810 {
+  align-items: flex-start;
+  display: flex;
+  height: 29px;
+  left: 19px;
+  min-width: 286px;
+  position: absolute;
+  top: 42px;
+}
+
+.industries-mobile-3 .internet {
+  align-self: flex-end;
+  height: 29px;
+  margin-bottom: -0.17px;
+  width: 29px;
+}
+
+.industries-mobile-3 .set-jobs-up-for-success {
+  letter-spacing: 0;
+  line-height: 29.4px;
+  margin-left: 15px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .track-employee-times {
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  opacity: 0.7;
+  position: absolute;
+  top: 458px;
+}
+
+.industries-mobile-3 .managers-can-view-te {
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  opacity: 0.7;
+  position: absolute;
+  top: 626px;
+}
+
+.industries-mobile-3 .learn-more {
+  height: 22px;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 794px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .line-48 {
+  height: 141px;
+  left: 23px;
+  position: absolute;
+  top: 465px;
+  width: 3px;
+}
+
+.industries-mobile-3 .line-49 {
+  height: 123px;
+  left: 23px;
+  position: absolute;
+  top: 630px;
+  width: 3px;
+}
+
+.industries-mobile-3 .group-container-1 {
+  height: 499px;
+  margin-right: 1.59px;
+  margin-top: 47px;
+  position: relative;
+  width: 367px;
+}
+
+.industries-mobile-3 .group-1811 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 16px;
+  min-width: 263px;
+  position: absolute;
+  top: 0;
+}
+
+.industries-mobile-3 .invoice-and-get-paid {
+  letter-spacing: 0;
+  line-height: 29.4px;
+  margin-left: 15px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .overlap-group8 {
+  height: 499px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 368px;
+}
+
+.industries-mobile-3 .ellipse-22 {
+  background-color: var(--brilliant-rose);
+  height: 324px;
+  left: 22px;
+  position: absolute;
+  top: 169px;
+  width: 324px;
+}
+
+.industries-mobile-3 .ellipse-24 {
+  background-color: var(--brilliant-rose);
+  height: 279px;
+  left: 44px;
+  position: absolute;
+  top: 191px;
+  width: 278px;
+}
+
+.industries-mobile-3 .ellipse-23 {
+  background-color: var(--brilliant-rose);
+  height: 230px;
+  left: 69px;
+  position: absolute;
+  top: 215px;
+  width: 230px;
+}
+
+.industries-mobile-3 .mansgement-1 {
+  height: 499px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 368px;
+}
+
+.industries-mobile-3 .coins2-3 {
+  height: 48px;
+  left: 264px;
+  object-fit: cover;
+  position: absolute;
+  top: 342px;
+  width: 48px;
+}
+
+.industries-mobile-3 .coins2-4 {
+  height: 42px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 195px;
+  width: 42px;
+}
+
+.industries-mobile-3 .group-1821 {
+  display: flex;
+  flex-direction: column;
+  height: 410px;
+  margin-left: 10.0px;
+  margin-top: 37px;
+  width: 337px;
+}
+
+.industries-mobile-3 .group-1813 {
+  display: flex;
+  width: 339px;
+}
+
+.industries-mobile-3 .line-50 {
+  height: 57px;
+  margin-left: -1.5px;
+  margin-top: 4px;
+  width: 3px;
+}
+
+.industries-mobile-3 .whether-out-in-the-f {
+  height: 66px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 14.5px;
+  opacity: 0.7;
+  width: 321px;
+}
+
+.industries-mobile-3 .group-1814 {
+  display: flex;
+  margin-top: 24px;
+  width: 229px;
+}
+
+.industries-mobile-3 .line-5 {
+  height: 15px;
+  margin-left: -1.5px;
+  margin-top: 4px;
+  width: 3px;
+}
+
+.industries-mobile-3 .automatically-calculate-totals {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 14.5px;
+  opacity: 0.7;
+  white-space: nowrap;
+  width: 211px;
+}
+
+.industries-mobile-3 .group-1815 {
+  display: flex;
+  margin-top: 24px;
+  width: 228px;
+}
+
+.industries-mobile-3 .keep-pricing-at-your-fingertips {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 14.5px;
+  opacity: 0.7;
+  white-space: nowrap;
+  width: 210px;
+}
+
+.industries-mobile-3 .group-1816 {
+  display: flex;
+  margin-top: 24px;
+  width: 257px;
+}
+
+.industries-mobile-3 .attach-photos-files-and-contracts {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 14.5px;
+  opacity: 0.7;
+  white-space: nowrap;
+  width: 239px;
+}
+
+.industries-mobile-3 .group-1817 {
+  display: flex;
+  margin-top: 24px;
+  width: 260px;
+}
+
+.industries-mobile-3 .line-54 {
+  height: 38px;
+  margin-left: -1.5px;
+  margin-top: 4px;
+  width: 3px;
+}
+
+.industries-mobile-3 .take-payments-and-si {
+  height: 44px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 14.5px;
+  opacity: 0.7;
+  width: 242px;
+}
+
+.industries-mobile-3 .group-1818 {
+  display: flex;
+  margin-top: 24px;
+  width: 334px;
+}
+
+.industries-mobile-3 .automate-time-consum {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 14.5px;
+  opacity: 0.7;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.industries-mobile-3 .group-1819 {
+  display: flex;
+  margin-top: 24px;
+  width: 234px;
+}
+
+.industries-mobile-3 .stay-on-top-of-your-costsprofit {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 14.5px;
+  opacity: 0.7;
+  white-space: nowrap;
+  width: 216px;
+}
+
+.industries-mobile-3 .group-1820 {
+  display: flex;
+  margin-top: 24px;
+  width: 237px;
+}
+
+.industries-mobile-3 .integrate-with-xero-quick-books {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-left: 14.5px;
+  opacity: 0.7;
+  white-space: nowrap;
+  width: 219px;
+}
+
+.industries-mobile-3 .overlap-group-container-2 {
+  align-self: flex-start;
+  height: 1346px;
+  margin-top: 60px;
+  position: relative;
+  width: 1178px;
+}
+
+.industries-mobile-3 .overlap-group4-1 {
+  height: 988px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1176px;
+}
+
+.industries-mobile-3 .rectangle-181-1 {
+  background-color: var(--desert-storm);
+  height: 622px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.industries-mobile-3 .packed-with-features {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 36.4px;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+}
+
+.industries-mobile-3 .group-1765 {
+  display: flex;
+  height: 922px;
+  left: 24px;
+  position: absolute;
+  top: 66px;
+  width: 1152px;
+}
+
+.industries-mobile-3 .group-522 {
+  align-items: flex-start;
+  display: flex;
+  height: 400.98px;
+  margin-top: 115.0px;
+  min-width: 279.99px;
+}
+
+.industries-mobile-3 .overlap-group-5 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 15.03px;
+  display: flex;
+  flex-direction: column;
+  min-height: 401px;
+  padding: 22.4px 18.1px;
+  width: 276px;
+}
+
+.industries-mobile-3 .purse-1 {
+  height: 98px;
+  margin-left: 0.43px;
+  object-fit: cover;
+  width: 98px;
+}
+
+.industries-mobile-3 .job-profitability {
+  letter-spacing: 0;
+  line-height: 33.8px;
+  margin-left: 7.88px;
+  margin-top: 24px;
+  min-height: 34px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .estimates-invoices {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 20px;
+  min-height: 101px;
+  opacity: 0.5;
+  width: 220px;
+}
+
+.industries-mobile-3 .group-523 {
+  align-items: flex-start;
+  display: flex;
+  height: 400.98px;
+  margin-left: 12.0px;
+  margin-top: 114px;
+  min-width: 279.99px;
+}
+
+.industries-mobile-3 .overlap-group3-2 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 15.03px;
+  display: flex;
+  flex-direction: column;
+  min-height: 401px;
+  padding: 21.9px 18.1px;
+  width: 276px;
+}
+
+.industries-mobile-3 .purse-2 {
+  height: 96px;
+  margin-left: 1.43px;
+  object-fit: cover;
+  width: 96px;
+}
+
+.industries-mobile-3 .customer-management {
+  letter-spacing: 0;
+  line-height: 33.8px;
+  margin-left: 7.88px;
+  margin-top: 27px;
+  min-height: 68px;
+}
+
+.industries-mobile-3 .scheduling-dispatc {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 20px;
+  min-height: 126px;
+  opacity: 0.5;
+  width: 190px;
+}
+
+.industries-mobile-3 .group-520 {
+  align-items: flex-start;
+  display: flex;
+  height: 401.02px;
+  margin-left: 12.0px;
+  margin-top: 521px;
+  min-width: 280.01px;
+}
+
+.industries-mobile-3 .overlap-group1-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 15.03px;
+  display: flex;
+  flex-direction: column;
+  min-height: 401px;
+  padding: 24.9px 18.1px;
+  width: 276px;
+}
+
+.industries-mobile-3 .purse-3 {
+  height: 94px;
+  margin-left: 2.93px;
+  object-fit: cover;
+  width: 94px;
+}
+
+.industries-mobile-3 .online-booking {
+  letter-spacing: 0;
+  line-height: 33.8px;
+  margin-left: 7.89px;
+  margin-top: 27px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .file-photo-attachmen {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: 18px;
+  min-height: 101px;
+  opacity: 0.5;
+  width: 193px;
+}
+
+.industries-mobile-3 .group-521 {
+  align-items: flex-start;
+  display: flex;
+  height: 401.02px;
+  margin-left: 12.0px;
+  min-width: 280.01px;
+}
+
+.industries-mobile-3 .overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 15.03px;
+  display: flex;
+  flex-direction: column;
+  min-height: 401px;
+  padding: 20.9px 17.1px;
+  width: 276px;
+}
+
+.industries-mobile-3 .purse-3-1 {
+  height: 102px;
+  object-fit: cover;
+  width: 102px;
+}
+
+.industries-mobile-3 .online-booking-1 {
+  letter-spacing: 0;
+  line-height: 33.8px;
+  margin-left: 8.95px;
+  margin-top: 23px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.industries-mobile-3 .cloud-storage-i-os-a {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-left: 1.07px;
+  margin-top: 18px;
+  min-height: 101px;
+  opacity: 0.5;
+  width: 182px;
+}
+
+.industries-mobile-3 .overlap-group7 {
+  height: 760px;
+  left: 0;
+  position: absolute;
+  top: 586px;
+  width: 375px;
+}
+
+.industries-mobile-3 .rectangle-170 {
+  height: 724px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 375px;
+}
+
+.industries-mobile-3 .stay-ahead-of-the-ga {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 28.0px;
+  position: absolute;
+  text-align: center;
+  top: 108px;
+}
+
+.industries-mobile-3 .span1 {
+  line-height: 39.2px;
+}
+
+.industries-mobile-3 .frame-16 {
+  background-color: var(--black);
+  border-radius: 33px;
+  display: flex;
+  height: 42px;
+  left: 116px;
+  position: absolute;
+  top: 249px;
+  width: 143px;
+}
+
+.industries-mobile-3 .contact-us {
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-left: 21px;
+  margin-top: 8.5px;
+  text-align: center;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.industries-mobile-3 .group-486 {
+  display: flex;
+  flex-direction: column;
+  height: 184px;
+  left: 36px;
+  position: absolute;
+  top: 351px;
+  width: 112px;
+}
+
+.industries-mobile-3 .place {
+  height: 24px;
+  letter-spacing: 0;
+  width: 48px;
+}
+
+.industries-mobile-3 .why-uleadz {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 102px;
+}
+
+.industries-mobile-3 .about-us {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 72px;
+}
+
+.industries-mobile-3 .place-1 {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 66px;
+}
+
+.industries-mobile-3 .pricing {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 54px;
+}
+
+.industries-mobile-3 .group-485 {
+  display: flex;
+  flex-direction: column;
+  height: 144px;
+  left: 213px;
+  position: absolute;
+  top: 351px;
+  width: 117px;
+}
+
+.industries-mobile-3 .industries {
+  height: 24px;
+  letter-spacing: 0;
+  width: 78px;
+}
+
+.industries-mobile-3 .terms-of-use {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 102px;
+}
+
+.industries-mobile-3 .privacy-policy {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 109px;
+}
+
+.industries-mobile-3 .support {
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  width: 64px;
+}
+
+.industries-mobile-3 .group-144 {
+  display: flex;
+  height: 639px;
+  left: 49px;
+  position: absolute;
+  top: 0;
+  width: 278px;
+}
+
+.industries-mobile-3 .group-1759 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-top: 589.1px;
+  min-width: 50px;
+  padding: 12.5px 18.7px;
+}
+
+.industries-mobile-3 .group-143 {
+  height: 24px;
+  width: 12px;
+}
+
+.industries-mobile-3 .group-1758 {
+  align-items: flex-start;
+  display: flex;
+  height: 639.11px;
+  margin-left: 26px;
+  min-width: 50px;
+}
+
+.industries-mobile-3 .overlap-group-6 {
+  height: 640px;
+  margin-top: -0.64px;
+  position: relative;
+  width: 50px;
+}
+
+.industries-mobile-3 .ellipse-12 {
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 590px;
+  width: 50px;
+}
+
+.industries-mobile-3 .group-1 {
+  height: 628px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.industries-mobile-3 .group-1757 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  margin-left: 26px;
+  margin-top: 589.1px;
+  min-width: 50px;
+  padding: 14.0px 13px;
+}
+
+.industries-mobile-3 .vector {
+  height: 20px;
+  width: 24px;
+}
+
+.industries-mobile-3 .group-1756 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  margin-left: 26px;
+  margin-top: 589.1px;
+  min-width: 50px;
+  padding: 15.9px 13px;
+}
+
+.industries-mobile-3 .group-1755 {
+  height: 18px;
+  width: 24px;
+}
+
+.industries-mobile-3 .hellouleadzcom {
+  height: 24px;
+  left: 117px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 678px;
+}
+
+.industries-mobile-3 .uleadz1-1 {
+  height: 32px;
+  left: 172px;
+  object-fit: cover;
+  position: absolute;
+  top: 713px;
+  width: 32px;
+}

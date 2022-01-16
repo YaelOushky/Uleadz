@@ -1,0 +1,933 @@
+/* screen - help-documentation */
+
+.help-documentation {
+  align-items: flex-start;
+  background-color: var(--baby-powder);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.help-documentation .overlap-group7 {
+  height: 1634px;
+  margin-top: -255px;
+  position: relative;
+  width: 2400px;
+}
+
+.help-documentation .image-1 {
+  height: 28px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 288px;
+  width: 90px;
+}
+
+.help-documentation .overlap-group5 {
+  height: 1634px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2400px;
+}
+
+.help-documentation .menu {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 387px;
+  min-width: 684px;
+  position: absolute;
+  top: 290px;
+}
+
+.help-documentation .place {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 48px;
+  opacity: 0.5;
+}
+
+.help-documentation .why-uleadz {
+  letter-spacing: 0;
+  margin-left: 39px;
+  min-height: 24px;
+  min-width: 95px;
+  opacity: 0.5;
+}
+
+.help-documentation .overlap-group-1 {
+  height: 30px;
+  margin-left: 34px;
+  position: relative;
+  width: 458px;
+}
+
+.help-documentation .pricing {
+  left: 222px;
+  letter-spacing: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+}
+
+.help-documentation .place-1 {
+  left: 314px;
+  letter-spacing: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+}
+
+.help-documentation .about-us {
+  left: 114px;
+  letter-spacing: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+}
+
+.help-documentation .help {
+  left: 416px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.help-documentation .group-584 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 0;
+  min-width: 458px;
+  position: absolute;
+  top: 0;
+}
+
+.help-documentation .industries {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 80px;
+}
+
+.help-documentation .line-42 {
+  align-self: flex-end;
+  height: 2px;
+  margin-bottom: -1px;
+  margin-left: 338px;
+  width: 40px;
+}
+
+.help-documentation .book-4 {
+  height: 140px;
+  left: 953px;
+  object-fit: cover;
+  position: absolute;
+  top: 561px;
+  width: 140px;
+}
+
+.help-documentation .x1207_vw50a-x-rs-zw-qt-mg-1 {
+  height: 1621px;
+  left: 779px;
+  position: absolute;
+  top: 0;
+  width: 1621px;
+}
+
+.help-documentation .rectangle-226 {
+  background-color: var(--desert-storm);
+  height: 690px;
+  left: 0;
+  position: absolute;
+  top: 944px;
+  width: 1366px;
+}
+
+.help-documentation .overlap-group1 {
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  height: 77px;
+  left: 136px;
+  position: absolute;
+  top: 1034px;
+  width: 1140px;
+}
+
+.help-documentation .rectangle-227 {
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 82px #0000000d;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1140px;
+}
+
+.help-documentation .type-here-to-search {
+  left: 90px;
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.help-documentation .rectangle-copy-15 {
+  background-color: var(--alice-blue);
+  border-radius: 20.5px;
+  height: 43px;
+  left: 26px;
+  position: absolute;
+  top: 17px;
+  width: 44px;
+}
+
+.help-documentation .search {
+  height: 18px;
+  left: 39px;
+  position: absolute;
+  top: 29px;
+  width: 18px;
+}
+
+.help-documentation .frame-17 {
+  align-items: center;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 54px;
+  left: 958px;
+  min-width: 126px;
+  padding: 0 36px;
+  position: absolute;
+  top: 12px;
+}
+
+.help-documentation .search-1 {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 54px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation .group-575 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  left: 117px;
+  min-height: 330px;
+  padding: 20px 0;
+  position: absolute;
+  top: 1203px;
+  width: 270px;
+}
+
+.help-documentation .overlap-group {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--blue-chalk);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 21px;
+  min-width: 72px;
+  padding: 0 20px;
+}
+
+.help-documentation .new-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.help-documentation .what-is-new-in-uleadz {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-top: 23px;
+  min-height: 26px;
+  min-width: 210px;
+  white-space: nowrap;
+}
+
+.help-documentation .try-uleadzs-compreh {
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9.0px;
+  margin-top: 42px;
+  min-height: 120px;
+  min-width: 219px;
+  opacity: 0.4;
+}
+
+.help-documentation .group-575-1 {
+  align-items: center;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  left: 419px;
+  min-height: 330px;
+  padding: 20px 0;
+  position: absolute;
+  top: 1203px;
+  width: 270px;
+}
+
+.help-documentation .video-tutorial-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.help-documentation .quick-start-tutorial {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-right: 41.0px;
+  margin-top: 23px;
+  min-height: 26px;
+  min-width: 169px;
+  white-space: nowrap;
+}
+
+.help-documentation .group-575-2 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  left: 721px;
+  min-height: 330px;
+  padding: 20px 15px;
+  position: absolute;
+  top: 1203px;
+  width: 270px;
+}
+
+.help-documentation .overlap-group-2 {
+  align-items: center;
+  background-color: var(--blue-chalk);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 6px;
+  min-width: 72px;
+  padding: 0 20px;
+}
+
+.help-documentation .operating-system-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.help-documentation .system-requirements-and-recommendations {
+  align-self: flex-end;
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-top: 23px;
+  min-height: 52px;
+  width: 225px;
+}
+
+.help-documentation .try-uleadzs-compreh-1 {
+  align-self: center;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9.0px;
+  margin-top: 16px;
+  min-height: 120px;
+  min-width: 219px;
+  opacity: 0.4;
+}
+
+.help-documentation .group-575-3 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border-radius: 23px;
+  display: flex;
+  flex-direction: column;
+  left: 1023px;
+  min-height: 330px;
+  padding: 20px 0;
+  position: absolute;
+  top: 1203px;
+  width: 270px;
+}
+
+.help-documentation .overlap-group-3 {
+  align-items: center;
+  background-color: var(--blue-chalk);
+  border-radius: 15px;
+  display: flex;
+  height: 72px;
+  margin-left: 21px;
+  min-width: 72px;
+  padding: 0 20px;
+}
+
+.help-documentation .dictionary-1 {
+  height: 32px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.help-documentation .uleadz-glossary {
+  letter-spacing: -0.80px;
+  line-height: 26.0px;
+  margin-left: 30px;
+  margin-top: 23px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.help-documentation .try-uleadzs-compreh-2 {
+  align-self: center;
+  letter-spacing: -0.56px;
+  line-height: 23.8px;
+  margin-left: 9.0px;
+  margin-top: 42px;
+  min-height: 120px;
+  min-width: 219px;
+  opacity: 0.4;
+}
+
+.help-documentation .how-can-we-help-you-today {
+  left: 159px;
+  letter-spacing: -2.00px;
+  line-height: 60.0px;
+  position: absolute;
+  top: 561px;
+  width: 444px;
+}
+
+.help-documentation .the-help-and-documen {
+  left: 160px;
+  letter-spacing: -0.60px;
+  line-height: 27.0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 710px;
+}
+
+.help-documentation .featured-content {
+  letter-spacing: -1.60px;
+  line-height: 48.0px;
+  margin-left: 117px;
+  margin-top: 83px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.help-documentation .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-left: 117px;
+  margin-top: 56px;
+  min-width: 798px;
+}
+
+.help-documentation .improved-call-secure {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 237px;
+  white-space: nowrap;
+}
+
+.help-documentation .automating-joby {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  margin-left: 367px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.help-documentation .ing-container {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-left: 117px;
+  margin-top: 32px;
+  min-width: 789px;
+}
+
+.help-documentation .setting-up-a-new-phone {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 261px;
+  white-space: nowrap;
+}
+
+.help-documentation .scheduling-a-job {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  margin-left: 343px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.help-documentation .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-left: 117px;
+  margin-top: 32px;
+  min-width: 843px;
+}
+
+.help-documentation .multiple-technicians-in-a-company {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 384px;
+  white-space: nowrap;
+}
+
+.help-documentation .reports-and-statistics {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  margin-left: 220px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.help-documentation .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-left: 117px;
+  margin-top: 32px;
+  min-width: 791px;
+}
+
+.help-documentation .troubleshooting-20 {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 217px;
+  white-space: nowrap;
+}
+
+.help-documentation .employee-sign-in {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  margin-left: 387px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.help-documentation .flex-row-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 30px;
+  margin-right: 193.0px;
+  margin-top: 32px;
+  min-width: 939px;
+}
+
+.help-documentation .ap-is-and-more {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  min-height: 30px;
+  min-width: 166px;
+  white-space: nowrap;
+}
+
+.help-documentation .connecting-multiple-accounts {
+  letter-spacing: -1.20px;
+  line-height: 30px;
+  margin-left: 438px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.help-documentation .frame-17-1 {
+  align-items: center;
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-left: 101px;
+  margin-top: 63px;
+  min-width: 290px;
+  padding: 0 48px;
+}
+
+.help-documentation .show-all-featured-content {
+  color: var(--brilliant-rose);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 194px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation .overlap-group-container {
+/*  height: 1913px;*/
+  margin-top: 84px;
+  position: relative;
+  width: 1368px;
+}
+
+.help-documentation .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--blue-chalk);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1241px;
+  padding: 108px 142px;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.help-documentation .didnt-find-what-you {
+  letter-spacing: -1.60px;
+  line-height: 48.0px;
+  min-height: 96px;
+  width: 672px;
+}
+
+.help-documentation .overlap-group-4 {
+  align-items: flex-end;
+  align-self: center;
+  background-color: var(--ffffff);
+  border-radius: 25px;
+  box-shadow: 0px 0px 80px #00000005;
+  display: flex;
+  flex-direction: column;
+  margin-top: 122px;
+  min-height: 771px;
+  padding: 46px 56px;
+  width: 694px;
+}
+
+.help-documentation .enter-your-details {
+  align-self: flex-start;
+  letter-spacing: -0.80px;
+  line-height: 24.0px;
+  margin-left: 1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.help-documentation .group-630 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 38px;
+  width: 581px;
+}
+
+.help-documentation .your-name {
+  letter-spacing: -0.88px;
+  line-height: 26.4px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.help-documentation .line-63 {
+  height: 1px;
+  margin-top: 12px;
+  width: 579px;
+}
+
+.help-documentation .group-63 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 104px;
+  min-height: 38px;
+  width: 581px;
+}
+
+.help-documentation .your-email {
+  letter-spacing: -0.88px;
+  line-height: 26.4px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.help-documentation .your-company {
+  letter-spacing: -0.88px;
+  line-height: 26.4px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.help-documentation .tell-us-how-we-can-help {
+  letter-spacing: -0.88px;
+  line-height: 26.4px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.help-documentation .frame-17-2 {
+  align-items: center;
+  align-self: flex-start;
+  background-color: var(--brilliant-rose);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-left: 1px;
+  margin-top: 81px;
+  min-width: 136px;
+  padding: 0 48px;
+}
+
+.help-documentation .place-2 {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 40px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation .overlap-group4 {
+  height: 692px;
+  left: 0;
+  position: absolute;
+  top: 1221px;
+  width: 1366px;
+}
+
+.help-documentation .rectangle-170 {
+  height: 691px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1366px;
+}
+
+.help-documentation .line-41 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1366px;
+}
+
+.help-documentation .group-484 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 244px;
+  min-height: 243px;
+  position: absolute;
+  top: 92px;
+  width: 880px;
+}
+
+.help-documentation .stay-ahead-of-the-ga {
+  letter-spacing: -1.88px;
+  line-height: 75.2px;
+  margin-right: 2.0px;
+  min-height: 150px;
+  min-width: 878px;
+  text-align: center;
+}
+
+.help-documentation .frame-16 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 50px;
+  display: flex;
+  height: 62px;
+  margin-right: 2.0px;
+  margin-top: 31px;
+  min-width: 180px;
+  padding: 0 48px;
+}
+
+.help-documentation .contact-us {
+  height: 22px;
+  letter-spacing: -0.64px;
+  line-height: 22.4px;
+  min-width: 84px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.help-documentation .group-486 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 136px;
+  min-height: 184px;
+  position: absolute;
+  top: 398px;
+  width: 106px;
+}
+
+.help-documentation .place-3 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.help-documentation .why-uleadz-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.help-documentation .about-us-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.help-documentation .place-4 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.help-documentation .pricing-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.help-documentation .group-485 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 632px;
+  min-height: 144px;
+  position: absolute;
+  top: 398px;
+  width: 110px;
+}
+
+.help-documentation .industries-1 {
+  height: 24px;
+  letter-spacing: -0.48px;
+}
+
+.help-documentation .terms-of-use {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.help-documentation .privacy-policy {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.help-documentation .support {
+  height: 24px;
+  letter-spacing: -0.48px;
+  margin-top: 16px;
+}
+
+.help-documentation .hellouleadzcom {
+  height: 24px;
+  left: 1105px;
+  letter-spacing: -0.48px;
+  position: absolute;
+  top: 486px;
+}
+
+.help-documentation .group-144 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  left: 1119px;
+  min-width: 124px;
+  position: absolute;
+  top: 526px;
+}
+
+.help-documentation .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  min-width: 25px;
+  padding: 6.3px 9.2px;
+}
+
+.help-documentation .group-143 {
+  height: 12px;
+  width: 7px;
+}
+
+.help-documentation .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  justify-content: flex-end;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.3px 6.2px;
+}
+
+.help-documentation .group {
+  height: 12px;
+  width: 13px;
+}
+
+.help-documentation .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 6.2px 2.3px;
+}
+
+.help-documentation .twitter-logowine-1 {
+  height: 13px;
+  width: 20px;
+}
+
+.help-documentation .overlap-group2-1 {
+  align-items: flex-end;
+  background-color: var(--ffffff);
+  border-radius: 12.65px;
+  display: flex;
+  height: 25px;
+  margin-left: 8px;
+  min-width: 25px;
+  padding: 5.2px 2.2px;
+}
+
+.help-documentation .you-tube-icon-almost-black-logowine-1 {
+  height: 15px;
+  width: 21px;
+}
+
+.help-documentation .uleadz1-1 {
+  height: 72px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 72px;
+}

@@ -1,0 +1,22 @@
+﻿@page
+
+@section styles{
+    <link rel="stylesheet" type="text/css" href="~/css/app/homepage.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/app/homepage-mobile-op-2.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/app/contact.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/app/contact-mobile.css" />
+}
+
+<body>
+    @if (Request.IsMobileBrowser())
+    {
+        <partial name="_ContactMobile" />
+    }
+    else
+    {
+        <partial name="_Contact" />
+    }
+</body>
+
+
+
