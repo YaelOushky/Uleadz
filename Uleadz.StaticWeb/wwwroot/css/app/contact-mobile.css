@@ -140,13 +140,14 @@
   width: 321px;
 }
 
-.contact-mobile .your-name {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 16.8px;
-  white-space: nowrap;
-  width: 78px;
-}
+    .contact-mobile .your-name {
+        background-color: var(--alabaster);
+        height: 17px;
+        letter-spacing: 0;
+        line-height: 16.8px;
+        white-space: nowrap;
+/*        width: 78px;*/
+    }
 
 .contact-mobile .line-63 {
   height: 1px;
@@ -162,29 +163,32 @@
   width: 321px;
 }
 
-.contact-mobile .your-email {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 16.8px;
-  white-space: nowrap;
-  width: 73px;
-}
+    .contact-mobile .your-email {
+        background-color: var(--alabaster);
+        height: 17px;
+        letter-spacing: 0;
+        line-height: 16.8px;
+        white-space: nowrap;
+/*        width: 73px;*/
+    }
 
-.contact-mobile .your-company {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 16.8px;
-  white-space: nowrap;
-  width: 105px;
-}
+    .contact-mobile .your-company {
+        background-color: var(--alabaster);
+        height: 17px;
+        letter-spacing: 0;
+        line-height: 16.8px;
+        white-space: nowrap;
+/*        width: 105px;*/
+    }
 
-.contact-mobile .tell-us-about-your-project {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 16.8px;
-  white-space: nowrap;
-  width: 177px;
-}
+    .contact-mobile .tell-us-about-your-project {
+        background-color: var(--alabaster);
+        height: 17px;
+        letter-spacing: 0;
+        line-height: 16.8px;
+        white-space: nowrap;
+/*        width: 177px;*/
+    }
 
 .contact-mobile .frame-5 {
   align-self: center;

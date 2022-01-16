@@ -169,6 +169,7 @@
 }
 
 .help-documentation .type-here-to-search {
+    width:90%;
   left: 90px;
   letter-spacing: -0.64px;
   line-height: 24px;
@@ -578,7 +579,7 @@
 }
 
 .help-documentation .overlap-group-container {
-/*  height: 1913px;*/
+  height: 1241px;
   margin-top: 84px;
   position: relative;
   width: 1368px;

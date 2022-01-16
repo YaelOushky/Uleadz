@@ -413,7 +413,7 @@
 }
 
 .help-documentation-mobile .group-container-1 {
-  height: 1436px;
+/*  height: 1436px;*/
   margin-left: 4.0px;
   margin-top: 59px;
   position: relative;
@@ -478,13 +478,14 @@
   width: 321px;
 }
 
-.help-documentation-mobile .your-name {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 16.8px;
-  white-space: nowrap;
-  width: 78px;
-}
+    .help-documentation-mobile .your-name {
+        background-color: var(--alabaster);
+        height: 17px;
+        letter-spacing: 0;
+        line-height: 16.8px;
+        white-space: nowrap;
+/*        width: 78px;*/
+    }
 
 .help-documentation-mobile .line-63 {
   height: 1px;
@@ -501,29 +502,32 @@
   width: 321px;
 }
 
-.help-documentation-mobile .your-email {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 16.8px;
-  white-space: nowrap;
-  width: 73px;
-}
+    .help-documentation-mobile .your-email {
+        background-color: var(--alabaster);
+        height: 17px;
+        letter-spacing: 0;
+        line-height: 16.8px;
+        white-space: nowrap;
+/*        width: 73px;*/
+    }
 
-.help-documentation-mobile .your-company {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 16.8px;
-  white-space: nowrap;
-  width: 105px;
-}
+    .help-documentation-mobile .your-company {
+        background-color: var(--alabaster);
+        height: 17px;
+        letter-spacing: 0;
+        line-height: 16.8px;
+        white-space: nowrap;
+/*        width: 105px;*/
+    }
 
-.help-documentation-mobile .tell-us-how-we-can-help {
-  height: 17px;
-  letter-spacing: 0;
-  line-height: 16.8px;
-  white-space: nowrap;
-  width: 166px;
-}
+    .help-documentation-mobile .tell-us-how-we-can-help {
+        background-color: var(--alabaster);
+        height: 17px;
+        letter-spacing: 0;
+        line-height: 16.8px;
+        white-space: nowrap;
+/*        width: 166px;*/
+    }
 
 .help-documentation-mobile .frame-5 {
   background-color: var(--brilliant-rose);

@@ -770,3 +770,4 @@
 /Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/ref/Uleadz.StaticWeb.dll
 /Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/Uleadz.StaticWeb.pdb
 /Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/Uleadz.StaticWeb.genruntimeconfig.cache
+/Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/Uleadz.StaticWeb.csproj.AssemblyReference.cache
