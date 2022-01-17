@@ -13,7 +13,6 @@
   <ItemGroup>
     <Content Remove="wwwroot\css\app\" />
     <Content Remove="wwwroot\lib\fonts\" />
-    <Content Remove="Pages\Shared\_Menu.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\css\app\" />
