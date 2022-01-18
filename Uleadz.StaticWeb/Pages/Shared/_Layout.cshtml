@@ -3,14 +3,22 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Uleadz</title>
+    <title>@ViewData["Title"]  Uleadz</title>
     @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
-
+    <link rel="stylesheet" type="text/css" href="~/css/app/homepage.css" />
     <link rel="stylesheet" type="text/css" href="~/css/app/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="~/css/app/globals.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
     @await RenderSectionAsync("styles", required: false)
+
+    <script>
+        var Uleadz = {};
+        Uleadz.pageNmae = '@(Context.Request.Path)';
+    </script>
 </head>
 <body>
+   
 
 
     @if (Context.Request.IsMobileBrowser())
@@ -22,11 +30,11 @@
         <partial name="_Menu" />
     }
 
-        <div class="container-center-horizontal">
+    <div class="container-center-horizontal">
 
-            @RenderBody()
+        @RenderBody()
 
-        </div>
+    </div>
 
     }
 
@@ -39,11 +47,13 @@
         <partial name="_Footer" />
     }
 
-   
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
+   
     @await RenderSectionAsync("Scripts", required: false)
-</body>
+    </body>
 </html>

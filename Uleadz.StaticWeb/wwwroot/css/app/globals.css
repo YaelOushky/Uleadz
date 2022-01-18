@@ -29,3 +29,21 @@
 * {
   box-sizing: border-box;
 }
+#myDIV a.active{
+    border-bottom: 1px solid purple;
+}
+.arrow-11 {
+    position: absolute;
+    margin-top: 450px;
+    /*    margin-inline-end: 10px;*/
+    left: 175px;
+    z-index: 3;
+}
+.arrow-22 {
+    float: left;
+    position: absolute;
+    margin-top: 450px;
+    margin-inline-start: 10px;
+    z-index:3;
+}
+

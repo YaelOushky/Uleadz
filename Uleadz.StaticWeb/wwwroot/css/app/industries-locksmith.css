@@ -1047,7 +1047,7 @@
 }
 
     .industries-locksmith .ellipse-22 {
-        background-color: #ec52a000;
+        background-color:#4066ff00;
         height: 609px;
         left: 42px;
         position: absolute;
@@ -1114,14 +1114,15 @@
   min-width: 453px;
 }
 
-.industries-locksmith .flex-col-5 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 0.86px;
-  min-height: 534px;
-  width: 30px;
-}
+    .industries-locksmith .flex-col-5 {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0.86px;
+        min-height: 534px;
+        width: 30px;
+/*        margin-bottom: 96px;*/
+    }
 
 .industries-locksmith .line-50 {
   height: 45px;
@@ -1172,7 +1173,7 @@
 .industries-locksmith .flex-col-item {
   letter-spacing: -0.64px;
   line-height: 25.6px;
-  margin-top: 32px;
+  margin-top: 19px;
   min-height: 26px;
   opacity: 0.7;
   white-space: nowrap;
@@ -1275,32 +1276,35 @@
   width: 730px;
 }
 
-.industries-locksmith .ellipse-22-1 {
-  background-color: var(--blue-icons-);
-  height: 608px;
-  left: 82px;
-  position: absolute;
-  top: 147px;
-  width: 608px;
-}
+    .industries-locksmith .ellipse-22-1 {
+        background-color: #4066ff00;
+        height: 608px;
+        left: 82px;
+        position: absolute;
+        top: 147px;
+        width: 608px;
+        border-radius: 50%;
+    }
 
-.industries-locksmith .ellipse-24-1 {
-  background-color: var(--blue-icons-);
-  height: 524px;
-  left: 124px;
-  position: absolute;
-  top: 189px;
-  width: 524px;
-}
+    .industries-locksmith .ellipse-24-1 {
+        background-color: #4066ff00;
+        height: 524px;
+        left: 124px;
+        position: absolute;
+        top: 189px;
+        width: 524px;
+        border-radius: 50%;
+    }
 
-.industries-locksmith .ellipse-23-1 {
-  background-color: var(--blue-icons-);
-  height: 432px;
-  left: 170px;
-  position: absolute;
-  top: 235px;
-  width: 432px;
-}
+    .industries-locksmith .ellipse-23-1 {
+        background-color: #4066ff00;
+        height: 432px;
+        left: 170px;
+        position: absolute;
+        top: 235px;
+        width: 432px;
+        border-radius: 50%;
+    }
 
 .industries-locksmith .mansgement-1-1 {
   height: 719px;

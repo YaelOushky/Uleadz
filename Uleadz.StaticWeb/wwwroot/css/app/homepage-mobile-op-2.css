@@ -25,7 +25,18 @@
     position: absolute;
     margin-inline-start: 38px;
 }
-
+.image-111 {
+    height: 28px;
+    object-fit: cover;
+    width: 90px;
+    z-index: 2;
+}
+.purple {
+    color: #5a359d !important;
+}
+.white{
+    color:white;
+}
 /* .menu {
   height: 32px;
   margin-left: 193px;
@@ -36,15 +47,33 @@
     width: 32px;
     float: right;
     margin: 30px;
+    margin-inline-start: 325px;
 }
-
+.offcanvas{
+bottom:auto !important;
+}
+.offcanvas-end {
+    width: 350px !important;
+    border-radius: 5px 0px 0px 5px;
+}
+.offcanvas-body {
+    flex-grow: 1;
+    padding: 1rem 2rem !important;
+    overflow-y: auto;
+}
+.offcanvas-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 2rem !important;
+}
 .homepage-mobile-op-2 .overlap-group9 {
-  align-self: flex-start;
-  height: 580px;
-  margin-left: -63px;
-  margin-top: 93px;
-  position: relative;
-  width: 535px;
+    align-self: flex-start;
+    height: 580px;
+    margin-left: -63px;
+    margin-top: 93px;
+    position: relative;
+    width: 535px;
 }
 
 .homepage-mobile-op-2 .overlap-group {
@@ -159,31 +188,33 @@
     min-width: 311px;
     padding: 15.0px 73.2px;
     padding-top: 19px;
+    z-index:2;
 }
 
 .homepage-mobile-op-2 .vector {
     align-self: center;
     height: 14px;
     width: 14px;
-    margin-bottom: 7px;
+    margin-bottom: 7;
 }
-
-.homepage-mobile-op-2 .download-for-i-os {
-  letter-spacing: 0;
-  margin-left: 14px;
-  min-height: 24px;
+.homepage-mobile-op-2 .download-for-i-os{
+    letter-spacing: 0;
+    margin-left: 14px;
+    min-height: 24px;
+    margin-top: -3px;
 }
 
 .homepage-mobile-op-2 .overlap-group4 {
-  align-items: flex-start;
-  background-image: url(../../lib/img/frame-3-3@2x.png);
-  background-size: 100% 100%;
-  display: flex;
-  height: 54px;
-  margin-top: 16px;
-  min-width: 311px;
-  padding: 13.0px 43.0px;
-  padding-top:19px;
+    align-items: flex-start;
+    background-image: url(../../lib/img/frame-3-3@2x.png);
+    background-size: 100% 100%;
+    display: flex;
+    height: 54px;
+    margin-top: 16px;
+    min-width: 311px;
+    padding: 13.0px 43.0px;
+    padding-top: 19px;
+    z-index: 2;
 }
 
 .homepage-mobile-op-2 .group-2 {
@@ -199,6 +230,7 @@
   margin-left: 11px;
   min-height: 28px;
   width: 189px;
+  margin-top: -3px;
 }
 
 .homepage-mobile-op-2 .group-1736 {
@@ -566,6 +598,7 @@
   text-align: center;
   white-space: nowrap;
   width: 57.06px;
+  padding-bottom:13px;
 }
 
 .homepage-mobile-op-2 .group-1747 {

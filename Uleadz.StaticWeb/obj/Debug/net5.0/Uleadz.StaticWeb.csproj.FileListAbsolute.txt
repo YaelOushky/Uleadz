@@ -771,3 +771,5 @@
 /Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/Uleadz.StaticWeb.pdb
 /Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/Uleadz.StaticWeb.genruntimeconfig.cache
 /Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/Uleadz.StaticWeb.csproj.AssemblyReference.cache
+/Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/Razor/Pages/Shared/_IndustriesLocksmith.cshtml.g.cs
+/Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/obj/Debug/net5.0/Razor/Pages/Shared/_IndustriesLocksmithMobile.cshtml.g.cs

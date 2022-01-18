@@ -5,7 +5,7 @@
   background-color: var(--ffffff);
   display: flex;
   flex-direction: column;
-  height: 6107px;
+  height: 5400px;
   overflow: hidden;
   padding: 30.4px 0;
   width: 375px;
@@ -495,15 +495,16 @@
   width: 32px;
 }
 
-.industries-mobile2 .seach-for-industries {
-  letter-spacing: 0;
-  line-height: 24px;
-  margin-left: 18px;
-  min-height: 24px;
-  min-width: 158px;
-  opacity: 0.5;
-  white-space: nowrap;
-}
+    .industries-mobile2 .seach-for-industries {
+        letter-spacing: 0;
+        line-height: 24px;
+        margin-left: 18px;
+        min-height: 24px;
+        min-width: 158px;
+        opacity: 0.5;
+        white-space: nowrap;
+        background-color: var(--desert-storm);
+    }
 
 .industries-mobile2 .overlap-group-container {
   align-items: flex-start;
@@ -813,32 +814,32 @@
   width: 327px;
 }
 
-.industries-mobile2 .ellipse-22 {
-  background-color: var(--azure-radiance);
-  height: 308px;
-  left: 15px;
-  position: absolute;
-  top: 4px;
-  width: 308px;
-}
+    .industries-mobile2 .ellipse-22 {
+        background-color: #009cff00;
+        height: 308px;
+        left: 15px;
+        position: absolute;
+        top: 4px;
+        width: 308px;
+    }
 
-.industries-mobile2 .ellipse-24 {
-  background-color: var(--azure-radiance);
-  height: 266px;
-  left: 36px;
-  position: absolute;
-  top: 25px;
-  width: 266px;
-}
+    .industries-mobile2 .ellipse-24 {
+        background-color: #009cff00;
+        height: 266px;
+        left: 36px;
+        position: absolute;
+        top: 25px;
+        width: 266px;
+    }
 
-.industries-mobile2 .ellipse-23 {
-  background-color: var(--azure-radiance);
-  height: 218px;
-  left: 59px;
-  position: absolute;
-  top: 48px;
-  width: 219px;
-}
+    .industries-mobile2 .ellipse-23 {
+        background-color: #009cff00;
+        height: 218px;
+        left: 59px;
+        position: absolute;
+        top: 48px;
+        width: 219px;
+    }
 
 .industries-mobile2 .mansgement-1 {
   height: 190px;
@@ -970,32 +971,32 @@
   width: 424px;
 }
 
-.industries-mobile2 .ellipse-22-1 {
-  background-color: var(--brilliant-rose);
-  height: 373px;
-  left: 25px;
-  position: absolute;
-  top: 63px;
-  width: 373px;
-}
+    .industries-mobile2 .ellipse-22-1 {
+        background-color: #ec52a000;
+        height: 373px;
+        left: 25px;
+        position: absolute;
+        top: 63px;
+        width: 373px;
+    }
 
-.industries-mobile2 .ellipse-24-1 {
-  background-color: var(--brilliant-rose);
-  height: 322px;
-  left: 51px;
-  position: absolute;
-  top: 89px;
-  width: 322px;
-}
+    .industries-mobile2 .ellipse-24-1 {
+        background-color: #ec52a000;
+        height: 322px;
+        left: 51px;
+        position: absolute;
+        top: 89px;
+        width: 322px;
+    }
 
-.industries-mobile2 .ellipse-23-1 {
-  background-color: var(--brilliant-rose);
-  height: 265px;
-  left: 79px;
-  position: absolute;
-  top: 117px;
-  width: 265px;
-}
+    .industries-mobile2 .ellipse-23-1 {
+        #ec52a000var(--brilliant-rose);
+        height: 265px;
+        left: 79px;
+        position: absolute;
+        top: 117px;
+        width: 265px;
+    }
 
 .industries-mobile2 .mansgement-1-1 {
   height: 317px;
@@ -1180,7 +1181,7 @@
 
 .industries-mobile2 .overlap-group-container-2 {
   align-self: flex-start;
-  height: 1346px;
+/*  height: 1346px;*/
   margin-top: 60px;
   position: relative;
   width: 1178px;

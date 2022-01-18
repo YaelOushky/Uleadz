@@ -1,6 +1,44 @@
 ﻿<header class="nav">
     <div class="flex-row">
         <img class="image-11" src="~/lib/img/image-1@2x.png" />
-        <img class="menu" src="~/lib/img/menu@2x.png" />
+
+        <span type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+            <img class="menu" src="~/lib/img/menu@2x.png" />
+        </span>
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><img class="image-111" src="~/lib/img/image-1@2x.png" /></h5>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3 purple">
+                   
+                    <li class="nav-item ">
+                        <a class="nav-link purple" href="/index">Home</a>
+                    </li>
+                    <li class="nav-item ">
+                             <a class="nav-link purple" href="/why-uleadz">Why Uleadz</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link purple" href="/industries-locksmith">Industries</a>
+                    </li>
+                    <li class="nav-item ">
+                              <a class="nav-link purple" href="/about-us"> About Us</a>
+                    </li>
+                    <li class="nav-item ">
+                              <a class="nav-link purple" href="/pricing"> Pricing</a>
+                    </li>
+                    <li class="nav-item ">
+                              <a class="nav-link purple" href="/contact"> Contact</a>
+                    </li> <li class="nav-item ">
+                              <a class="nav-link purple" href="/help-documentation"><span >Help</span> </a>
+                    </li>
+                
+      
+                </ul>
+
+            </div>
+        </div>
+    
     </div>
 </header>

@@ -1,33 +1,31 @@
 ﻿<Properties StartupConfiguration="{E0C6E4D9-8531-44B5-B85A-4569E4B7123E}|Default">
   <MonoDevelop.Ide.ItemProperties.Uleadz.StaticWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Uleadz.StaticWeb/wwwroot/css/app/help-documentation.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Uleadz.StaticWeb/Pages/Shared/_Pricing.cshtml">
     <Files>
-      <File FileName="Uleadz.StaticWeb/Pages/about-us.cshtml" Line="16" Column="9" />
-      <File FileName="Uleadz.StaticWeb/Pages/industries-locksmith.cshtml" Line="125" Column="95" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/homepage.css" Line="1314" Column="19" />
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Contact.cshtml" Line="63" Column="29" />
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_HelpDocumentation.cshtml" Line="109" Column="44" />
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_ContactMobile.cshtml" Line="39" Column="75" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/contact-mobile.css" Line="190" Column="26" />
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_HelpDocumentationMobile.cshtml" Line="123" Column="27" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/help-documentation-mobile.css" Line="416" Column="22" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/help-documentation.css" Line="1" Column="1" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/_WhyUleadz.cshtml" Line="66" Column="67" />
+      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/globals.css" Line="5" Column="8" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Uleadz.StaticWeb/wwwroot/js/site.js" Line="52" Column="1" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/_AboutUs.cshtml" Line="67" Column="41" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Pricing.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Uleadz.StaticWeb" expanded="True">
             <Node name="Uleadz.StaticWeb" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Properties" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Pricing.cshtml" selected="True" />
+                </Node>
+              </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True">
-                  <Node name="app" expanded="True">
-                    <Node name="help-documentation.css" selected="True" />
-                  </Node>
+                  <Node name="app" expanded="True" />
                 </Node>
                 <Node name="js" expanded="True" />
               </Node>
