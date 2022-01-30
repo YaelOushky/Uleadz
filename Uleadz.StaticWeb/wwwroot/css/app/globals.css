@@ -3,47 +3,130 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600");
 
 .screen a {
-  display: contents;
-  text-decoration: none;
+    display: contents;
+    text-decoration: none;
 }
 
 .container-center-horizontal {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  pointer-events: none;
-  width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
 }
 
-.container-center-horizontal > * {
-  flex-shrink: 0;
-  pointer-events: auto;
-}
+    .container-center-horizontal > * {
+        flex-shrink: 0;
+        pointer-events: auto;
+    }
 
 .valign-text-middle {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
-#myDIV a.active{
+
+#myDIV a.active {
     border-bottom: 1px solid purple;
 }
+
 .arrow-11 {
     position: absolute;
     margin-top: 450px;
     /*    margin-inline-end: 10px;*/
-    left: 175px;
+    left: 140px;
     z-index: 3;
 }
+
+.arrow-111 {
+    position: absolute;
+    margin-top: 353px;
+    /*    margin-inline-end: 10px;*/
+    /*    left: 175px;*/
+    z-index: 3;
+}
+
+.arrow-1111 {
+    position: absolute;
+    margin-top: 201px;
+    /*    margin-inline-end: 10px;*/
+    left: -42px;
+    z-index: 3;
+}
+
 .arrow-22 {
     float: left;
     position: absolute;
     margin-top: 450px;
-    margin-inline-start: 10px;
-    z-index:3;
+    margin-inline-start: 35px;
+    z-index: 3;
 }
 
+.arrow-222 {
+    /*    float: left;*/
+    position: absolute;
+    margin-top: 350px;
+    margin-inline-start: 340px;
+    z-index: 3;
+}
+
+.arrow-2222 {
+    /*    float: left;*/
+    position: absolute;
+    margin-top: 199px;
+    margin-inline-start: 285px;
+    z-index: 3;
+}
+
+.disable {
+    display: none !important;
+}
+
+#features {
+    position: relative;
+}
+
+    #features #nav {
+        position: absolute;
+        top: 40%;
+        width: 100%;
+        z-index: 998;
+    }
+
+        #features #nav #prev, #holder-totals #nav #next {
+            position: absolute;
+            text-align: center;
+            padding-top: 3px;
+            cursor: pointer;
+            font-weight: bold;
+            background-color: #fff;
+            color: #040818;
+            border-radius: 50%;
+            width: 25px;
+            height: 25px;
+            box-shadow: 0 1px 6px rgba(0,0,0,.344622);
+        }
+
+            #features #nav #prev:after, #holder-totals #nav #next:after {
+                background-image: url("/assets/images/right-arrow.png");
+                left: 9px;
+                top: 8px;
+                background-repeat: no-repeat;
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                content: "";
+            }
+
+        #features #nav #prev {
+            left: -6px;
+            transform: translateX(0) translateY(0) rotate(180deg);
+        }
+
+        #features #nav #next {
+            right: -11px;
+        }

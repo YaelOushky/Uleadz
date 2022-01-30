@@ -1384,16 +1384,17 @@
   overflow-x: scroll;
 }
 
-.industries-locksmith .overlap-group-9 {
-  align-items: flex-start;
-  background-color: var(--ffffff);
-  border-radius: 19px;
-  display: flex;
-  flex-direction: column;
-  min-height: 509px;
-  padding: 38px 23px;
-  width: 350px;
-}
+    .industries-locksmith .overlap-group-9 {
+        align-items: flex-start;
+        background-color: var(--ffffff);
+        border-radius: 19px;
+        display: flex;
+        flex-direction: column;
+        min-height: 509px;
+        padding: 38px 23px;
+        width: 350px;
+        margin-left: 24px;
+    }
 
 .industries-locksmith .purse-1 {
   height: 118px;

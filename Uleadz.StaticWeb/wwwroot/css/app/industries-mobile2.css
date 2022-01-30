@@ -205,7 +205,7 @@
 .industries-mobile2 .group-1803 {
   display: flex;
   height: 400px;
-  left: 24px;
+  left: 52px;
   position: absolute;
   top: 452px;
   width: 1152px;
@@ -1222,13 +1222,14 @@
   width: 1152px;
 }
 
-.industries-mobile2 .group-522 {
-  align-items: flex-start;
-  display: flex;
-  height: 400.98px;
-  margin-top: 115.0px;
-  min-width: 279.99px;
-}
+    .industries-mobile2 .group-522 {
+        align-items: flex-start;
+        display: flex;
+        height: 400.98px;
+        margin-top: 115.0px;
+        min-width: 279.99px;
+        margin-inline-start:24px;
+    }
 
 .industries-mobile2 .overlap-group-5 {
   align-items: flex-start;

@@ -2,22 +2,19 @@
   <MonoDevelop.Ide.ItemProperties.Uleadz.StaticWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Uleadz.StaticWeb/Pages/Shared/_Pricing.cshtml">
     <Files>
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_WhyUleadz.cshtml" Line="66" Column="67" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/globals.css" Line="5" Column="8" />
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/js/site.js" Line="52" Column="1" />
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_AboutUs.cshtml" Line="67" Column="41" />
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Pricing.cshtml" Line="1" Column="1" />
+      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/globals.css" Line="58" Column="4" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Layout.cshtml" />
+      <File FileName="Uleadz.StaticWeb/wwwroot/js/site.js" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/_AboutUs.cshtml" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Pricing.cshtml" Line="185" Column="1" />
+      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/pricing.css" />
+      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/about-us.css" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Uleadz.StaticWeb" expanded="True">
             <Node name="Uleadz.StaticWeb" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
               <Node name="Pages" expanded="True">
                 <Node name="Shared" expanded="True">
                   <Node name="_Pricing.cshtml" selected="True" />
@@ -27,7 +24,6 @@
                 <Node name="css" expanded="True">
                   <Node name="app" expanded="True" />
                 </Node>
-                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>

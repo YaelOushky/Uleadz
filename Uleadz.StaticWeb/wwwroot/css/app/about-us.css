@@ -325,6 +325,7 @@
   height: 32px;
   margin-top: 422.56px;
   width: 32px;
+  z-index:3;
 }
 
 .about-us .flex-col {
@@ -332,7 +333,7 @@
   display: flex;
   flex-direction: column;
   min-height: 730px;
-  width: 1121px;
+/*  width: 1121px;*/
 }
 
 .about-us .flex-row-1 {
@@ -424,7 +425,7 @@
   flex-direction: column;
   min-height: 309px;
   padding: 28px 41px;
-  width: 510px;
+/*  width: 510px;*/
 }
 
 .about-us .if-you-are-looking {
@@ -439,7 +440,7 @@
   margin-left: 63px;
   margin-top: 40px;
   position: relative;
-  width: 171px;
+/*  width: 171px;*/
 }
 
 .about-us .name {
@@ -495,12 +496,15 @@
   white-space: nowrap;
 }
 
-.about-us .arrow-right-1 {
-  height: 32px;
-  margin-left: 45px;
-  margin-top: 421.44px;
-  width: 32px;
-}
+    .about-us .arrow-right-1 {
+      
+        height: 32px;
+        margin-left: 1060px;
+        margin-top: 552.56px;
+        width: 32px;
+        z-index: 3;
+        position: absolute;
+    }
 
 .about-us .footer {
   align-items: flex-start;
