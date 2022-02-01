@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  padding: 30px 0;
+/*  padding: 30px 0;*/
   width: 375px;
 }
 
@@ -888,7 +888,7 @@ bottom:auto !important;
   display: flex;
   height: 724px;
   margin-left: 4.0px;
-  margin-top: 42px;
+/*  margin-top: 42px;*/
   min-width: 379px;
 }
 

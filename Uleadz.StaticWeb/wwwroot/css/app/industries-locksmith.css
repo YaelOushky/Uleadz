@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  padding: 33px 0;
+/*  padding: 33px 0;*/
   width: 1366px;
 }
 
@@ -1361,7 +1361,7 @@
   flex-direction: column;
   margin-top: 52px;
   min-height: 672px;
-  width: 1136px;
+  width: 1217px;
 }
 
 .industries-locksmith .packed-with-features {

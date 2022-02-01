@@ -415,7 +415,7 @@
 .help-documentation-mobile .group-container-1 {
 /*  height: 1436px;*/
   margin-left: 4.0px;
-  margin-top: 59px;
+/*  margin-top: 59px;*/
   position: relative;
   width: 379px;
 }
@@ -441,7 +441,7 @@
 
 .help-documentation-mobile .overlap-group1 {
   align-items: center;
-  background-color: var(--alabaster);
+/*  background-color: var(--al abaster);*/
   display: flex;
   flex-direction: column;
   min-height: 712px;
