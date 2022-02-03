@@ -130,3 +130,26 @@
         #features #nav #next {
             right: -11px;
         }
+
+.footer-links {
+    margin-top:500px;
+    display: flex;
+    justify-content: space-around;
+    background-color:azure;
+     
+}
+.contact-links {
+    top: 398px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: space-around;
+    height: 100%;
+    width: 100%;
+}
+.footer-left {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}

@@ -6,14 +6,15 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  width: 1366px;
+  width: 100%;
+  justify-content:center;
 }
 
 .help-documentation .overlap-group7 {
   height: 1634px;
   margin-top: -255px;
   position: relative;
-  width: 2400px;
+  width: 100%;
 }
 
 .help-documentation .image-1 {

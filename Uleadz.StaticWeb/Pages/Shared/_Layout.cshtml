@@ -23,11 +23,11 @@
 
     @if (Context.Request.IsMobileBrowser())
     {
-        <partial name="_MenuMobile" />
+        <partial name="Shared/Menu/_MenuMobile" />
     }
     else
     {
-        <partial name="_Menu" />
+        <partial name="Shared/Menu/_Menu" />
     }
 
     <div class="container-center-horizontal">
@@ -40,11 +40,11 @@
 
     @if (Context.Request.IsMobileBrowser())
     {
-        <partial name="_FooterMobile" />
+        <partial name="Shared/Footer/_FooterMobile" />
     }
     else
     {
-        <partial name="_Footer" />
+        <partial name="Shared/Footer/_Footer" />
     }
 
 

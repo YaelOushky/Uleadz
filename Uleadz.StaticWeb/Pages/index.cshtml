@@ -9,12 +9,12 @@
 <body>
     @if (Request.IsMobileBrowser())
     {
-        <partial name="_HomePageMobile" />
+        <partial name="Shared/HomePage/_HomePageMobile" />
 
     }
     else
     {
-        <partial name="_HomePage" />
+        <partial name="Shared/HomePage/_HomePage" />
     }
 
 </body>

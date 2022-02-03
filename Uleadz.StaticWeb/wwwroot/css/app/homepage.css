@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  width: 1366px;
+  width: 100%;
 }
 .nav{
     top:0px;
@@ -15,20 +15,23 @@
     align-self: flex-start;
     height: 1863px;
     margin-top: -174px;
-    position: relative;
-    width: 1845px;f
-  position: absolute;
+    width: 1845px;
+  position: relative;
   top: 0;
-  width: 1845px;
+  width: 100%;
 }
-
+.home-flex{
+    display:flex;
+    justify-content:space-around;
+    flex-direction:row;
+}
 .homepage .x1207_vw50a-x-rs-zw-qt-mg-1 {
-  height: 1621px;
-  left: 224px;
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  width: 1621px;
+    height: 1621px;
+    left: 224px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 100%;
 }
 
 .homepage .ellipse-21 {
@@ -43,16 +46,19 @@
 }
 
 .homepage .group-8 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 99px;
-  min-height: 426px;
-  position: absolute;
-  top: 382px;
-  width: 557px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    /* left: 99px; */
+    min-height: 426px;
+    /* position: absolute; */
+    top: 382px;
+    /* width: 100%; */
+    margin-top: 355px;
 }
-
+.homepage-img{
+    margin-top: 177px;
+}
 .homepage .the-easiest-way-to-g {
   color: var(--black);
   font-family: var(--font-family-poppins);
@@ -189,9 +195,9 @@
   background-color: #fafafa;
   display: flex;
   height: 923px;
-  justify-content: flex-end;
-  left: 0;
-  min-width: 1366px;
+  justify-content: center;
+/*  left: 0;*/
+  min-width: 100%;
   padding: 0 99px;
   position: absolute;
   top: 940px;
@@ -340,8 +346,9 @@
 
 .homepage .browse-more {
   letter-spacing: -0.64px;
-  min-height: 24px;
+  min-height: 57px;
   min-width: 96px;
+  text-align:center;
 }
 
 .homepage .overlap-group2 {
@@ -351,7 +358,7 @@
   display: flex;
   flex-direction: column;
   margin-left: 38px;
-  min-height: 466px;
+  min-height: 536px;
   padding: 56px 32px;
   width: 363px;
 }
@@ -769,25 +776,28 @@
   margin-top: 78px;
   min-height: 1129px;
   padding: 152px 119px;
-  width: 1366px;
+  width: 100%;
 }
 
 .homepage .top-features-weve {
   align-self: center;
   letter-spacing: -2.00px;
   line-height: 65px;
-  margin-left: 1.0px;
+/*  margin-left: 1.0px;*/
   min-height: 195px;
-  min-width: 829px;
+  min-width: 100%;
   text-align: center;
+  justify-content:center;
 }
 
 .homepage .flex-row-3 {
-  align-items: flex-start;
+  align-items: center;
+  flex-direction:row;
   display: flex;
   height: 562px;
   margin-top: 68px;
-  min-width: 1126px;
+  min-width: 100%;
+  justify-content: center;
 }
 
 .homepage .group-container {
@@ -945,7 +955,8 @@
   display: flex;
   margin-right: 1.0px;
   margin-top: 163px;
-  min-width: 1123px;
+  min-width: 100%;
+  justify-content:center;
 }
 
 .homepage .group-478 {
@@ -1079,22 +1090,27 @@
   height: 691px;
   margin-left: 2.0px;
 /*  margin-top: 162px;*/
-  min-width: 1368px;
+  min-width: 100%;
 }
 
 .homepage .overlap-group4 {
   height: 692px;
   margin-top: -1px;
   position: relative;
-  width: 1366px;
+  width: 100%
+  ;
 }
-
+.homepage .flex{
+    display:flex;
+}
 .homepage .rectangle-170 {
   height: 691px;
   left: 0;
   position: absolute;
   top: 1px;
-  width: 1366px;
+  width: 100%;
+  background-size:cover;
+  object-fit:cover;
 }
 
 .homepage .line-41 {
@@ -1106,14 +1122,14 @@
 }
 
 .homepage .group-484 {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  left: 244px;
-  min-height: 243px;
-  position: absolute;
-  top: 92px;
-  width: 880px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    /* left: 244px; */
+    min-height: 243px;
+    position: absolute;
+    top: 92px;
+    width: 100%;
 }
 
 .homepage .stay-ahead-of-the-ga {
@@ -1150,10 +1166,10 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 136px;
+/*  left: 136px;*/
   min-height: 184px;
-  position: absolute;
-  top: 398px;
+/*  position: absolute;*/
+/*  top: 398px;*/
   width: 106px;
 }
 
@@ -1190,11 +1206,11 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 632px;
+/*  left: 632px;
   min-height: 144px;
   position: absolute;
   top: 398px;
-  width: 110px;
+  width: 110px;*/
 }
 
 .homepage .industries-1 {
@@ -1221,21 +1237,21 @@
 }
 
 .homepage .hellouleadzcom {
-  height: 24px;
-  left: 1105px;
+/*  height: 24px;
+  left: 1105px;*/
   letter-spacing: -0.48px;
-  position: absolute;
-  top: 486px;
+/*  position: absolute;
+  top: 486px;*/
 }
 
 .homepage .group-144 {
   align-items: flex-start;
   display: flex;
-  height: 25px;
+/*  height: 25px;
   left: 1119px;
   min-width: 124px;
   position: absolute;
-  top: 526px;
+  top: 526px;*/
 }
 
 .homepage .overlap-group3 {
@@ -1303,11 +1319,11 @@
 }
 
 .homepage .uleadz1-1 {
-  height: 72px;
-  left: 1143px;
+/*  height: 72px;
+  left: 1143px;*/
   object-fit: cover;
-  position: absolute;
-  top: 398px;
+/*  position: absolute;
+  top: 398px;*/
   width: 72px;
 }
 

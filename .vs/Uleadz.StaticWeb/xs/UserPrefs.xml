@@ -1,14 +1,11 @@
 ﻿<Properties StartupConfiguration="{E0C6E4D9-8531-44B5-B85A-4569E4B7123E}|Default">
   <MonoDevelop.Ide.ItemProperties.Uleadz.StaticWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Uleadz.StaticWeb/wwwroot/css/app/help-documentation-mobile.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Uleadz.StaticWeb/wwwroot/css/app/globals.css">
     <Files>
-      <File FileName="Uleadz.StaticWeb/Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/js/site.js" Line="48" Column="38" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/homepage-mobile-op-2.css" Line="891" Column="24" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/why-uleadz-mobile.css" Line="9" Column="23" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/about-us-mobile.css" Line="10" Column="23" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/pricing-v2-mobile.css" Line="9" Column="25" />
-      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/help-documentation-mobile.css" Line="418" Column="20" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/HomePage/_HomePage.cshtml" Line="48" Column="32" />
+      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/homepage.css" Line="1093" Column="18" />
+      <File FileName="Uleadz.StaticWeb/Pages/Shared/Footer/_Footer.cshtml" Line="12" Column="44" />
+      <File FileName="Uleadz.StaticWeb/wwwroot/css/app/globals.css" Line="134" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,12 +13,15 @@
           <Node name="Uleadz.StaticWeb" expanded="True">
             <Node name="Uleadz.StaticWeb" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Footer" expanded="True" />
+                  <Node name="HomePage" expanded="True" />
+                </Node>
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True">
                   <Node name="app" expanded="True">
-                    <Node name="help-documentation-mobile.css" selected="True" />
+                    <Node name="globals.css" selected="True" />
                   </Node>
                 </Node>
                 <Node name="js" expanded="True" />
@@ -35,9 +35,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/yaeloushky/Desktop/dev/Uleadz/Uleadz.StaticWeb/Uleadz.StaticWeb/Pages/Shared/_HomePage.cshtml" relfile="Uleadz.StaticWeb/Pages/Shared/_HomePage.cshtml" line="1" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-/*  padding: 30px 0;*/
+  padding: 30px 0;
   width: 375px;
 }
 
@@ -272,7 +272,7 @@ bottom:auto !important;
 .homepage-mobile-op-2 .rectangle-171 {
   background-color: var(--ffffff);
   border-radius: 26.12px;
-  height: 340px;
+  height: 362px;
   left: 0;
   position: absolute;
   top: 0;
@@ -312,7 +312,7 @@ bottom:auto !important;
   display: flex;
   flex-direction: column;
   margin-left: 1.0px;
-  margin-top: 40px;
+  margin-top: 60px;
   min-height: 340px;
   padding: 26.0px 15px;
   width: 316px;
@@ -376,13 +376,14 @@ bottom:auto !important;
 }
 
 .homepage-mobile-op-2 .uleadz-field-service {
-  align-self: flex-end;
-  letter-spacing: 0;
-  line-height: 25.2px;
-  margin-top: 20px;
-  min-height: 100px;
-  min-width: 288px;
-  opacity: 0.5;
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: 25.2px;
+    margin-top: 20px;
+    min-height: 100px;
+    min-width: 288px;
+    opacity: 0.5;
+    padding-inline-start: 13px;
 }
 
 .homepage-mobile-op-2 .frame-4 {

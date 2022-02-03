@@ -15,6 +15,7 @@
 
             $elem.addClass("disable");
             $('.paginations').css("margin-left", "200px");
+            $(".overlap-group4").css("justify-content", "");
 
             $('.paginations').animate({
                 marginLeft: 0
@@ -30,7 +31,9 @@
             $('.paginations').animate({
                 marginLeft: '200px'
             }, 400, function () {
-                $('.paginations').css("margin-left", "0");
+                    $('.paginations').css("margin-left", "0");
+                    $(".overlap-group4").css("justify-content", "end");
+
                 $elem.removeClass("disable");
                 handlePrevNextButtons();
 
@@ -40,12 +43,10 @@
         function handlePrevNextButtons() {
             if ($('.paginations .pagination[data-index="first"]').hasClass("disable")) {
                 $("#prev").removeClass("disable");
-                $(".overlap-group4").css("justify-content", "");
             }
 
             if (!checkVisible($('.paginations .pagination[data-index="last"]')[0])) {
                 $("#next").removeClass("disable");
-                $(".overlap-group4").css("justify-content", "end");
             }
         }
 
